@@ -1,0 +1,747 @@
+Year,Month,Product,State,Requirement(in' MT),Availability(in' MT)
+2015-2016,September,DAP,Andaman & Nicobar,0.00,1000.00
+2015-2016,September,MAP,Andaman & Nicobar,0.00,0.00
+2015-2016,September,MOP,Andaman & Nicobar,0.00,0.00
+2015-2016,September,NPK,Andaman & Nicobar,0.00,500.00
+2015-2016,September,TSP,Andaman & Nicobar,0.00,0.00
+2015-2016,September,UREA,Andaman & Nicobar,0.00,0.00
+2015-2016,September,SSP,Andaman & Nicobar,0.00,0.00
+2015-2016,September,DAP,Andhra Pradesh,0.00,15740.15
+2015-2016,September,MAP,Andhra Pradesh,0.00,0.00
+2015-2016,September,MOP,Andhra Pradesh,0.00,20792.55
+2015-2016,September,NPK,Andhra Pradesh,0.00,59405.46
+2015-2016,September,TSP,Andhra Pradesh,0.00,0.00
+2015-2016,September,UREA,Andhra Pradesh,0.00,12990.30
+2015-2016,September,SSP,Andhra Pradesh,0.00,0.00
+2015-2016,September,DAP,Arunachal Pradesh,0.00,0.00
+2015-2016,September,MAP,Arunachal Pradesh,0.00,0.00
+2015-2016,September,MOP,Arunachal Pradesh,0.00,0.00
+2015-2016,September,NPK,Arunachal Pradesh,0.00,0.00
+2015-2016,September,TSP,Arunachal Pradesh,0.00,0.00
+2015-2016,September,UREA,Arunachal Pradesh,0.00,0.00
+2015-2016,September,SSP,Arunachal Pradesh,0.00,0.00
+2015-2016,September,DAP,Assam,0.00,8265.75
+2015-2016,September,MAP,Assam,0.00,0.00
+2015-2016,September,MOP,Assam,0.00,6425.65
+2015-2016,September,NPK,Assam,0.00,5067.40
+2015-2016,September,TSP,Assam,0.00,0.00
+2015-2016,September,UREA,Assam,0.00,6447.80
+2015-2016,September,SSP,Assam,0.00,0.00
+2015-2016,September,DAP,Bihar,0.00,40314.30
+2015-2016,September,MAP,Bihar,0.00,0.00
+2015-2016,September,MOP,Bihar,0.00,28151.90
+2015-2016,September,NPK,Bihar,0.00,62458.85
+2015-2016,September,TSP,Bihar,0.00,7673.75
+2015-2016,September,UREA,Bihar,0.00,11647.35
+2015-2016,September,SSP,Bihar,0.00,0.00
+2015-2016,September,DAP,Chandigarh,0.00,0.00
+2015-2016,September,MAP,Chandigarh,0.00,0.00
+2015-2016,September,MOP,Chandigarh,0.00,0.00
+2015-2016,September,NPK,Chandigarh,0.00,0.00
+2015-2016,September,TSP,Chandigarh,0.00,0.00
+2015-2016,September,UREA,Chandigarh,0.00,0.00
+2015-2016,September,SSP,Chandigarh,0.00,0.00
+2015-2016,September,DAP,Chattishgarh,0.00,12156.11
+2015-2016,September,MAP,Chattishgarh,0.00,0.00
+2015-2016,September,MOP,Chattishgarh,0.00,21150.80
+2015-2016,September,NPK,Chattishgarh,0.00,5282.84
+2015-2016,September,TSP,Chattishgarh,0.00,3858.25
+2015-2016,September,UREA,Chattishgarh,0.00,3087.95
+2015-2016,September,SSP,Chattishgarh,0.00,0.00
+2015-2016,September,DAP,Dadra & Nagar Haveli,0.00,12.25
+2015-2016,September,MAP,Dadra & Nagar Haveli,0.00,0.00
+2015-2016,September,MOP,Dadra & Nagar Haveli,0.00,0.00
+2015-2016,September,NPK,Dadra & Nagar Haveli,0.00,0.00
+2015-2016,September,TSP,Dadra & Nagar Haveli,0.00,0.00
+2015-2016,September,UREA,Dadra & Nagar Haveli,0.00,8.10
+2015-2016,September,SSP,Dadra & Nagar Haveli,0.00,0.00
+2015-2016,September,DAP,Daman & Diu,0.00,0.00
+2015-2016,September,MAP,Daman & Diu,0.00,0.00
+2015-2016,September,MOP,Daman & Diu,0.00,0.00
+2015-2016,September,NPK,Daman & Diu,0.00,0.00
+2015-2016,September,TSP,Daman & Diu,0.00,0.00
+2015-2016,September,UREA,Daman & Diu,0.00,0.00
+2015-2016,September,SSP,Daman & Diu,0.00,0.00
+2015-2016,September,DAP,Delhi,200.00,258.95
+2015-2016,September,MAP,Delhi,0.00,0.00
+2015-2016,September,MOP,Delhi,0.00,0.00
+2015-2016,September,NPK,Delhi,0.00,0.00
+2015-2016,September,TSP,Delhi,0.00,0.00
+2015-2016,September,UREA,Delhi,200.00,0.00
+2015-2016,September,SSP,Delhi,0.00,0.00
+2015-2016,September,DAP,Goa,0.00,21.15
+2015-2016,September,MAP,Goa,0.00,0.00
+2015-2016,September,MOP,Goa,0.00,0.00
+2015-2016,September,NPK,Goa,0.00,2.40
+2015-2016,September,TSP,Goa,0.00,0.00
+2015-2016,September,UREA,Goa,0.00,7.90
+2015-2016,September,SSP,Goa,0.00,0.00
+2015-2016,September,DAP,Gujarat,0.00,42727.68
+2015-2016,September,MAP,Gujarat,0.00,0.00
+2015-2016,September,MOP,Gujarat,0.00,1912.45
+2015-2016,September,NPK,Gujarat,0.00,27222.16
+2015-2016,September,TSP,Gujarat,0.00,6313.85
+2015-2016,September,UREA,Gujarat,0.00,16368.49
+2015-2016,September,SSP,Gujarat,0.00,0.00
+2015-2016,September,DAP,Harayana,0.00,37329.00
+2015-2016,September,MAP,Harayana,0.00,0.00
+2015-2016,September,MOP,Harayana,0.00,13042.65
+2015-2016,September,NPK,Harayana,0.00,11995.05
+2015-2016,September,TSP,Harayana,0.00,0.00
+2015-2016,September,UREA,Harayana,0.00,9596.30
+2015-2016,September,SSP,Harayana,0.00,0.00
+2015-2016,September,DAP,Himachal Pradesh,0.00,0.00
+2015-2016,September,MAP,Himachal Pradesh,0.00,0.00
+2015-2016,September,MOP,Himachal Pradesh,0.00,0.00
+2015-2016,September,NPK,Himachal Pradesh,0.00,20.00
+2015-2016,September,TSP,Himachal Pradesh,0.00,0.00
+2015-2016,September,UREA,Himachal Pradesh,0.00,152.40
+2015-2016,September,DAP,Jammu & Kashmir,0.00,3265.75
+2015-2016,September,MAP,Jammu & Kashmir,0.00,0.00
+2015-2016,September,MOP,Jammu & Kashmir,0.00,3488.05
+2015-2016,September,NPK,Jammu & Kashmir,0.00,0.00
+2015-2016,September,TSP,Jammu & Kashmir,0.00,0.00
+2015-2016,September,UREA,Jammu & Kashmir,0.00,962.95
+2015-2016,September,SSP,Jammu & Kashmir,0.00,0.00
+2015-2016,September,DAP,Jharkhand,0.00,6638.70
+2015-2016,September,MAP,Jharkhand,0.00,0.00
+2015-2016,September,MOP,Jharkhand,0.00,914.45
+2015-2016,September,NPK,Jharkhand,0.00,10660.90
+2015-2016,September,TSP,Jharkhand,0.00,0.00
+2015-2016,September,UREA,Jharkhand,0.00,703.15
+2015-2016,September,SSP,Jharkhand,0.00,0.00
+2015-2016,September,DAP,Karnataka,40000.00,48985.77
+2015-2016,September,MAP,Karnataka,0.00,0.00
+2015-2016,September,MOP,Karnataka,25000.00,51257.55
+2015-2016,September,NPK,Karnataka,118900.00,133576.53
+2015-2016,September,TSP,Karnataka,0.00,11884.85
+2015-2016,September,UREA,Karnataka,170000.00,10301.03
+2015-2016,September,SSP,Karnataka,20000.00,0.00
+2015-2016,September,DAP,Kerala,0.00,2981.95
+2015-2016,September,MAP,Kerala,0.00,0.00
+2015-2016,September,MOP,Kerala,0.00,5321.46
+2015-2016,September,NPK,Kerala,0.00,13799.27
+2015-2016,September,TSP,Kerala,0.00,3156.75
+2015-2016,September,UREA,Kerala,0.00,1383.70
+2015-2016,September,SSP,Kerala,0.00,0.00
+2015-2016,September,DAP,Lakshadweep,0.00,0.00
+2015-2016,September,MAP,Lakshadweep,0.00,0.00
+2015-2016,September,MOP,Lakshadweep,0.00,0.00
+2015-2016,September,NPK,Lakshadweep,0.00,0.00
+2015-2016,September,TSP,Lakshadweep,0.00,0.00
+2015-2016,September,UREA,Lakshadweep,0.00,0.00
+2015-2016,September,SSP,Lakshadweep,0.00,0.00
+2015-2016,September,DAP,Madhya Pradesh,0.00,117605.96
+2015-2016,September,MAP,Madhya Pradesh,0.00,0.00
+2015-2016,September,MOP,Madhya Pradesh,0.00,30052.45
+2015-2016,September,NPK,Madhya Pradesh,0.00,31341.15
+2015-2016,September,TSP,Madhya Pradesh,0.00,8443.85
+2015-2016,September,UREA,Madhya Pradesh,0.00,23910.30
+2015-2016,September,SSP,Madhya Pradesh,0.00,0.00
+2015-2016,September,DAP,Maharastra,0.00,53976.57
+2015-2016,September,MAP,Maharastra,0.00,0.00
+2015-2016,September,MOP,Maharastra,0.00,65504.50
+2015-2016,September,NPK,Maharastra,0.00,220107.65
+2015-2016,September,TSP,Maharastra,0.00,0.00
+2015-2016,September,UREA,Maharastra,0.00,23087.95
+2015-2016,September,SSP,Maharastra,0.00,0.00
+2015-2016,September,DAP,Manipur,0.00,0.00
+2015-2016,September,MAP,Manipur,0.00,0.00
+2015-2016,September,MOP,Manipur,0.00,0.00
+2015-2016,September,NPK,Manipur,0.00,0.00
+2015-2016,September,TSP,Manipur,0.00,0.00
+2015-2016,September,UREA,Manipur,0.00,0.00
+2015-2016,September,SSP,Manipur,0.00,0.00
+2015-2016,September,DAP,Megalaya,0.00,0.00
+2015-2016,September,MAP,Megalaya,0.00,0.00
+2015-2016,September,MOP,Megalaya,0.00,0.00
+2015-2016,September,NPK,Megalaya,0.00,0.00
+2015-2016,September,TSP,Megalaya,0.00,0.00
+2015-2016,September,UREA,Megalaya,0.00,0.00
+2015-2016,September,SSP,Megalaya,0.00,0.00
+2015-2016,September,DAP,Mizoram,0.00,0.00
+2015-2016,September,MAP,Mizoram,0.00,0.00
+2015-2016,September,MOP,Mizoram,0.00,0.00
+2015-2016,September,NPK,Mizoram,0.00,0.00
+2015-2016,September,TSP,Mizoram,0.00,0.00
+2015-2016,September,UREA,Mizoram,0.00,0.00
+2015-2016,September,DAP,Nagaland,0.00,0.00
+2015-2016,September,MAP,Nagaland,0.00,0.00
+2015-2016,September,MOP,Nagaland,0.00,0.00
+2015-2016,September,NPK,Nagaland,0.00,0.00
+2015-2016,September,TSP,Nagaland,0.00,0.00
+2015-2016,September,UREA,Nagaland,0.00,0.00
+2015-2016,September,DAP,Orissa,0.00,11589.73
+2015-2016,September,MAP,Orissa,0.00,0.00
+2015-2016,September,MOP,Orissa,0.00,15099.15
+2015-2016,September,NPK,Orissa,0.00,20790.42
+2015-2016,September,TSP,Orissa,0.00,0.00
+2015-2016,September,UREA,Orissa,0.00,12625.50
+2015-2016,September,DAP,Pondicherry,0.00,111.00
+2015-2016,September,MAP,Pondicherry,0.00,0.00
+2015-2016,September,MOP,Pondicherry,0.00,0.00
+2015-2016,September,NPK,Pondicherry,0.00,94.80
+2015-2016,September,TSP,Pondicherry,0.00,0.00
+2015-2016,September,UREA,Pondicherry,0.00,0.00
+2015-2016,September,DAP,Punjab,0.00,27251.60
+2015-2016,September,MAP,Punjab,0.00,0.00
+2015-2016,September,MOP,Punjab,0.00,24022.30
+2015-2016,September,NPK,Punjab,0.00,1001.87
+2015-2016,September,TSP,Punjab,0.00,3355.30
+2015-2016,September,UREA,Punjab,0.00,4113.45
+2015-2016,September,DAP,Rajasthan,0.00,11993.40
+2015-2016,September,MAP,Rajasthan,0.00,0.00
+2015-2016,September,MOP,Rajasthan,0.00,2411.60
+2015-2016,September,NPK,Rajasthan,0.00,5036.20
+2015-2016,September,TSP,Rajasthan,0.00,3526.25
+2015-2016,September,UREA,Rajasthan,0.00,3597.35
+2015-2016,September,DAP,Sikkim,0.00,0.00
+2015-2016,September,MAP,Sikkim,0.00,0.00
+2015-2016,September,MOP,Sikkim,0.00,0.00
+2015-2016,September,NPK,Sikkim,0.00,0.00
+2015-2016,September,TSP,Sikkim,0.00,0.00
+2015-2016,September,UREA,Sikkim,0.00,0.00
+2015-2016,September,DAP,Tamil Nadu,0.00,21057.60
+2015-2016,September,MAP,Tamil Nadu,0.00,0.00
+2015-2016,September,MOP,Tamil Nadu,0.00,11810.25
+2015-2016,September,NPK,Tamil Nadu,0.00,40921.62
+2015-2016,September,TSP,Tamil Nadu,0.00,0.00
+2015-2016,September,UREA,Tamil Nadu,0.00,1723.15
+2015-2016,September,DAP,Tripura,0.00,1.95
+2015-2016,September,MAP,Tripura,0.00,0.00
+2015-2016,September,MOP,Tripura,0.00,0.00
+2015-2016,September,NPK,Tripura,0.00,155.00
+2015-2016,September,TSP,Tripura,0.00,0.00
+2015-2016,September,UREA,Tripura,0.00,0.00
+2015-2016,September,DAP,Telangana,20000.00,13219.60
+2015-2016,September,MAP,Telangana,0.00,0.00
+2015-2016,September,MOP,Telangana,20000.00,15693.28
+2015-2016,September,NPK,Telangana,100000.00,60066.78
+2015-2016,September,TSP,Telangana,0.00,0.00
+2015-2016,September,UREA,Telangana,150000.00,3101.48
+2015-2016,September,SSP,Telangana,15000.00,0.00
+2015-2016,September,DAP,Uttar Pradesh,100000.00,251249.18
+2015-2016,September,MAP,Uttar Pradesh,0.00,0.00
+2015-2016,September,MOP,Uttar Pradesh,5000.00,55911.05
+2015-2016,September,NPK,Uttar Pradesh,45000.00,82660.60
+2015-2016,September,TSP,Uttar Pradesh,0.00,16125.25
+2015-2016,September,UREA,Uttar Pradesh,300000.00,65209.20
+2015-2016,September,DAP,Uttaranchal,0.00,2182.10
+2015-2016,September,MAP,Uttaranchal,0.00,0.00
+2015-2016,September,MOP,Uttaranchal,0.00,200.30
+2015-2016,September,NPK,Uttaranchal,0.00,6659.30
+2015-2016,September,TSP,Uttaranchal,0.00,0.00
+2015-2016,September,UREA,Uttaranchal,0.00,888.70
+2015-2016,September,SSP,Uttaranchal,0.00,0.00
+2015-2016,September,DAP,West Bengal,0.00,32602.605
+2015-2016,September,MAP,West Bengal,0.00,0.00
+2015-2016,September,MOP,West Bengal,0.00,41069.30
+2015-2016,September,NPK,West Bengal,0.00,148381.68
+2015-2016,September,TSP,West Bengal,0.00,7377.55
+2015-2016,September,UREA,West Bengal,0.00,4651.37
+2015-2016,September,SSP,West Bengal,0.00,0.00
+2015-2016,October,DAP,Andaman & Nicobar,0.00,1000.00
+2015-2016,October,MAP,Andaman & Nicobar,0.00,0.00
+2015-2016,October,MOP,Andaman & Nicobar,0.00,0.00
+2015-2016,October,NPK,Andaman & Nicobar,0.00,500.00
+2015-2016,October,TSP,Andaman & Nicobar,0.00,0.00
+2015-2016,October,UREA,Andaman & Nicobar,0.00,0.00
+2015-2016,October,SSP,Andaman & Nicobar,0.00,0.00
+2015-2016,October,DAP,Andhra Pradesh,0.00,12330.50
+2015-2016,October,MAP,Andhra Pradesh,0.00,0.00
+2015-2016,October,MOP,Andhra Pradesh,0.00,24679.60
+2015-2016,October,NPK,Andhra Pradesh,0.00,51971.56
+2015-2016,October,TSP,Andhra Pradesh,0.00,0.00
+2015-2016,October,UREA,Andhra Pradesh,0.00,19348.60
+2015-2016,October,SSP,Andhra Pradesh,0.00,0.00
+2015-2016,October,DAP,Arunachal Pradesh,0.00,0.00
+2015-2016,October,MAP,Arunachal Pradesh,0.00,0.00
+2015-2016,October,MOP,Arunachal Pradesh,0.00,0.00
+2015-2016,October,NPK,Arunachal Pradesh,0.00,0.00
+2015-2016,October,TSP,Arunachal Pradesh,0.00,0.00
+2015-2016,October,UREA,Arunachal Pradesh,0.00,0.00
+2015-2016,October,SSP,Arunachal Pradesh,0.00,0.00
+2015-2016,October,DAP,Assam,0.00,4615.70
+2015-2016,October,MAP,Assam,0.00,0.00
+2015-2016,October,MOP,Assam,0.00,6637.25
+2015-2016,October,NPK,Assam,0.00,4544.90
+2015-2016,October,TSP,Assam,0.00,0.00
+2015-2016,October,UREA,Assam,0.00,288.50
+2015-2016,October,SSP,Assam,0.00,0.00
+2015-2016,October,DAP,Bihar,0.00,63395.35
+2015-2016,October,MAP,Bihar,0.00,0.00
+2015-2016,October,MOP,Bihar,0.00,33884.60
+2015-2016,October,NPK,Bihar,0.00,68952.15
+2015-2016,October,TSP,Bihar,0.00,7673.75
+2015-2016,October,UREA,Bihar,0.00,3967.65
+2015-2016,October,SSP,Bihar,0.00,0.00
+2015-2016,October,DAP,Chandigarh,0.00,0.00
+2015-2016,October,MAP,Chandigarh,0.00,0.00
+2015-2016,October,MOP,Chandigarh,0.00,0.00
+2015-2016,October,NPK,Chandigarh,0.00,0.00
+2015-2016,October,TSP,Chandigarh,0.00,0.00
+2015-2016,October,UREA,Chandigarh,0.00,0.00
+2015-2016,October,SSP,Chandigarh,0.00,0.00
+2015-2016,October,DAP,Chattishgarh,0.00,15135.96
+2015-2016,October,MAP,Chattishgarh,0.00,0.00
+2015-2016,October,MOP,Chattishgarh,0.00,17623.05
+2015-2016,October,NPK,Chattishgarh,0.00,5585.33
+2015-2016,October,TSP,Chattishgarh,0.00,3858.25
+2015-2016,October,UREA,Chattishgarh,0.00,3847.40
+2015-2016,October,SSP,Chattishgarh,0.00,0.00
+2015-2016,October,DAP,Dadra & Nagar Haveli,0.00,11.05
+2015-2016,October,MAP,Dadra & Nagar Haveli,0.00,0.00
+2015-2016,October,MOP,Dadra & Nagar Haveli,0.00,0.00
+2015-2016,October,NPK,Dadra & Nagar Haveli,0.00,0.00
+2015-2016,October,TSP,Dadra & Nagar Haveli,0.00,0.00
+2015-2016,October,UREA,Dadra & Nagar Haveli,0.00,3.75
+2015-2016,October,SSP,Dadra & Nagar Haveli,0.00,0.00
+2015-2016,October,DAP,Daman & Diu,0.00,0.00
+2015-2016,October,MAP,Daman & Diu,0.00,0.00
+2015-2016,October,MOP,Daman & Diu,0.00,0.00
+2015-2016,October,NPK,Daman & Diu,0.00,0.00
+2015-2016,October,TSP,Daman & Diu,0.00,0.00
+2015-2016,October,UREA,Daman & Diu,0.00,0.00
+2015-2016,October,SSP,Daman & Diu,0.00,0.00
+2015-2016,October,DAP,Delhi,1200.00,0.00
+2015-2016,October,MAP,Delhi,0.00,0.00
+2015-2016,October,MOP,Delhi,600.00,0.00
+2015-2016,October,NPK,Delhi,0.00,0.00
+2015-2016,October,TSP,Delhi,0.00,0.00
+2015-2016,October,UREA,Delhi,2000.00,0.00
+2015-2016,October,SSP,Delhi,0.00,0.00
+2015-2016,October,DAP,Goa,0.00,21.10
+2015-2016,October,MAP,Goa,0.00,0.00
+2015-2016,October,MOP,Goa,0.00,0.00
+2015-2016,October,NPK,Goa,0.00,12.30
+2015-2016,October,TSP,Goa,0.00,0.00
+2015-2016,October,UREA,Goa,0.00,10.35
+2015-2016,October,SSP,Goa,0.00,0.00
+2015-2016,October,DAP,Gujarat,0.00,30873.88
+2015-2016,October,MAP,Gujarat,0.00,0.00
+2015-2016,October,MOP,Gujarat,0.00,1946.55
+2015-2016,October,NPK,Gujarat,0.00,38406.61
+2015-2016,October,TSP,Gujarat,0.00,6313.85
+2015-2016,October,UREA,Gujarat,0.00,44877.89
+2015-2016,October,SSP,Gujarat,0.00,0.00
+2015-2016,October,DAP,Harayana,0.00,71338.63
+2015-2016,October,MAP,Harayana,0.00,0.00
+2015-2016,October,MOP,Harayana,0.00,9347.85
+2015-2016,October,NPK,Harayana,0.00,11538.25
+2015-2016,October,TSP,Harayana,0.00,0.00
+2015-2016,October,UREA,Harayana,0.00,12862.05
+2015-2016,October,SSP,Harayana,0.00,0.00
+2015-2016,October,DAP,Himachal Pradesh,0.00,0.00
+2015-2016,October,MAP,Himachal Pradesh,0.00,0.00
+2015-2016,October,MOP,Himachal Pradesh,0.00,0.00
+2015-2016,October,NPK,Himachal Pradesh,0.00,1742.20
+2015-2016,October,TSP,Himachal Pradesh,0.00,0.00
+2015-2016,October,UREA,Himachal Pradesh,0.00,91.20
+2015-2016,October,SSP,Himachal Pradesh,0.00,0.00
+2015-2016,October,DAP,Jammu & Kashmir,0.00,5118.35
+2015-2016,October,MAP,Jammu & Kashmir,0.00,0.00
+2015-2016,October,MOP,Jammu & Kashmir,0.00,3436.55
+2015-2016,October,NPK,Jammu & Kashmir,0.00,0.00
+2015-2016,October,TSP,Jammu & Kashmir,0.00,0.00
+2015-2016,October,UREA,Jammu & Kashmir,0.00,286.35
+2015-2016,October,SSP,Jammu & Kashmir,0.00,0.00
+2015-2016,October,DAP,Jharkhand,0.00,8157.40
+2015-2016,October,MAP,Jharkhand,0.00,0.00
+2015-2016,October,MOP,Jharkhand,0.00,273.75
+2015-2016,October,NPK,Jharkhand,0.00,8116.55
+2015-2016,October,TSP,Jharkhand,0.00,0.00
+2015-2016,October,UREA,Jharkhand,0.00,390.80
+2015-2016,October,SSP,Jharkhand,0.00,0.00
+2015-2016,October,DAP,Karnataka,28000.00,45167.23
+2015-2016,October,MAP,Karnataka,0.00,0.00
+2015-2016,October,MOP,Karnataka,25000.00,46665.85
+2015-2016,October,NPK,Karnataka,60000.00,124684.59
+2015-2016,October,TSP,Karnataka,0.00,11884.85
+2015-2016,October,UREA,Karnataka,130000.00,16129.31
+2015-2016,October,SSP,Karnataka,8350.00,0.00
+2015-2016,October,DAP,Kerala,0.00,3137.55
+2015-2016,October,MAP,Kerala,0.00,0.00
+2015-2016,October,MOP,Kerala,0.00,4411.44
+2015-2016,October,NPK,Kerala,0.00,11304.24
+2015-2016,October,TSP,Kerala,0.00,3156.75
+2015-2016,October,UREA,Kerala,0.00,109.75
+2015-2016,October,SSP,Kerala,0.00,0.00
+2015-2016,October,DAP,Lakshadweep,0.00,0.00
+2015-2016,October,MAP,Lakshadweep,0.00,0.00
+2015-2016,October,MOP,Lakshadweep,0.00,0.00
+2015-2016,October,NPK,Lakshadweep,0.00,0.00
+2015-2016,October,TSP,Lakshadweep,0.00,0.00
+2015-2016,October,UREA,Lakshadweep,0.00,0.00
+2015-2016,October,SSP,Lakshadweep,0.00,0.00
+2015-2016,October,DAP,Madhya Pradesh,0.00,89513.46
+2015-2016,October,MAP,Madhya Pradesh,0.00,0.00
+2015-2016,October,MOP,Madhya Pradesh,0.00,27886.60
+2015-2016,October,NPK,Madhya Pradesh,0.00,62402.50
+2015-2016,October,TSP,Madhya Pradesh,0.00,8443.85
+2015-2016,October,UREA,Madhya Pradesh,0.00,16123.60
+2015-2016,October,SSP,Madhya Pradesh,0.00,0.00
+2015-2016,October,DAP,Maharastra,58330.00,42811.62
+2015-2016,October,MAP,Maharastra,0.00,0.00
+2015-2016,October,MOP,Maharastra,33330.00,80536.25
+2015-2016,October,NPK,Maharastra,166667.00,193231.75
+2015-2016,October,TSP,Maharastra,0.00,0.00
+2015-2016,October,UREA,Maharastra,191667.00,23694.90
+2015-2016,October,SSP,Maharastra,0.00,0.00
+2015-2016,October,DAP,Manipur,0.00,
+2015-2016,October,MAP,Manipur,0.00,0.00
+2015-2016,October,MOP,Manipur,0.00,0.00
+2015-2016,October,NPK,Manipur,0.00,0.00
+2015-2016,October,TSP,Manipur,0.00,0.00
+2015-2016,October,UREA,Manipur,0.00,0.00
+2015-2016,October,SSP,Manipur,0.00,0.00
+2015-2016,October,DAP,Megalaya,0.00,0.00
+2015-2016,October,MAP,Megalaya,0.00,0.00
+2015-2016,October,MOP,Megalaya,0.00,0.00
+2015-2016,October,NPK,Megalaya,0.00,0.00
+2015-2016,October,TSP,Megalaya,0.00,0.00
+2015-2016,October,UREA,Megalaya,0.00,0.00
+2015-2016,October,SSP,Megalaya,0.00,0.00
+2015-2016,October,DAP,Mizoram,0.00,0.00
+2015-2016,October,MAP,Mizoram,0.00,0.00
+2015-2016,October,MOP,Mizoram,0.00,0.00
+2015-2016,October,NPK,Mizoram,0.00,0.00
+2015-2016,October,TSP,Mizoram,0.00,0.00
+2015-2016,October,UREA,Mizoram,0.00,0.00
+2015-2016,October,SSP,Mizoram,0.00,0.00
+2015-2016,October,DAP,Nagaland,0.00,0.00
+2015-2016,October,MAP,Nagaland,0.00,0.00
+2015-2016,October,MOP,Nagaland,0.00,0.00
+2015-2016,October,NPK,Nagaland,0.00,0.00
+2015-2016,October,TSP,Nagaland,0.00,0.00
+2015-2016,October,UREA,Nagaland,0.00,0.00
+2015-2016,October,SSP,Nagaland,0.00,0.00
+2015-2016,October,DAP,Orissa,0.00,7184.09
+2015-2016,October,MAP,Orissa,0.00,0.00
+2015-2016,October,MOP,Orissa,0.00,14615.85
+2015-2016,October,NPK,Orissa,0.00,18173.87
+2015-2016,October,TSP,Orissa,0.00,0.00
+2015-2016,October,UREA,Orissa,0.00,10175.91
+2015-2016,October,SSP,Orissa,0.00,0.00
+2015-2016,October,DAP,Pondicherry,0.00,11.00
+2015-2016,October,MAP,Pondicherry,0.00,0.00
+2015-2016,October,MOP,Pondicherry,0.00,0.00
+2015-2016,October,NPK,Pondicherry,0.00,310.00
+2015-2016,October,TSP,Pondicherry,0.00,0.00
+2015-2016,October,UREA,Pondicherry,0.00,0.00
+2015-2016,October,SSP,Pondicherry,0.00,0.00
+2015-2016,October,DAP,Punjab,0.00,62191.00
+2015-2016,October,MAP,Punjab,0.00,0.00
+2015-2016,October,MOP,Punjab,0.00,19453.55
+2015-2016,October,NPK,Punjab,0.00,2221.47
+2015-2016,October,TSP,Punjab,0.00,3355.30
+2015-2016,October,UREA,Punjab,0.00,4863.80
+2015-2016,October,SSP,Punjab,0.00,0.00
+2015-2016,October,DAP,Rajasthan,0.00,44038.82
+2015-2016,October,MAP,Rajasthan,0.00,0.00
+2015-2016,October,MOP,Rajasthan,0.00,5097.05
+2015-2016,October,NPK,Rajasthan,0.00,3451.60
+2015-2016,October,TSP,Rajasthan,0.00,3526.25
+2015-2016,October,UREA,Rajasthan,0.00,1236.60
+2015-2016,October,SSP,Rajasthan,1.00,0.00
+2015-2016,October,DAP,Sikkim,0.00,0.00
+2015-2016,October,MAP,Sikkim,0.00,0.00
+2015-2016,October,MOP,Sikkim,0.00,0.00
+2015-2016,October,NPK,Sikkim,0.00,0.00
+2015-2016,October,TSP,Sikkim,0.00,0.00
+2015-2016,October,UREA,Sikkim,0.00,0.00
+2015-2016,October,SSP,Sikkim,0.00,0.00
+2015-2016,October,DAP,Tamil Nadu,0.00,22332.55
+2015-2016,October,MAP,Tamil Nadu,0.00,0.00
+2015-2016,October,MOP,Tamil Nadu,0.00,12395.85
+2015-2016,October,NPK,Tamil Nadu,0.00,36538.57
+2015-2016,October,TSP,Tamil Nadu,0.00,0.00
+2015-2016,October,UREA,Tamil Nadu,0.00,1335.90
+2015-2016,October,SSP,Tamil Nadu,0.00,0.00
+2015-2016,October,DAP,Tripura,0.00,92.20
+2015-2016,October,MAP,Tripura,0.00,0.00
+2015-2016,October,MOP,Tripura,0.00,79.05
+2015-2016,October,NPK,Tripura,0.00,109.00
+2015-2016,October,TSP,Tripura,0.00,0.00
+2015-2016,October,UREA,Tripura,0.00,0.00
+2015-2016,October,SSP,Tripura,0.00,0.00
+2015-2016,October,DAP,Telangana,30000.00,10294.60
+2015-2016,October,MAP,Telangana,0.00,0.00
+2015-2016,October,MOP,Telangana,10000.00,13606.15
+2015-2016,October,NPK,Telangana,50000.00,40033.34
+2015-2016,October,TSP,Telangana,0.00,0.00
+2015-2016,October,UREA,Telangana,110000.00,5369.18
+2015-2016,October,SSP,Telangana,7500.00,0.00
+2015-2016,October,DAP,Uttar Pradesh,0.00,289654.48
+2015-2016,October,MAP,Uttar Pradesh,0.00,0.00
+2015-2016,October,MOP,Uttar Pradesh,0.00,63501.35
+2015-2016,October,NPK,Uttar Pradesh,0.00,103640.35
+2015-2016,October,TSP,Uttar Pradesh,0.00,16125.25
+2015-2016,October,UREA,Uttar Pradesh,0.00,106870.40
+2015-2016,October,SSP,Uttar Pradesh,0.00,0.00
+2015-2016,October,DAP,Uttaranchal,0.00,1470.50
+2015-2016,October,MAP,Uttaranchal,0.00,0.00
+2015-2016,October,MOP,Uttaranchal,0.00,145.30
+2015-2016,October,NPK,Uttaranchal,0.00,3014.45
+2015-2016,October,TSP,Uttaranchal,0.00,0.00
+2015-2016,October,UREA,Uttaranchal,0.00,5319.30
+2015-2016,October,SSP,Uttaranchal,0.00,0.00
+2015-2016,October,DAP,West Bengal,0.00,28413.31
+2015-2016,October,MAP,West Bengal,0.00,0.00
+2015-2016,October,MOP,West Bengal,0.00,41928.55
+2015-2016,October,NPK,West Bengal,0.00,132549.06
+2015-2016,October,TSP,West Bengal,0.00,7377.55
+2015-2016,October,UREA,West Bengal,0.00,10178.56
+2015-2016,October,SSP,West Bengal,0.00,0.00
+2015-2016,November,DAP,Andaman & Nicobar,0.00,0.00
+2015-2016,November,MAP,Andaman & Nicobar,0.00,0.00
+2015-2016,November,MOP,Andaman & Nicobar,0.00,0.00
+2015-2016,November,NPK,Andaman & Nicobar,0.00,0.00
+2015-2016,November,TSP,Andaman & Nicobar,0.00,0.00
+2015-2016,November,UREA,Andaman & Nicobar,0.00,0.00
+2015-2016,November,SSP,Andaman & Nicobar,0.00,0.00
+2015-2016,November,DAP,Andhra Pradesh,0.00,15164.67
+2015-2016,November,MAP,Andhra Pradesh,0.00,0.00
+2015-2016,November,MOP,Andhra Pradesh,0.00,24624.70
+2015-2016,November,NPK,Andhra Pradesh,0.00,66991.14
+2015-2016,November,TSP,Andhra Pradesh,0.00,0.00
+2015-2016,November,UREA,Andhra Pradesh,0.00,47038.95
+2015-2016,November,SSP,Andhra Pradesh,0.00,0.00
+2015-2016,November,DAP,Arunachal Pradesh,0.00,0.00
+2015-2016,November,MAP,Arunachal Pradesh,0.00,0.00
+2015-2016,November,MOP,Arunachal Pradesh,0.00,0.00
+2015-2016,November,NPK,Arunachal Pradesh,0.00,0.00
+2015-2016,November,TSP,Arunachal Pradesh,0.00,0.00
+2015-2016,November,UREA,Arunachal Pradesh,0.00,0.00
+2015-2016,November,SSP,Arunachal Pradesh,0.00,0.00
+2015-2016,November,DAP,Assam,0.00,7414.05
+2015-2016,November,MAP,Assam,0.00,0.00
+2015-2016,November,MOP,Assam,0.00,11284.25
+2015-2016,November,NPK,Assam,0.00,5969.25
+2015-2016,November,TSP,Assam,0.00,0.00
+2015-2016,November,UREA,Assam,0.00,292.75
+2015-2016,November,SSP,Assam,0.00,0.00
+2015-2016,November,DAP,Bihar,0.00,93445.85
+2015-2016,November,MAP,Bihar,0.00,0.00
+2015-2016,November,MOP,Bihar,0.00,36314.10
+2015-2016,November,NPK,Bihar,0.00,72186.95
+2015-2016,November,TSP,Bihar,0.00,7673.75
+2015-2016,November,UREA,Bihar,0.00,18954.15
+2015-2016,November,SSP,Bihar,0.00,0.00
+2015-2016,November,DAP,Chandigarh,0.00,0.00
+2015-2016,November,MAP,Chandigarh,0.00,0.00
+2015-2016,November,MOP,Chandigarh,0.00,0.00
+2015-2016,November,NPK,Chandigarh,0.00,0.00
+2015-2016,November,TSP,Chandigarh,0.00,0.00
+2015-2016,November,UREA,Chandigarh,0.00,0.00
+2015-2016,November,SSP,Chandigarh,0.00,0.00
+2015-2016,November,DAP,Chattishgarh,0.00,12488.51
+2015-2016,November,MAP,Chattishgarh,0.00,0.00
+2015-2016,November,MOP,Chattishgarh,0.00,18126.70
+2015-2016,November,NPK,Chattishgarh,0.00,5444.13
+2015-2016,November,TSP,Chattishgarh,0.00,3858.25
+2015-2016,November,UREA,Chattishgarh,0.00,1228.05
+2015-2016,November,SSP,Chattishgarh,0.00,0.00
+2015-2016,November,DAP,Dadra & Nagar Haveli,0.00,10.55
+2015-2016,November,MAP,Dadra & Nagar Haveli,0.00,0.00
+2015-2016,November,MOP,Dadra & Nagar Haveli,0.00,0.00
+2015-2016,November,NPK,Dadra & Nagar Haveli,0.00,0.00
+2015-2016,November,TSP,Dadra & Nagar Haveli,0.00,0.00
+2015-2016,November,UREA,Dadra & Nagar Haveli,0.00,2.50
+2015-2016,November,SSP,Dadra & Nagar Haveli,0.00,0.00
+2015-2016,November,DAP,Daman & Diu,0.00,0.00
+2015-2016,November,MAP,Daman & Diu,0.00,0.00
+2015-2016,November,MOP,Daman & Diu,0.00,0.00
+2015-2016,November,NPK,Daman & Diu,0.00,0.00
+2015-2016,November,TSP,Daman & Diu,0.00,0.00
+2015-2016,November,UREA,Daman & Diu,0.00,0.00
+2015-2016,November,SSP,Daman & Diu,0.00,0.00
+2015-2016,November,DAP,Delhi,1300.00,0.00
+2015-2016,November,MAP,Delhi,0.00,0.00
+2015-2016,November,MOP,Delhi,400.00,0.00
+2015-2016,November,NPK,Delhi,0.00,0.00
+2015-2016,November,TSP,Delhi,0.00,0.00
+2015-2016,November,UREA,Delhi,2000.00,0.00
+2015-2016,November,SSP,Delhi,0.00,0.00
+2015-2016,November,DAP,Goa,0.00,20.80
+2015-2016,November,MAP,Goa,0.00,0.00
+2015-2016,November,MOP,Goa,0.00,0.00
+2015-2016,November,NPK,Goa,0.00,9.85
+2015-2016,November,TSP,Goa,0.00,0.00
+2015-2016,November,UREA,Goa,0.00,10.35
+2015-2016,November,SSP,Goa,0.00,0.00
+2015-2016,November,DAP,Gujarat,0.00,37670.38
+2015-2016,November,MAP,Gujarat,0.00,0.00
+2015-2016,November,MOP,Gujarat,0.00,6725.70
+2015-2016,November,NPK,Gujarat,0.00,31949.63
+2015-2016,November,TSP,Gujarat,0.00,6313.85
+2015-2016,November,UREA,Gujarat,0.00,77210.89
+2015-2016,November,SSP,Gujarat,0.00,0.00
+2015-2016,November,DAP,Harayana,0.00,50067.38
+2015-2016,November,MAP,Harayana,0.00,0.00
+2015-2016,November,MOP,Harayana,0.00,16105.20
+2015-2016,November,NPK,Harayana,0.00,4821.30
+2015-2016,November,TSP,Harayana,0.00,0.00
+2015-2016,November,UREA,Harayana,0.00,16150.25
+2015-2016,November,SSP,Harayana,0.00,0.00
+2015-2016,November,DAP,Himachal Pradesh,0.00,0.00
+2015-2016,November,MAP,Himachal Pradesh,0.00,0.00
+2015-2016,November,MOP,Himachal Pradesh,0.00,2561.40
+2015-2016,November,NPK,Himachal Pradesh,0.00,1459.60
+2015-2016,November,TSP,Himachal Pradesh,0.00,0.00
+2015-2016,November,UREA,Himachal Pradesh,0.00,1420.80
+2015-2016,November,SSP,Himachal Pradesh,0.00,0.00
+2015-2016,November,DAP,Jammu & Kashmir,0.00,6143.35
+2015-2016,November,MAP,Jammu & Kashmir,0.00,0.00
+2015-2016,November,MOP,Jammu & Kashmir,0.00,3774.05
+2015-2016,November,NPK,Jammu & Kashmir,0.00,362.50
+2015-2016,November,TSP,Jammu & Kashmir,0.00,0.00
+2015-2016,November,UREA,Jammu & Kashmir,0.00,430.45
+2015-2016,November,SSP,Jammu & Kashmir,0.00,0.00
+2015-2016,November,DAP,Jharkhand,0.00,10695.50
+2015-2016,November,MAP,Jharkhand,0.00,0.00
+2015-2016,November,MOP,Jharkhand,0.00,110.20
+2015-2016,November,NPK,Jharkhand,0.00,7165.95
+2015-2016,November,TSP,Jharkhand,0.00,0.00
+2015-2016,November,UREA,Jharkhand,0.00,7787.05
+2015-2016,November,SSP,Jharkhand,0.00,0.00
+2015-2016,November,DAP,Karnataka,50000.00,48511.73
+2015-2016,November,MAP,Karnataka,0.00,0.00
+2015-2016,November,MOP,Karnataka,25000.00,50141.30
+2015-2016,November,NPK,Karnataka,105000.00,165524.80
+2015-2016,November,TSP,Karnataka,0.00,11884.85
+2015-2016,November,UREA,Karnataka,90000.00,45342.21
+2015-2016,November,SSP,Karnataka,7650.00,0.00
+2015-2016,November,DAP,Kerala,0.00,3438.15
+2015-2016,November,MAP,Kerala,0.00,0.00
+2015-2016,November,MOP,Kerala,0.00,5731.97
+2015-2016,November,NPK,Kerala,0.00,12646.46
+2015-2016,November,TSP,Kerala,0.00,3156.75
+2015-2016,November,UREA,Kerala,0.00,1529.30
+2015-2016,November,SSP,Kerala,0.00,0.00
+2015-2016,November,DAP,Lakshadweep,0.00,0.00
+2015-2016,November,MAP,Lakshadweep,0.00,0.00
+2015-2016,November,MOP,Lakshadweep,0.00,0.00
+2015-2016,November,NPK,Lakshadweep,0.00,0.00
+2015-2016,November,TSP,Lakshadweep,0.00,0.00
+2015-2016,November,UREA,Lakshadweep,0.00,0.00
+2015-2016,November,SSP,Lakshadweep,0.00,0.00
+2015-2016,November,DAP,Madhya Pradesh,0.00,154024.06
+2015-2016,November,MAP,Madhya Pradesh,0.00,0.00
+2015-2016,November,MOP,Madhya Pradesh,0.00,40216.55
+2015-2016,November,NPK,Madhya Pradesh,0.00,45981.30
+2015-2016,November,TSP,Madhya Pradesh,0.00,8443.85
+2015-2016,November,UREA,Madhya Pradesh,0.00,43923.25
+2015-2016,November,SSP,Madhya Pradesh,0.00,0.00
+2015-2016,November,DAP,Maharastra,58330.00,61730.08
+2015-2016,November,MAP,Maharastra,0.00,0.00
+2015-2016,November,MOP,Maharastra,33330.00,82528.05
+2015-2016,November,NPK,Maharastra,166667.00,262370.07
+2015-2016,November,TSP,Maharastra,0.00,0.00
+2015-2016,November,UREA,Maharastra,191667.00,83403.25
+2015-2016,November,SSP,Maharastra,0.00,0.00
+2015-2016,November,DAP,Manipur,0.00,0.00
+2015-2016,November,MAP,Manipur,0.00,0.00
+2015-2016,November,MOP,Manipur,0.00,0.00
+2015-2016,November,NPK,Manipur,0.00,0.00
+2015-2016,November,TSP,Manipur,0.00,0.00
+2015-2016,November,UREA,Manipur,0.00,0.00
+2015-2016,November,SSP,Manipur,0.00,0.00
+2015-2016,November,DAP,Megalaya,0.00,0.00
+2015-2016,November,MAP,Megalaya,0.00,0.00
+2015-2016,November,MOP,Megalaya,0.00,0.00
+2015-2016,November,NPK,Megalaya,0.00,0.00
+2015-2016,November,TSP,Megalaya,0.00,0.00
+2015-2016,November,UREA,Megalaya,0.00,0.00
+2015-2016,November,SSP,Megalaya,0.00,0.00
+2015-2016,November,DAP,Mizoram,0.00,0.00
+2015-2016,November,MAP,Mizoram,0.00,0.00
+2015-2016,November,MOP,Mizoram,0.00,0.00
+2015-2016,November,NPK,Mizoram,0.00,0.00
+2015-2016,November,TSP,Mizoram,0.00,0.00
+2015-2016,November,UREA,Mizoram,0.00,0.00
+2015-2016,November,SSP,Mizoram,0.00,0.00
+2015-2016,November,DAP,Nagaland,0.00,0.00
+2015-2016,November,MAP,Nagaland,0.00,0.00
+2015-2016,November,MOP,Nagaland,0.00,0.00
+2015-2016,November,NPK,Nagaland,0.00,0.00
+2015-2016,November,TSP,Nagaland,0.00,0.00
+2015-2016,November,UREA,Nagaland,0.00,0.00
+2015-2016,November,SSP,Nagaland,0.00,0.00
+2015-2016,November,DAP,Orissa,0.00,8108.34
+2015-2016,November,MAP,Orissa,0.00,0.00
+2015-2016,November,MOP,Orissa,0.00,12958.70
+2015-2016,November,NPK,Orissa,0.00,20042.22
+2015-2016,November,TSP,Orissa,0.00,0.00
+2015-2016,November,UREA,Orissa,0.00,15802.00
+2015-2016,November,SSP,Orissa,0.00,0.00
+2015-2016,November,DAP,Pondicherry,0.00,11.00
+2015-2016,November,MAP,Pondicherry,0.00,0.00
+2015-2016,November,MOP,Pondicherry,0.00,0.00
+2015-2016,November,NPK,Pondicherry,0.00,173.00
+2015-2016,November,TSP,Pondicherry,0.00,0.00
+2015-2016,November,UREA,Pondicherry,0.00,0.00
+2015-2016,November,SSP,Pondicherry,0.00,0.00
+2015-2016,November,SSP,Pondicherry,0.00,0.00
+2015-2016,November,DAP,Punjab,0.00,67791.50
+2015-2016,November,MAP,Punjab,0.00,0.00
+2015-2016,November,MOP,Punjab,0.00,21239.75
+2015-2016,November,NPK,Punjab,0.00,1209.82
+2015-2016,November,TSP,Punjab,0.00,3355.30
+2015-2016,November,UREA,Punjab,0.00,11253.25
+2015-2016,November,SSP,Punjab,0.00,
+2015-2016,November,DAP,Rajasthan,0.00,48229.87
+2015-2016,November,MAP,Rajasthan,0.00,0.00
+2015-2016,November,MOP,Rajasthan,0.00,3556.38
+2015-2016,November,NPK,Rajasthan,0.00,8680.25
+2015-2016,November,TSP,Rajasthan,0.00,3526.25
+2015-2016,November,UREA,Rajasthan,0.00,2637.30
+2015-2016,November,SSP,Rajasthan,0.00,0.00
+2015-2016,November,DAP,Sikkim,0.00,0.00
+2015-2016,November,MAP,Sikkim,0.00,0.00
+2015-2016,November,MOP,Sikkim,0.00,0.00
+2015-2016,November,NPK,Sikkim,0.00,0.00
+2015-2016,November,TSP,Sikkim,0.00,0.00
+2015-2016,November,UREA,Sikkim,0.00,0.00
+2015-2016,November,SSP,Sikkim,0.00,0.00
+2015-2016,November,DAP,Tamil Nadu,0.00,23018.10
+2015-2016,November,MAP,Tamil Nadu,0.00,0.00
+2015-2016,November,MOP,Tamil Nadu,0.00,14536.70
+2015-2016,November,NPK,Tamil Nadu,0.00,32503.77
+2015-2016,November,TSP,Tamil Nadu,0.00,0.00
+2015-2016,November,UREA,Tamil Nadu,0.00,1809.70
+2015-2016,November,SSP,Tamil Nadu,0.00,0.00
+2015-2016,November,DAP,Tripura,0.00,111.70
+2015-2016,November,MAP,Tripura,0.00,0.00
+2015-2016,November,MOP,Tripura,0.00,0.00
+2015-2016,November,NPK,Tripura,0.00,257.45
+2015-2016,November,TSP,Tripura,0.00,0.00
+2015-2016,November,UREA,Tripura,0.00,2621.80
+2015-2016,November,SSP,Tripura,0.00,0.00
+2015-2016,November,DAP,Telangana,15000.00,14727.35
+2015-2016,November,MAP,Telangana,0.00,0.00
+2015-2016,November,MOP,Telangana,10000.00,21207.60
+2015-2016,November,NPK,Telangana,40000.00,70771.84
+2015-2016,November,TSP,Telangana,0.00,0.00
+2015-2016,November,UREA,Telangana,70000.00,19900.58
+2015-2016,November,SSP,Telangana,6500.00,0.00
+2015-2016,November,DAP,Uttar Pradesh,400000.00,343904.53
+2015-2016,November,MAP,Uttar Pradesh,0.00,0.00
+2015-2016,November,MOP,Uttar Pradesh,25000.00,54399.70
+2015-2016,November,NPK,Uttar Pradesh,100000.00,108151.70
+2015-2016,November,TSP,Uttar Pradesh,0.00,16125.25
+2015-2016,November,UREA,Uttar Pradesh,700000.00,257029.65
+2015-2016,November,SSP,Uttar Pradesh,0.00,0.00
+2015-2016,November,DAP,Uttaranchal,0.00,4336.60
+2015-2016,November,MAP,Uttaranchal,0.00,0.00
+2015-2016,November,MOP,Uttaranchal,0.00,305.30
+2015-2016,November,NPK,Uttaranchal,0.00,3521.95
+2015-2016,November,TSP,Uttaranchal,0.00,0.00
+2015-2016,November,UREA,Uttaranchal,0.00,13461.54
+2015-2016,November,SSP,Uttaranchal,0.00,0.00
+2015-2016,November,DAP,West Bengal,0.00,33378.71
+2015-2016,November,MAP,West Bengal,0.00,0.00
+2015-2016,November,MOP,West Bengal,0.00,43051.35
+2015-2016,November,NPK,West Bengal,0.00,176225.41
+2015-2016,November,TSP,West Bengal,0.00,7368.29
+2015-2016,November,UREA,West Bengal,0.00,26517.78
+2015-2016,November,SSP,West Bengal,0.00,0.00

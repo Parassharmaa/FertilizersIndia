@@ -1,0 +1,2836 @@
+Year,Month,Product,State,Requirement(in' MT),Availability(in' MT)
+2013-14,April,DAP,Andaman & Nicobar,500.000,0.000
+2013-14,April,MAP,Andaman & Nicobar,0.000,0.000
+2013-14,April,MOP,Andaman & Nicobar,0.000,0.000
+2013-14,April,NPK,Andaman & Nicobar,500.000,0.000
+2013-14,April,SSP,Andaman & Nicobar,0.000,0.000
+2013-14,April,TSP,Andaman & Nicobar,0.000,0.000
+2013-14,April,UREA,Andaman & Nicobar,500.000,0.000
+2013-14,April,DAP,Andhra Pradesh,"50,000.000","31,390.150"
+2013-14,April,MAP,Andhra Pradesh,0.000,0.000
+2013-14,April,MOP,Andhra Pradesh,"30,000.000","21,198.390"
+2013-14,April,NPK,Andhra Pradesh,"1,15,000.000","57,401.058"
+2013-14,April,SSP,Andhra Pradesh,"20,000.000","5,893.046"
+2013-14,April,TSP,Andhra Pradesh,0.000,0.000
+2013-14,April,UREA,Andhra Pradesh,"1,00,000.000","87,238.750"
+2013-14,April,DAP,Arunachal Pradesh,60.000,0.000
+2013-14,April,MAP,Arunachal Pradesh,0.000,0.000
+2013-14,April,MOP,Arunachal Pradesh,20.000,0.000
+2013-14,April,NPK,Arunachal Pradesh,0.000,0.000
+2013-14,April,SSP,Arunachal Pradesh,40.000,0.000
+2013-14,April,TSP,Arunachal Pradesh,0.000,0.000
+2013-14,April,UREA,Arunachal Pradesh,110.000,0.000
+2013-14,April,DAP,Assam,"2,250.000","5,155.600"
+2013-14,April,MAP,Assam,0.000,0.000
+2013-14,April,MOP,Assam,"5,400.000","2,735.600"
+2013-14,April,NPK,Assam,680.000,297.300
+2013-14,April,SSP,Assam,"7,200.000",24.700
+2013-14,April,TSP,Assam,0.000,0.000
+2013-14,April,UREA,Assam,"13,050.000",431.800
+2013-14,April,DAP,Bihar,"20,000.000","15,630.900"
+2013-14,April,MAP,Bihar,0.000,0.000
+2013-14,April,MOP,Bihar,"5,000.000","1,058.500"
+2013-14,April,NPK,Bihar,"15,000.000","2,628.850"
+2013-14,April,SSP,Bihar,"6,000.000",462.550
+2013-14,April,TSP,Bihar,0.000,"7,673.750"
+2013-14,April,UREA,Bihar,"80,000.000","9,117.700"
+2013-14,April,DAP,Chandigarh,0.000,0.000
+2013-14,April,MAP,Chandigarh,0.000,0.000
+2013-14,April,MOP,Chandigarh,0.000,0.000
+2013-14,April,NPK,Chandigarh,0.000,0.000
+2013-14,April,SSP,Chandigarh,0.000,0.000
+2013-14,April,TSP,Chandigarh,0.000,0.000
+2013-14,April,UREA,Chandigarh,0.000,0.000
+2013-14,April,DAP,Chattishgarh,"15,000.000","13,402.950"
+2013-14,April,MAP,Chattishgarh,0.000,0.000
+2013-14,April,MOP,Chattishgarh,"5,000.000","1,951.900"
+2013-14,April,NPK,Chattishgarh,"8,000.000","12,717.100"
+2013-14,April,SSP,Chattishgarh,"11,000.000","5,790.305"
+2013-14,April,TSP,Chattishgarh,0.000,"3,858.250"
+2013-14,April,UREA,Chattishgarh,"48,000.000","19,469.850"
+2013-14,April,DAP,Dadra & Nagar Haveli,50.000,0.300
+2013-14,April,MAP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,April,MOP,Dadra & Nagar Haveli,7.000,0.000
+2013-14,April,NPK,Dadra & Nagar Haveli,11.000,1.450
+2013-14,April,SSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,April,TSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,April,UREA,Dadra & Nagar Haveli,30.000,10.500
+2013-14,April,DAP,Daman & Diu,10.000,0.000
+2013-14,April,MAP,Daman & Diu,0.000,0.000
+2013-14,April,MOP,Daman & Diu,0.000,0.000
+2013-14,April,NPK,Daman & Diu,0.000,0.000
+2013-14,April,SSP,Daman & Diu,0.000,0.000
+2013-14,April,TSP,Daman & Diu,0.000,0.000
+2013-14,April,UREA,Daman & Diu,40.000,0.000
+2013-14,April,DAP,Delhi,0.000,0.000
+2013-14,April,MAP,Delhi,0.000,0.000
+2013-14,April,MOP,Delhi,0.000,0.000
+2013-14,April,NPK,Delhi,0.000,0.000
+2013-14,April,SSP,Delhi,0.000,0.000
+2013-14,April,TSP,Delhi,0.000,0.000
+2013-14,April,UREA,Delhi,0.000,0.000
+2013-14,April,DAP,Goa,100.000,0.000
+2013-14,April,MAP,Goa,0.000,0.000
+2013-14,April,MOP,Goa,20.000,0.000
+2013-14,April,NPK,Goa,500.000,0.000
+2013-14,April,SSP,Goa,0.000,0.000
+2013-14,April,TSP,Goa,0.000,0.000
+2013-14,April,UREA,Goa,200.000,0.000
+2013-14,April,DAP,Gujarat,"50,000.000","19,051.621"
+2013-14,April,MAP,Gujarat,0.000,0.000
+2013-14,April,MOP,Gujarat,"7,000.000","3,634.350"
+2013-14,April,NPK,Gujarat,"31,500.000","10,804.225"
+2013-14,April,SSP,Gujarat,"12,000.000","3,181.000"
+2013-14,April,TSP,Gujarat,0.000,"6,313.850"
+2013-14,April,UREA,Gujarat,"1,15,000.000","11,080.205"
+2013-14,April,DAP,Harayana,"10,000.000","36,379.450"
+2013-14,April,MAP,Harayana,0.000,0.000
+2013-14,April,MOP,Harayana,"5,000.000",0.000
+2013-14,April,NPK,Harayana,"5,000.000",21.000
+2013-14,April,SSP,Harayana,"5,000.000",146.800
+2013-14,April,TSP,Harayana,0.000,0.000
+2013-14,April,UREA,Harayana,"50,000.000","66,345.850"
+2013-14,April,DAP,Himachal Pradesh,0.000,0.000
+2013-14,April,MAP,Himachal Pradesh,0.000,0.000
+2013-14,April,MOP,Himachal Pradesh,100.000,0.000
+2013-14,April,NPK,Himachal Pradesh,0.000,12.400
+2013-14,April,SSP,Himachal Pradesh,80.000,0.000
+2013-14,April,TSP,Himachal Pradesh,0.000,0.000
+2013-14,April,UREA,Himachal Pradesh,"2,500.000",1.550
+2013-14,April,DAP,Jammu & Kashmir,"5,000.000","5,067.650"
+2013-14,April,MAP,Jammu & Kashmir,0.000,0.000
+2013-14,April,MOP,Jammu & Kashmir,"1,200.000","1,316.300"
+2013-14,April,NPK,Jammu & Kashmir,0.000,0.000
+2013-14,April,SSP,Jammu & Kashmir,0.000,0.000
+2013-14,April,TSP,Jammu & Kashmir,0.000,0.000
+2013-14,April,UREA,Jammu & Kashmir,"15,000.000","6,066.300"
+2013-14,April,DAP,Jharkhand,"7,500.000",104.950
+2013-14,April,MAP,Jharkhand,0.000,0.000
+2013-14,April,MOP,Jharkhand,"2,500.000",0.000
+2013-14,April,NPK,Jharkhand,"2,500.000",3.700
+2013-14,April,SSP,Jharkhand,"5,000.000",35.450
+2013-14,April,TSP,Jharkhand,0.000,0.000
+2013-14,April,UREA,Jharkhand,"25,000.000",52.400
+2013-14,April,DAP,Karnataka,"70,000.000","3,295.450"
+2013-14,April,MAP,Karnataka,0.000,0.000
+2013-14,April,MOP,Karnataka,"25,000.000","8,711.800"
+2013-14,April,NPK,Karnataka,"60,000.000","27,710.374"
+2013-14,April,SSP,Karnataka,"1,300.000","1,239.300"
+2013-14,April,TSP,Karnataka,0.000,"11,905.400"
+2013-14,April,UREA,Karnataka,"60,000.000","18,075.220"
+2013-14,April,DAP,Kerala,"2,000.000","1,880.400"
+2013-14,April,MAP,Kerala,0.000,0.000
+2013-14,April,MOP,Kerala,"10,000.000","1,166.193"
+2013-14,April,NPK,Kerala,"14,000.000","8,220.388"
+2013-14,April,SSP,Kerala,0.000,38.000
+2013-14,April,TSP,Kerala,0.000,"3,156.750"
+2013-14,April,UREA,Kerala,"12,000.000",0.000
+2013-14,April,DAP,Lakshadweep,0.000,0.000
+2013-14,April,MAP,Lakshadweep,0.000,0.000
+2013-14,April,MOP,Lakshadweep,0.000,0.000
+2013-14,April,NPK,Lakshadweep,0.000,0.000
+2013-14,April,SSP,Lakshadweep,0.000,0.000
+2013-14,April,TSP,Lakshadweep,0.000,0.000
+2013-14,April,UREA,Lakshadweep,0.000,0.000
+2013-14,April,DAP,Madhya Pradesh,"19,800.000","57,769.050"
+2013-14,April,MAP,Madhya Pradesh,0.000,0.000
+2013-14,April,MOP,Madhya Pradesh,"5,400.000",761.450
+2013-14,April,NPK,Madhya Pradesh,"15,400.000","18,072.700"
+2013-14,April,SSP,Madhya Pradesh,"6,450.000","92,348.063"
+2013-14,April,TSP,Madhya Pradesh,0.000,"8,443.850"
+2013-14,April,UREA,Madhya Pradesh,"52,500.000","56,620.750"
+2013-14,April,DAP,Maharastra,"1,46,100.000","37,915.965"
+2013-14,April,MAP,Maharastra,0.000,0.000
+2013-14,April,MOP,Maharastra,"46,300.000","5,122.450"
+2013-14,April,NPK,Maharastra,"1,46,100.000","47,448.310"
+2013-14,April,SSP,Maharastra,"77,000.000","18,022.161"
+2013-14,April,TSP,Maharastra,0.000,0.000
+2013-14,April,UREA,Maharastra,"2,38,300.000","48,106.525"
+2013-14,April,DAP,Manipur,300.000,0.000
+2013-14,April,MAP,Manipur,0.000,0.000
+2013-14,April,MOP,Manipur,200.000,0.000
+2013-14,April,NPK,Manipur,0.000,0.000
+2013-14,April,SSP,Manipur,100.000,0.000
+2013-14,April,TSP,Manipur,0.000,0.000
+2013-14,April,UREA,Manipur,"3,000.000",0.000
+2013-14,April,DAP,Megalaya,250.000,0.000
+2013-14,April,MAP,Megalaya,0.000,0.000
+2013-14,April,MOP,Megalaya,30.000,0.000
+2013-14,April,NPK,Megalaya,0.000,0.000
+2013-14,April,SSP,Megalaya,500.000,0.000
+2013-14,April,TSP,Megalaya,0.000,0.000
+2013-14,April,UREA,Megalaya,300.000,0.000
+2013-14,April,DAP,Mizoram,700.000,0.000
+2013-14,April,MAP,Mizoram,0.000,0.000
+2013-14,April,MOP,Mizoram,550.000,0.000
+2013-14,April,NPK,Mizoram,0.000,0.000
+2013-14,April,SSP,Mizoram,720.000,0.000
+2013-14,April,TSP,Mizoram,0.000,0.000
+2013-14,April,UREA,Mizoram,"1,350.000",0.000
+2013-14,April,DAP,Nagaland,100.000,0.000
+2013-14,April,MAP,Nagaland,0.000,0.000
+2013-14,April,MOP,Nagaland,30.000,0.000
+2013-14,April,NPK,Nagaland,0.000,0.000
+2013-14,April,SSP,Nagaland,40.000,0.000
+2013-14,April,TSP,Nagaland,0.000,0.000
+2013-14,April,UREA,Nagaland,150.000,0.000
+2013-14,April,DAP,Odisha,"6,000.000","5,503.850"
+2013-14,April,MAP,Odisha,0.000,0.000
+2013-14,April,MOP,Odisha,"3,000.000",58.700
+2013-14,April,NPK,Odisha,"17,500.000","7,424.350"
+2013-14,April,SSP,Odisha,"2,000.000",5.250
+2013-14,April,TSP,Odisha,0.000,0.000
+2013-14,April,UREA,Odisha,"10,000.000","15,207.700"
+2013-14,April,DAP,Pondicherry,150.000,0.000
+2013-14,April,MAP,Pondicherry,0.000,0.000
+2013-14,April,MOP,Pondicherry,250.000,0.000
+2013-14,April,NPK,Pondicherry,900.000,160.000
+2013-14,April,SSP,Pondicherry,50.000,0.000
+2013-14,April,TSP,Pondicherry,0.000,0.000
+2013-14,April,UREA,Pondicherry,"1,350.000",0.000
+2013-14,April,DAP,Punjab,"30,000.000","35,632.300"
+2013-14,April,MAP,Punjab,0.000,0.000
+2013-14,April,MOP,Punjab,"5,000.000",4.150
+2013-14,April,NPK,Punjab,"10,000.000","1,671.300"
+2013-14,April,SSP,Punjab,"5,000.000",506.950
+2013-14,April,TSP,Punjab,0.000,"3,355.300"
+2013-14,April,UREA,Punjab,"1,20,000.000","61,935.400"
+2013-14,April,DAP,Rajasthan,"8,000.000","34,093.550"
+2013-14,April,MAP,Rajasthan,0.000,0.000
+2013-14,April,MOP,Rajasthan,"2,100.000",0.000
+2013-14,April,NPK,Rajasthan,"11,900.000",438.650
+2013-14,April,SSP,Rajasthan,"25,000.000","8,720.100"
+2013-14,April,TSP,Rajasthan,0.000,"3,526.250"
+2013-14,April,UREA,Rajasthan,"60,050.000","44,842.500"
+2013-14,April,DAP,Sikkim,0.000,0.000
+2013-14,April,MAP,Sikkim,0.000,0.000
+2013-14,April,MOP,Sikkim,0.000,0.000
+2013-14,April,NPK,Sikkim,0.000,0.000
+2013-14,April,SSP,Sikkim,0.000,0.000
+2013-14,April,TSP,Sikkim,0.000,0.000
+2013-14,April,UREA,Sikkim,0.000,0.000
+2013-14,April,DAP,Tamil Nadu,"19,000.000","10,586.400"
+2013-14,April,MAP,Tamil Nadu,0.000,0.000
+2013-14,April,MOP,Tamil Nadu,"18,000.000",863.149
+2013-14,April,NPK,Tamil Nadu,"34,230.000","18,651.800"
+2013-14,April,SSP,Tamil Nadu,"6,000.000","3,489.050"
+2013-14,April,TSP,Tamil Nadu,0.000,0.000
+2013-14,April,UREA,Tamil Nadu,"50,000.000","7,831.050"
+2013-14,April,DAP,Tripura,450.000,0.000
+2013-14,April,MAP,Tripura,0.000,0.000
+2013-14,April,MOP,Tripura,0.000,0.000
+2013-14,April,NPK,Tripura,0.000,0.000
+2013-14,April,SSP,Tripura,"2,600.000",23.250
+2013-14,April,TSP,Tripura,0.000,0.000
+2013-14,April,UREA,Tripura,"2,600.000","2,154.500"
+2013-14,April,DAP,Uttar Pradesh,"60,000.000","65,524.700"
+2013-14,April,MAP,Uttar Pradesh,0.000,0.000
+2013-14,April,MOP,Uttar Pradesh,"10,000.000","15,994.050"
+2013-14,April,NPK,Uttar Pradesh,"50,000.000","11,045.250"
+2013-14,April,SSP,Uttar Pradesh,"5,000.000","1,696.204"
+2013-14,April,TSP,Uttar Pradesh,0.000,"16,125.250"
+2013-14,April,UREA,Uttar Pradesh,"2,50,000.000","75,436.300"
+2013-14,April,DAP,Uttaranchal,"4,000.000",313.200
+2013-14,April,MAP,Uttaranchal,0.000,0.000
+2013-14,April,MOP,Uttaranchal,500.000,0.000
+2013-14,April,NPK,Uttaranchal,"7,500.000","1,272.850"
+2013-14,April,SSP,Uttaranchal,"1,500.000",0.000
+2013-14,April,TSP,Uttaranchal,0.000,0.000
+2013-14,April,UREA,Uttaranchal,"10,000.000","5,861.000"
+2013-14,April,DAP,West Bengal,"19,000.000","1,119.010"
+2013-14,April,MAP,West Bengal,0.000,0.000
+2013-14,April,MOP,West Bengal,"10,000.000","2,251.650"
+2013-14,April,NPK,West Bengal,"46,250.000","11,405.255"
+2013-14,April,SSP,West Bengal,"17,000.000",752.900
+2013-14,April,TSP,West Bengal,0.000,"7,377.550"
+2013-14,April,UREA,West Bengal,"55,000.000","14,327.585"
+2013-14,May,DAP,Andaman & Nicobar,0.000,0.000
+2013-14,May,MAP,Andaman & Nicobar,0.000,0.000
+2013-14,May,MOP,Andaman & Nicobar,0.000,0.000
+2013-14,May,NPK,Andaman & Nicobar,0.000,0.000
+2013-14,May,SSP,Andaman & Nicobar,0.000,0.000
+2013-14,May,TSP,Andaman & Nicobar,0.000,0.000
+2013-14,May,UREA,Andaman & Nicobar,0.000,0.000
+2013-14,May,DAP,Andhra Pradesh,"1,00,000.000","39,478.850"
+2013-14,May,MAP,Andhra Pradesh,0.000,0.000
+2013-14,May,MOP,Andhra Pradesh,"30,000.000","23,370.340"
+2013-14,May,NPK,Andhra Pradesh,"1,68,000.000","68,395.408"
+2013-14,May,SSP,Andhra Pradesh,"20,000.000","8,706.196"
+2013-14,May,TSP,Andhra Pradesh,0.000,0.000
+2013-14,May,UREA,Andhra Pradesh,"1,50,000.000","1,12,499.850"
+2013-14,May,DAP,Arunachal Pradesh,60.000,0.000
+2013-14,May,MAP,Arunachal Pradesh,0.000,0.000
+2013-14,May,MOP,Arunachal Pradesh,20.000,0.000
+2013-14,May,NPK,Arunachal Pradesh,0.000,0.000
+2013-14,May,SSP,Arunachal Pradesh,40.000,0.000
+2013-14,May,TSP,Arunachal Pradesh,0.000,0.000
+2013-14,May,UREA,Arunachal Pradesh,50.000,0.000
+2013-14,May,DAP,Assam,"3,250.000","5,013.950"
+2013-14,May,MAP,Assam,0.000,0.000
+2013-14,May,MOP,Assam,"7,800.000","6,362.400"
+2013-14,May,NPK,Assam,980.000,277.300
+2013-14,May,SSP,Assam,"10,400.000",58.700
+2013-14,May,TSP,Assam,0.000,0.000
+2013-14,May,UREA,Assam,"18,850.000","5,580.500"
+2013-14,May,DAP,Bihar,"30,000.000","13,595.150"
+2013-14,May,MAP,Bihar,0.000,0.000
+2013-14,May,MOP,Bihar,"10,000.000","2,267.350"
+2013-14,May,NPK,Bihar,"30,000.000","3,837.450"
+2013-14,May,SSP,Bihar,"12,000.000",93.650
+2013-14,May,TSP,Bihar,0.000,"7,673.750"
+2013-14,May,UREA,Bihar,"80,000.000","35,553.550"
+2013-14,May,DAP,Chandigarh,0.000,0.000
+2013-14,May,MAP,Chandigarh,0.000,0.000
+2013-14,May,MOP,Chandigarh,0.000,0.000
+2013-14,May,NPK,Chandigarh,0.000,0.000
+2013-14,May,SSP,Chandigarh,0.000,0.000
+2013-14,May,TSP,Chandigarh,0.000,0.000
+2013-14,May,UREA,Chandigarh,0.000,0.000
+2013-14,May,DAP,Chattishgarh,"18,000.000","25,737.800"
+2013-14,May,MAP,Chattishgarh,0.000,0.000
+2013-14,May,MOP,Chattishgarh,"5,000.000","6,309.850"
+2013-14,May,NPK,Chattishgarh,"18,000.000","15,917.250"
+2013-14,May,SSP,Chattishgarh,"20,000.000","9,049.305"
+2013-14,May,TSP,Chattishgarh,0.000,"3,858.250"
+2013-14,May,UREA,Chattishgarh,"61,000.000","43,154.900"
+2013-14,May,DAP,Dadra & Nagar Haveli,100.000,0.000
+2013-14,May,MAP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,May,MOP,Dadra & Nagar Haveli,5.000,0.000
+2013-14,May,NPK,Dadra & Nagar Haveli,14.000,0.400
+2013-14,May,SSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,May,TSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,May,UREA,Dadra & Nagar Haveli,90.000,16.950
+2013-14,May,DAP,Daman & Diu,20.000,0.000
+2013-14,May,MAP,Daman & Diu,0.000,0.000
+2013-14,May,MOP,Daman & Diu,10.000,0.000
+2013-14,May,NPK,Daman & Diu,0.000,0.000
+2013-14,May,SSP,Daman & Diu,0.000,0.000
+2013-14,May,TSP,Daman & Diu,0.000,0.000
+2013-14,May,UREA,Daman & Diu,30.000,0.000
+2013-14,May,DAP,Delhi,200.000,0.000
+2013-14,May,MAP,Delhi,0.000,0.000
+2013-14,May,MOP,Delhi,0.000,0.000
+2013-14,May,NPK,Delhi,100.000,0.000
+2013-14,May,SSP,Delhi,0.000,0.000
+2013-14,May,TSP,Delhi,0.000,0.000
+2013-14,May,UREA,Delhi,400.000,0.000
+2013-14,May,DAP,Goa,100.000,0.000
+2013-14,May,MAP,Goa,0.000,0.000
+2013-14,May,MOP,Goa,20.000,0.000
+2013-14,May,NPK,Goa,500.000,0.000
+2013-14,May,SSP,Goa,0.000,0.000
+2013-14,May,TSP,Goa,0.000,0.000
+2013-14,May,UREA,Goa,300.000,0.000
+2013-14,May,DAP,Gujarat,"75,000.000","20,329.235"
+2013-14,May,MAP,Gujarat,0.000,0.000
+2013-14,May,MOP,Gujarat,"11,000.000","3,284.100"
+2013-14,May,NPK,Gujarat,"56,000.000","28,508.250"
+2013-14,May,SSP,Gujarat,"25,000.000","3,793.650"
+2013-14,May,TSP,Gujarat,0.000,"6,313.850"
+2013-14,May,UREA,Gujarat,"1,50,000.000","16,074.710"
+2013-14,May,DAP,Harayana,"30,000.000","38,384.750"
+2013-14,May,MAP,Harayana,0.000,0.000
+2013-14,May,MOP,Harayana,"5,000.000",0.000
+2013-14,May,NPK,Harayana,"5,000.000","1,377.200"
+2013-14,May,SSP,Harayana,"10,000.000","2,998.100"
+2013-14,May,TSP,Harayana,0.000,0.000
+2013-14,May,UREA,Harayana,"1,20,000.000","83,293.100"
+2013-14,May,DAP,Himachal Pradesh,0.000,0.000
+2013-14,May,MAP,Himachal Pradesh,0.000,0.000
+2013-14,May,MOP,Himachal Pradesh,50.000,0.000
+2013-14,May,NPK,Himachal Pradesh,"2,500.000",8.000
+2013-14,May,SSP,Himachal Pradesh,30.000,0.000
+2013-14,May,TSP,Himachal Pradesh,0.000,0.000
+2013-14,May,UREA,Himachal Pradesh,"5,000.000",565.000
+2013-14,May,DAP,Jammu & Kashmir,"8,000.000","5,083.750"
+2013-14,May,MAP,Jammu & Kashmir,0.000,0.000
+2013-14,May,MOP,Jammu & Kashmir,"1,200.000","1,018.800"
+2013-14,May,NPK,Jammu & Kashmir,0.000,0.000
+2013-14,May,SSP,Jammu & Kashmir,0.000,0.000
+2013-14,May,TSP,Jammu & Kashmir,0.000,0.000
+2013-14,May,UREA,Jammu & Kashmir,"12,000.000","7,295.200"
+2013-14,May,DAP,Jharkhand,"7,500.000",104.950
+2013-14,May,MAP,Jharkhand,0.000,0.000
+2013-14,May,MOP,Jharkhand,"2,500.000",0.000
+2013-14,May,NPK,Jharkhand,"10,000.000",3.700
+2013-14,May,SSP,Jharkhand,"5,000.000",35.450
+2013-14,May,TSP,Jharkhand,0.000,0.000
+2013-14,May,UREA,Jharkhand,"30,000.000","3,156.800"
+2013-14,May,DAP,Karnataka,"85,000.000","7,359.650"
+2013-14,May,MAP,Karnataka,0.000,0.000
+2013-14,May,MOP,Karnataka,"40,000.000","13,254.250"
+2013-14,May,NPK,Karnataka,"1,02,000.000","41,251.447"
+2013-14,May,SSP,Karnataka,"5,600.000","2,326.050"
+2013-14,May,TSP,Karnataka,0.000,"11,905.400"
+2013-14,May,UREA,Karnataka,"80,000.000","59,712.068"
+2013-14,May,DAP,Kerala,"2,000.000","4,500.750"
+2013-14,May,MAP,Kerala,0.000,0.000
+2013-14,May,MOP,Kerala,"10,000.000","2,557.302"
+2013-14,May,NPK,Kerala,"14,000.000","13,412.958"
+2013-14,May,SSP,Kerala,100.000,38.000
+2013-14,May,TSP,Kerala,0.000,"3,156.750"
+2013-14,May,UREA,Kerala,"12,000.000","1,960.400"
+2013-14,May,DAP,Lakshadweep,0.000,0.000
+2013-14,May,MAP,Lakshadweep,0.000,0.000
+2013-14,May,MOP,Lakshadweep,0.000,0.000
+2013-14,May,NPK,Lakshadweep,0.000,0.000
+2013-14,May,SSP,Lakshadweep,0.000,0.000
+2013-14,May,TSP,Lakshadweep,0.000,0.000
+2013-14,May,UREA,Lakshadweep,0.000,0.000
+2013-14,May,DAP,Madhya Pradesh,"59,400.000","69,404.400"
+2013-14,May,MAP,Madhya Pradesh,0.000,0.000
+2013-14,May,MOP,Madhya Pradesh,"14,400.000","7,340.050"
+2013-14,May,NPK,Madhya Pradesh,"59,400.000","33,288.450"
+2013-14,May,SSP,Madhya Pradesh,"34,840.000","1,43,991.661"
+2013-14,May,TSP,Madhya Pradesh,0.000,"8,443.850"
+2013-14,May,UREA,Madhya Pradesh,"1,05,000.000","68,221.150"
+2013-14,May,DAP,Maharastra,"1,54,300.000","44,869.965"
+2013-14,May,MAP,Maharastra,0.000,0.000
+2013-14,May,MOP,Maharastra,"48,800.000","6,146.950"
+2013-14,May,NPK,Maharastra,"1,54,400.000","70,046.760"
+2013-14,May,SSP,Maharastra,"81,300.000","25,770.861"
+2013-14,May,TSP,Maharastra,0.000,0.000
+2013-14,May,UREA,Maharastra,"2,52,300.000","1,21,388.425"
+2013-14,May,DAP,Manipur,450.000,0.000
+2013-14,May,MAP,Manipur,0.000,0.000
+2013-14,May,MOP,Manipur,300.000,0.000
+2013-14,May,NPK,Manipur,0.000,0.000
+2013-14,May,SSP,Manipur,100.000,0.000
+2013-14,May,TSP,Manipur,0.000,0.000
+2013-14,May,UREA,Manipur,"5,400.000",0.000
+2013-14,May,DAP,Megalaya,250.000,0.000
+2013-14,May,MAP,Megalaya,0.000,0.000
+2013-14,May,MOP,Megalaya,30.000,0.000
+2013-14,May,NPK,Megalaya,0.000,0.000
+2013-14,May,SSP,Megalaya,500.000,0.000
+2013-14,May,TSP,Megalaya,0.000,0.000
+2013-14,May,UREA,Megalaya,350.000,0.000
+2013-14,May,DAP,Mizoram,700.000,0.000
+2013-14,May,MAP,Mizoram,0.000,0.000
+2013-14,May,MOP,Mizoram,550.000,0.000
+2013-14,May,NPK,Mizoram,0.000,0.000
+2013-14,May,SSP,Mizoram,720.000,0.000
+2013-14,May,TSP,Mizoram,0.000,0.000
+2013-14,May,UREA,Mizoram,"1,350.000",0.000
+2013-14,May,DAP,Nagaland,100.000,0.000
+2013-14,May,MAP,Nagaland,0.000,0.000
+2013-14,May,MOP,Nagaland,30.000,0.000
+2013-14,May,NPK,Nagaland,0.000,0.000
+2013-14,May,SSP,Nagaland,40.000,0.000
+2013-14,May,TSP,Nagaland,0.000,0.000
+2013-14,May,UREA,Nagaland,150.000,0.000
+2013-14,May,DAP,Odisha,"12,000.000","6,232.000"
+2013-14,May,MAP,Odisha,0.000,0.000
+2013-14,May,MOP,Odisha,"8,000.000",856.150
+2013-14,May,NPK,Odisha,"30,500.000","7,563.650"
+2013-14,May,SSP,Odisha,"2,500.000",276.250
+2013-14,May,TSP,Odisha,0.000,0.000
+2013-14,May,UREA,Odisha,"25,000.000","30,080.650"
+2013-14,May,DAP,Pondicherry,250.000,0.000
+2013-14,May,MAP,Pondicherry,0.000,0.000
+2013-14,May,MOP,Pondicherry,350.000,25.000
+2013-14,May,NPK,Pondicherry,930.000,87.000
+2013-14,May,SSP,Pondicherry,70.000,0.000
+2013-14,May,TSP,Pondicherry,0.000,0.000
+2013-14,May,UREA,Pondicherry,"1,900.000",200.000
+2013-14,May,DAP,Punjab,"1,00,000.000","37,185.450"
+2013-14,May,MAP,Punjab,0.000,0.000
+2013-14,May,MOP,Punjab,"5,000.000",0.000
+2013-14,May,NPK,Punjab,"8,000.000","1,584.900"
+2013-14,May,SSP,Punjab,"5,000.000","3,412.050"
+2013-14,May,TSP,Punjab,0.000,"3,355.300"
+2013-14,May,UREA,Punjab,"4,30,000.000","66,395.250"
+2013-14,May,DAP,Rajasthan,"36,000.000","35,690.400"
+2013-14,May,MAP,Rajasthan,0.000,0.000
+2013-14,May,MOP,Rajasthan,"2,560.000",0.000
+2013-14,May,NPK,Rajasthan,"13,300.000",693.500
+2013-14,May,SSP,Rajasthan,"35,000.000","13,255.700"
+2013-14,May,TSP,Rajasthan,0.000,"3,526.250"
+2013-14,May,UREA,Rajasthan,"75,720.000","43,431.800"
+2013-14,May,DAP,Sikkim,0.000,0.000
+2013-14,May,MAP,Sikkim,0.000,0.000
+2013-14,May,MOP,Sikkim,0.000,0.000
+2013-14,May,NPK,Sikkim,0.000,0.000
+2013-14,May,SSP,Sikkim,0.000,0.000
+2013-14,May,TSP,Sikkim,0.000,0.000
+2013-14,May,UREA,Sikkim,0.000,0.000
+2013-14,May,DAP,Tamil Nadu,"25,000.000","13,558.800"
+2013-14,May,MAP,Tamil Nadu,0.000,0.000
+2013-14,May,MOP,Tamil Nadu,"28,000.000","4,267.349"
+2013-14,May,NPK,Tamil Nadu,"40,180.000","21,738.820"
+2013-14,May,SSP,Tamil Nadu,"6,000.000","4,697.050"
+2013-14,May,TSP,Tamil Nadu,0.000,0.000
+2013-14,May,UREA,Tamil Nadu,"60,000.000","7,719.650"
+2013-14,May,DAP,Tripura,450.000,0.000
+2013-14,May,MAP,Tripura,0.000,0.000
+2013-14,May,MOP,Tripura,"2,500.000",0.000
+2013-14,May,NPK,Tripura,0.000,0.000
+2013-14,May,SSP,Tripura,"2,600.000",23.250
+2013-14,May,TSP,Tripura,0.000,0.000
+2013-14,May,UREA,Tripura,"5,200.000","2,154.500"
+2013-14,May,DAP,Uttar Pradesh,"80,000.000","96,580.080"
+2013-14,May,MAP,Uttar Pradesh,0.000,0.000
+2013-14,May,MOP,Uttar Pradesh,"10,000.000","15,854.850"
+2013-14,May,NPK,Uttar Pradesh,"65,000.000","22,909.600"
+2013-14,May,SSP,Uttar Pradesh,"45,000.000","5,428.804"
+2013-14,May,TSP,Uttar Pradesh,0.000,"16,125.250"
+2013-14,May,UREA,Uttar Pradesh,"4,00,000.000","2,09,096.550"
+2013-14,May,DAP,Uttaranchal,"4,000.000","2,479.700"
+2013-14,May,MAP,Uttaranchal,0.000,0.000
+2013-14,May,MOP,Uttaranchal,"1,000.000",0.000
+2013-14,May,NPK,Uttaranchal,"7,500.000","4,165.150"
+2013-14,May,SSP,Uttaranchal,"1,500.000",0.000
+2013-14,May,TSP,Uttaranchal,0.000,0.000
+2013-14,May,UREA,Uttaranchal,"30,000.000","9,052.350"
+2013-14,May,DAP,West Bengal,"26,000.000","3,309.220"
+2013-14,May,MAP,West Bengal,0.000,0.000
+2013-14,May,MOP,West Bengal,"16,000.000","2,251.650"
+2013-14,May,NPK,West Bengal,"58,200.000","29,962.550"
+2013-14,May,SSP,West Bengal,"22,000.000","5,907.700"
+2013-14,May,TSP,West Bengal,0.000,"7,377.550"
+2013-14,May,UREA,West Bengal,"65,000.000","34,451.135"
+2013-14,June,DAP,Andaman & Nicobar,0.000,0.000
+2013-14,June,MAP,Andaman & Nicobar,0.000,0.000
+2013-14,June,MOP,Andaman & Nicobar,400.000,0.000
+2013-14,June,NPK,Andaman & Nicobar,0.000,0.000
+2013-14,June,SSP,Andaman & Nicobar,0.000,0.000
+2013-14,June,TSP,Andaman & Nicobar,0.000,0.000
+2013-14,June,UREA,Andaman & Nicobar,0.000,0.000
+2013-14,June,DAP,Andhra Pradesh,"1,00,000.000","38,919.300"
+2013-14,June,MAP,Andhra Pradesh,0.000,0.000
+2013-14,June,MOP,Andhra Pradesh,"40,000.000","22,119.390"
+2013-14,June,NPK,Andhra Pradesh,"2,00,000.000","87,599.108"
+2013-14,June,SSP,Andhra Pradesh,"40,000.000","9,494.146"
+2013-14,June,TSP,Andhra Pradesh,0.000,0.000
+2013-14,June,UREA,Andhra Pradesh,"2,00,000.000","1,28,730.650"
+2013-14,June,DAP,Arunachal Pradesh,60.000,0.000
+2013-14,June,MAP,Arunachal Pradesh,0.000,0.000
+2013-14,June,MOP,Arunachal Pradesh,10.000,0.000
+2013-14,June,NPK,Arunachal Pradesh,0.000,0.000
+2013-14,June,SSP,Arunachal Pradesh,40.000,0.000
+2013-14,June,TSP,Arunachal Pradesh,0.000,0.000
+2013-14,June,UREA,Arunachal Pradesh,80.000,0.000
+2013-14,June,DAP,Assam,"5,250.000","4,697.450"
+2013-14,June,MAP,Assam,0.000,0.000
+2013-14,June,MOP,Assam,"12,600.000","8,406.300"
+2013-14,June,NPK,Assam,"1,550.000",204.350
+2013-14,June,SSP,Assam,"16,800.000","10,261.500"
+2013-14,June,TSP,Assam,0.000,0.000
+2013-14,June,UREA,Assam,"30,450.000","6,739.250"
+2013-14,June,DAP,Bihar,"60,000.000","15,920.600"
+2013-14,June,MAP,Bihar,0.000,0.000
+2013-14,June,MOP,Bihar,"25,000.000","6,706.100"
+2013-14,June,NPK,Bihar,"45,000.000","8,729.650"
+2013-14,June,SSP,Bihar,"18,000.000",90.150
+2013-14,June,TSP,Bihar,0.000,"7,673.750"
+2013-14,June,UREA,Bihar,"1,90,000.000","56,643.900"
+2013-14,June,DAP,Chandigarh,0.000,0.000
+2013-14,June,MAP,Chandigarh,0.000,0.000
+2013-14,June,MOP,Chandigarh,0.000,0.000
+2013-14,June,NPK,Chandigarh,0.000,0.000
+2013-14,June,SSP,Chandigarh,0.000,0.000
+2013-14,June,TSP,Chandigarh,0.000,0.000
+2013-14,June,UREA,Chandigarh,0.000,0.000
+2013-14,June,DAP,Chattishgarh,"45,000.000","55,435.000"
+2013-14,June,MAP,Chattishgarh,0.000,0.000
+2013-14,June,MOP,Chattishgarh,"20,000.000","7,978.550"
+2013-14,June,NPK,Chattishgarh,"31,000.000","24,075.600"
+2013-14,June,SSP,Chattishgarh,"47,000.000","14,013.105"
+2013-14,June,TSP,Chattishgarh,0.000,"3,858.250"
+2013-14,June,UREA,Chattishgarh,"1,19,000.000","52,002.850"
+2013-14,June,DAP,Dadra & Nagar Haveli,550.000,0.000
+2013-14,June,MAP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,June,MOP,Dadra & Nagar Haveli,10.000,0.000
+2013-14,June,NPK,Dadra & Nagar Haveli,13.000,0.000
+2013-14,June,SSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,June,TSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,June,UREA,Dadra & Nagar Haveli,580.000,0.000
+2013-14,June,DAP,Daman & Diu,20.000,0.000
+2013-14,June,MAP,Daman & Diu,0.000,0.000
+2013-14,June,MOP,Daman & Diu,10.000,0.000
+2013-14,June,NPK,Daman & Diu,10.000,0.000
+2013-14,June,SSP,Daman & Diu,0.000,NA
+2013-14,June,TSP,Daman & Diu,0.000,0.000
+2013-14,June,UREA,Daman & Diu,70.000,0.000
+2013-14,June,DAP,Delhi,400.000,0.000
+2013-14,June,MAP,Delhi,0.000,0.000
+2013-14,June,MOP,Delhi,150.000,0.000
+2013-14,June,NPK,Delhi,200.000,0.000
+2013-14,June,SSP,Delhi,0.000,0.000
+2013-14,June,TSP,Delhi,0.000,0.000
+2013-14,June,UREA,Delhi,500.000,0.000
+2013-14,June,DAP,Goa,700.000,0.000
+2013-14,June,MAP,Goa,0.000,0.000
+2013-14,June,MOP,Goa,50.000,0.000
+2013-14,June,NPK,Goa,"1,200.000",0.000
+2013-14,June,SSP,Goa,0.000,0.000
+2013-14,June,TSP,Goa,0.000,0.000
+2013-14,June,UREA,Goa,800.000,-14.650
+2013-14,June,DAP,Gujarat,"80,000.000","36,076.504"
+2013-14,June,MAP,Gujarat,0.000,0.000
+2013-14,June,MOP,Gujarat,"15,000.000","1,742.650"
+2013-14,June,NPK,Gujarat,"56,700.000","39,091.085"
+2013-14,June,SSP,Gujarat,"30,000.000","3,173.750"
+2013-14,June,TSP,Gujarat,0.000,"6,313.850"
+2013-14,June,UREA,Gujarat,"2,30,000.000","31,478.349"
+2013-14,June,DAP,Harayana,"80,000.000","39,041.800"
+2013-14,June,MAP,Harayana,0.000,0.000
+2013-14,June,MOP,Harayana,"5,000.000",969.100
+2013-14,June,NPK,Harayana,"5,000.000","1,377.200"
+2013-14,June,SSP,Harayana,"5,000.000",904.040
+2013-14,June,TSP,Harayana,0.000,0.000
+2013-14,June,UREA,Harayana,"2,50,000.000","1,04,304.550"
+2013-14,June,DAP,Himachal Pradesh,0.000,0.000
+2013-14,June,MAP,Himachal Pradesh,0.000,0.000
+2013-14,June,MOP,Himachal Pradesh,50.000,0.000
+2013-14,June,NPK,Himachal Pradesh,"2,500.000",155.150
+2013-14,June,SSP,Himachal Pradesh,60.000,0.000
+2013-14,June,TSP,Himachal Pradesh,0.000,0.000
+2013-14,June,UREA,Himachal Pradesh,"12,500.000",123.350
+2013-14,June,DAP,Jammu & Kashmir,"8,000.000","4,142.350"
+2013-14,June,MAP,Jammu & Kashmir,0.000,0.000
+2013-14,June,MOP,Jammu & Kashmir,"1,500.000",63.750
+2013-14,June,NPK,Jammu & Kashmir,0.000,0.000
+2013-14,June,SSP,Jammu & Kashmir,0.000,0.000
+2013-14,June,TSP,Jammu & Kashmir,0.000,0.000
+2013-14,June,UREA,Jammu & Kashmir,"15,000.000","5,827.100"
+2013-14,June,DAP,Jharkhand,"10,000.000",104.800
+2013-14,June,MAP,Jharkhand,0.000,0.000
+2013-14,June,MOP,Jharkhand,"2,500.000",0.000
+2013-14,June,NPK,Jharkhand,"10,000.000",3.700
+2013-14,June,SSP,Jharkhand,"2,500.000","35,250.000"
+2013-14,June,TSP,Jharkhand,0.000,0.000
+2013-14,June,UREA,Jharkhand,"30,000.000","9,127.050"
+2013-14,June,DAP,Karnataka,"95,000.000","13,822.139"
+2013-14,June,MAP,Karnataka,0.000,0.000
+2013-14,June,MOP,Karnataka,"55,000.000","14,437.136"
+2013-14,June,NPK,Karnataka,"1,37,000.000","59,834.629"
+2013-14,June,SSP,Karnataka,"5,000.000","2,228.150"
+2013-14,June,TSP,Karnataka,0.000,"11,905.400"
+2013-14,June,UREA,Karnataka,"1,20,000.000","55,771.318"
+2013-14,June,DAP,Kerala,"5,000.000","4,307.300"
+2013-14,June,MAP,Kerala,0.000,0.000
+2013-14,June,MOP,Kerala,"25,000.000","4,555.905"
+2013-14,June,NPK,Kerala,"31,000.000","13,898.104"
+2013-14,June,SSP,Kerala,100.000,38.000
+2013-14,June,TSP,Kerala,0.000,"3,156.750"
+2013-14,June,UREA,Kerala,"24,500.000",319.750
+2013-14,June,DAP,Lakshadweep,0.000,0.000
+2013-14,June,MAP,Lakshadweep,0.000,0.000
+2013-14,June,MOP,Lakshadweep,0.000,0.000
+2013-14,June,NPK,Lakshadweep,0.000,0.000
+2013-14,June,SSP,Lakshadweep,0.000,0.000
+2013-14,June,TSP,Lakshadweep,0.000,0.000
+2013-14,June,UREA,Lakshadweep,0.000,0.000
+2013-14,June,DAP,Madhya Pradesh,"1,65,000.000","71,868.050"
+2013-14,June,MAP,Madhya Pradesh,0.000,0.000
+2013-14,June,MOP,Madhya Pradesh,"40,500.000","8,598.900"
+2013-14,June,NPK,Madhya Pradesh,"44,000.000","43,882.150"
+2013-14,June,SSP,Madhya Pradesh,"1,11,610.000","2,11,808.411"
+2013-14,June,TSP,Madhya Pradesh,0.000,"8,443.850"
+2013-14,June,UREA,Madhya Pradesh,"1,87,500.000","1,24,281.700"
+2013-14,June,DAP,Maharastra,"1,62,800.000","53,250.665"
+2013-14,June,MAP,Maharastra,0.000,0.000
+2013-14,June,MOP,Maharastra,"51,300.000","12,128.250"
+2013-14,June,NPK,Maharastra,"1,63,000.000","97,820.010"
+2013-14,June,SSP,Maharastra,"85,800.000","32,640.961"
+2013-14,June,TSP,Maharastra,0.000,0.000
+2013-14,June,UREA,Maharastra,"2,66,000.000","1,83,315.100"
+2013-14,June,DAP,Manipur,"1,300.000",0.000
+2013-14,June,MAP,Manipur,0.000,0.000
+2013-14,June,MOP,Manipur,400.000,0.000
+2013-14,June,NPK,Manipur,0.000,0.000
+2013-14,June,SSP,Manipur,200.000,0.000
+2013-14,June,TSP,Manipur,0.000,0.000
+2013-14,June,UREA,Manipur,"7,400.000",0.000
+2013-14,June,DAP,Megalaya,450.000,0.000
+2013-14,June,MAP,Megalaya,0.000,0.000
+2013-14,June,MOP,Megalaya,50.000,0.000
+2013-14,June,NPK,Megalaya,0.000,0.000
+2013-14,June,SSP,Megalaya,500.000,0.000
+2013-14,June,TSP,Megalaya,0.000,0.000
+2013-14,June,UREA,Megalaya,550.000,0.000
+2013-14,June,DAP,Mizoram,600.000,0.000
+2013-14,June,MAP,Mizoram,0.000,0.000
+2013-14,June,MOP,Mizoram,400.000,0.000
+2013-14,June,NPK,Mizoram,0.000,0.000
+2013-14,June,SSP,Mizoram,560.000,0.000
+2013-14,June,TSP,Mizoram,0.000,0.000
+2013-14,June,UREA,Mizoram,"1,300.000",0.000
+2013-14,June,DAP,Nagaland,100.000,0.000
+2013-14,June,MAP,Nagaland,0.000,0.000
+2013-14,June,MOP,Nagaland,20.000,0.000
+2013-14,June,NPK,Nagaland,0.000,0.000
+2013-14,June,SSP,Nagaland,40.000,0.000
+2013-14,June,TSP,Nagaland,0.000,0.000
+2013-14,June,UREA,Nagaland,140.000,0.000
+2013-14,June,DAP,Odisha,"35,000.000","11,247.250"
+2013-14,June,MAP,Odisha,0.000,0.000
+2013-14,June,MOP,Odisha,"15,000.000","2,035.800"
+2013-14,June,NPK,Odisha,"58,000.000","15,094.000"
+2013-14,June,SSP,Odisha,"2,700.000",208.250
+2013-14,June,TSP,Odisha,0.000,0.000
+2013-14,June,UREA,Odisha,"45,000.000","35,188.950"
+2013-14,June,DAP,Pondicherry,550.000,0.000
+2013-14,June,MAP,Pondicherry,0.000,0.000
+2013-14,June,MOP,Pondicherry,500.000,25.000
+2013-14,June,NPK,Pondicherry,"1,980.000",18.000
+2013-14,June,SSP,Pondicherry,180.000,0.000
+2013-14,June,TSP,Pondicherry,0.000,0.000
+2013-14,June,UREA,Pondicherry,"2,350.000",0.000
+2013-14,June,DAP,Punjab,"50,000.000","43,516.650"
+2013-14,June,MAP,Punjab,0.000,0.000
+2013-14,June,MOP,Punjab,"5,000.000",-4.100
+2013-14,June,NPK,Punjab,"8,000.000","2,444.150"
+2013-14,June,SSP,Punjab,"5,000.000","3,641.400"
+2013-14,June,TSP,Punjab,0.000,"3,355.300"
+2013-14,June,UREA,Punjab,"3,00,000.000","86,049.000"
+2013-14,June,DAP,Rajasthan,"36,000.000","36,948.900"
+2013-14,June,MAP,Rajasthan,0.000,0.000
+2013-14,June,MOP,Rajasthan,900.000,0.000
+2013-14,June,NPK,Rajasthan,"7,700.000",406.350
+2013-14,June,SSP,Rajasthan,"48,000.000","13,760.500"
+2013-14,June,TSP,Rajasthan,0.000,"3,526.250"
+2013-14,June,UREA,Rajasthan,"1,25,110.000","43,115.150"
+2013-14,June,DAP,Sikkim,0.000,0.000
+2013-14,June,MAP,Sikkim,0.000,0.000
+2013-14,June,MOP,Sikkim,0.000,0.000
+2013-14,June,NPK,Sikkim,0.000,0.000
+2013-14,June,SSP,Sikkim,0.000,0.000
+2013-14,June,TSP,Sikkim,0.000,0.000
+2013-14,June,UREA,Sikkim,0.000,0.000
+2013-14,June,DAP,Tamil Nadu,"30,000.000","9,424.350"
+2013-14,June,MAP,Tamil Nadu,0.000,0.000
+2013-14,June,MOP,Tamil Nadu,"33,000.000","2,804.349"
+2013-14,June,NPK,Tamil Nadu,"47,590.000","26,606.470"
+2013-14,June,SSP,Tamil Nadu,"7,000.000","4,448.050"
+2013-14,June,TSP,Tamil Nadu,0.000,0.000
+2013-14,June,UREA,Tamil Nadu,"80,000.000","11,864.050"
+2013-14,June,DAP,Tripura,750.000,0.000
+2013-14,June,MAP,Tripura,0.000,0.000
+2013-14,June,MOP,Tripura,0.000,0.000
+2013-14,June,NPK,Tripura,0.000,0.000
+2013-14,June,SSP,Tripura,"7,800.000",23.250
+2013-14,June,TSP,Tripura,0.000,0.000
+2013-14,June,UREA,Tripura,"7,800.000","2,154.500"
+2013-14,June,DAP,Uttar Pradesh,"1,50,000.000","1,20,253.000"
+2013-14,June,MAP,Uttar Pradesh,0.000,0.000
+2013-14,June,MOP,Uttar Pradesh,"15,000.000","14,808.050"
+2013-14,June,NPK,Uttar Pradesh,"1,25,000.000","36,843.750"
+2013-14,June,SSP,Uttar Pradesh,"60,000.000","11,010.104"
+2013-14,June,TSP,Uttar Pradesh,0.000,"16,125.250"
+2013-14,June,UREA,Uttar Pradesh,"5,50,000.000","2,29,284.250"
+2013-14,June,DAP,Uttaranchal,"4,000.000","1,478.950"
+2013-14,June,UREA,Uttaranchal,0.000,0.000
+2013-14,June,MOP,Uttaranchal,"1,500.000",0.000
+2013-14,June,NPK,Uttaranchal,"5,000.000","3,093.300"
+2013-14,June,SSP,Uttaranchal,"1,500.000",0.000
+2013-14,June,TSP,Uttaranchal,0.000,0.000
+2013-14,June,UREA,Uttaranchal,"35,000.000","2,468.400"
+2013-14,June,DAP,West Bengal,"42,000.000","6,885.970"
+2013-14,June,MAP,West Bengal,0.000,0.000
+2013-14,June,MOP,West Bengal,"24,000.000","1,198.450"
+2013-14,June,NPK,West Bengal,"70,400.000","40,193.535"
+2013-14,June,SSP,West Bengal,"30,000.000","9,242.850"
+2013-14,June,TSP,West Bengal,0.000,"7,377.550"
+2013-14,June,UREA,West Bengal,"84,000.000","51,535.575"
+2013-14,July,DAP,Andaman & Nicobar,0.000,0.000
+2013-14,July,MAP,Andaman & Nicobar,0.000,0.000
+2013-14,July,MOP,Andaman & Nicobar,0.000,0.000
+2013-14,July,NPK,Andaman & Nicobar,0.000,0.000
+2013-14,July,TSP,Andaman & Nicobar,0.000,0.000
+2013-14,July,UREA,Andaman & Nicobar,0.000,0.000
+2013-14,July,DAP,Andhra Pradesh,"2,00,000.000","25,975.150"
+2013-14,July,MAP,Andhra Pradesh,0.000,0.000
+2013-14,July,MOP,Andhra Pradesh,"50,000.000","20,608.140"
+2013-14,July,NPK,Andhra Pradesh,"2,16,000.000","55,327.908"
+2013-14,July,TSP,Andhra Pradesh,0.000,0.000
+2013-14,July,UREA,Andhra Pradesh,"4,00,000.000","72,612.350"
+2013-14,July,DAP,Arunachal Pradesh,60.000,0.000
+2013-14,July,MAP,Arunachal Pradesh,0.000,0.000
+2013-14,July,MOP,Arunachal Pradesh,20.000,0.000
+2013-14,July,NPK,Arunachal Pradesh,0.000,0.000
+2013-14,July,TSP,Arunachal Pradesh,0.000,0.000
+2013-14,July,UREA,Arunachal Pradesh,80.000,0.000
+2013-14,July,DAP,Assam,"5,750.000","6,827.550"
+2013-14,July,MAP,Assam,0.000,0.000
+2013-14,July,MOP,Assam,"13,800.000","6,726.150"
+2013-14,July,NPK,Assam,"1,730.000","1,124.250"
+2013-14,July,TSP,Assam,0.000,0.000
+2013-14,July,UREA,Assam,"33,350.000","12,875.150"
+2013-14,July,DAP,Bihar,"70,000.000","20,343.950"
+2013-14,July,MAP,Bihar,0.000,0.000
+2013-14,July,MOP,Bihar,"25,000.000","11,422.050"
+2013-14,July,NPK,Bihar,"50,000.000","6,335.750"
+2013-14,July,TSP,Bihar,0.000,"7,673.750"
+2013-14,July,UREA,Bihar,"2,20,000.000","48,291.250"
+2013-14,July,DAP,Chandigarh,0.000,0.000
+2013-14,July,MAP,Chandigarh,0.000,0.000
+2013-14,July,MOP,Chandigarh,0.000,0.000
+2013-14,July,NPK,Chandigarh,0.000,0.000
+2013-14,July,TSP,Chandigarh,0.000,0.000
+2013-14,July,UREA,Chandigarh,0.000,0.000
+2013-14,July,DAP,Chattishgarh,"58,000.000","18,655.750"
+2013-14,July,MAP,Chattishgarh,0.000,0.000
+2013-14,July,MOP,Chattishgarh,"20,000.000","9,699.900"
+2013-14,July,NPK,Chattishgarh,"37,000.000","9,000.500"
+2013-14,July,TSP,Chattishgarh,0.000,"3,858.250"
+2013-14,July,UREA,Chattishgarh,"1,22,000.000","27,146.550"
+2013-14,July,DAP,Dadra & Nagar Haveli,140.000,10.050
+2013-14,July,MAP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,July,MOP,Dadra & Nagar Haveli,5.000,0.000
+2013-14,July,NPK,Dadra & Nagar Haveli,10.000,0.000
+2013-14,July,TSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,July,UREA,Dadra & Nagar Haveli,180.000,0.000
+2013-14,July,DAP,Daman & Diu,20.000,0.000
+2013-14,July,MAP,Daman & Diu,0.000,0.000
+2013-14,July,MOP,Daman & Diu,0.000,0.000
+2013-14,July,NPK,Daman & Diu,0.000,0.000
+2013-14,July,TSP,Daman & Diu,0.000,0.000
+2013-14,July,UREA,Daman & Diu,30.000,0.000
+2013-14,July,DAP,Delhi,800.000,0.000
+2013-14,July,MAP,Delhi,0.000,0.000
+2013-14,July,MOP,Delhi,200.000,0.000
+2013-14,July,NPK,Delhi,250.000,0.000
+2013-14,July,TSP,Delhi,0.000,0.000
+2013-14,July,UREA,Delhi,800.000,0.000
+2013-14,July,DAP,Goa,600.000,43.800
+2013-14,July,MAP,Goa,0.000,0.000
+2013-14,July,MOP,Goa,50.000,140.000
+2013-14,July,NPK,Goa,"1,200.000",0.000
+2013-14,July,TSP,Goa,0.000,0.000
+2013-14,July,UREA,Goa,800.000,252.000
+2013-14,July,DAP,Gujarat,"35,000.000","32,959.062"
+2013-14,July,MAP,Gujarat,0.000,0.000
+2013-14,July,MOP,Gujarat,"15,000.000","2,702.200"
+2013-14,July,NPK,Gujarat,"39,500.000","40,223.377"
+2013-14,July,TSP,Gujarat,0.000,"6,313.850"
+2013-14,July,UREA,Gujarat,"2,50,000.000","57,070.273"
+2013-14,July,DAP,Harayana,"60,000.000","33,013.850"
+2013-14,July,MAP,Harayana,0.000,0.000
+2013-14,July,MOP,Harayana,"3,000.000",-0.800
+2013-14,July,NPK,Harayana,"5,000.000","1,377.200"
+2013-14,July,TSP,Harayana,0.000,0.000
+2013-14,July,UREA,Harayana,"2,40,000.000","73,345.800"
+2013-14,July,DAP,Himachal Pradesh,0.000,0.000
+2013-14,July,MAP,Himachal Pradesh,0.000,0.000
+2013-14,July,MOP,Himachal Pradesh,100.000,0.000
+2013-14,July,NPK,Himachal Pradesh,"2,500.000",83.100
+2013-14,July,TSP,Himachal Pradesh,0.000,0.000
+2013-14,July,UREA,Himachal Pradesh,"10,000.000",338.500
+2013-14,July,DAP,Jammu & Kashmir,"8,000.000","3,790.100"
+2013-14,July,MAP,Jammu & Kashmir,0.000,0.000
+2013-14,July,MOP,Jammu & Kashmir,"1,500.000","3,130.050"
+2013-14,July,NPK,Jammu & Kashmir,0.000,0.000
+2013-14,July,TSP,Jammu & Kashmir,0.000,0.000
+2013-14,July,UREA,Jammu & Kashmir,"12,500.000","10,739.000"
+2013-14,July,DAP,Jharkhand,"12,000.000","1,203.050"
+2013-14,July,MAP,Jharkhand,0.000,0.000
+2013-14,July,MOP,Jharkhand,"2,500.000",-3.700
+2013-14,July,NPK,Jharkhand,"5,000.000",890.750
+2013-14,July,TSP,Jharkhand,0.000,0.000
+2013-14,July,UREA,Jharkhand,"30,000.000","8,499.900"
+2013-14,July,DAP,Karnataka,"95,000.000","13,230.390"
+2013-14,July,MAP,Karnataka,0.000,0.000
+2013-14,July,MOP,Karnataka,"58,000.000","12,010.100"
+2013-14,July,NPK,Karnataka,"1,32,000.000","53,677.209"
+2013-14,July,TSP,Karnataka,0.000,"11,905.400"
+2013-14,July,UREA,Karnataka,"1,78,000.000","29,923.285"
+2013-14,July,DAP,Kerala,"5,000.000","2,427.400"
+2013-14,July,MAP,Kerala,0.000,0.000
+2013-14,July,MOP,Kerala,"25,000.000","2,218.347"
+2013-14,July,NPK,Kerala,"31,000.000","12,617.924"
+2013-14,July,TSP,Kerala,0.000,"3,156.750"
+2013-14,July,UREA,Kerala,"24,500.000",277.800
+2013-14,July,DAP,Lakshadweep,0.000,0.000
+2013-14,July,MAP,Lakshadweep,0.000,0.000
+2013-14,July,MOP,Lakshadweep,0.000,0.000
+2013-14,July,NPK,Lakshadweep,0.000,0.000
+2013-14,July,TSP,Lakshadweep,0.000,0.000
+2013-14,July,UREA,Lakshadweep,0.000,0.000
+2013-14,July,DAP,Madhya Pradesh,"1,08,800.000","59,710.200"
+2013-14,July,MAP,Madhya Pradesh,0.000,0.000
+2013-14,July,MOP,Madhya Pradesh,"16,200.000","7,519.850"
+2013-14,July,NPK,Madhya Pradesh,"33,000.000","32,180.200"
+2013-14,July,TSP,Madhya Pradesh,0.000,"8,443.850"
+2013-14,July,UREA,Madhya Pradesh,"1,12,500.000","94,378.150"
+2013-14,July,DAP,Maharastra,"1,69,500.000","37,338.025"
+2013-14,July,MAP,Maharastra,0.000,0.000
+2013-14,July,MOP,Maharastra,"53,500.000","14,457.200"
+2013-14,July,NPK,Maharastra,"1,68,400.000","49,984.460"
+2013-14,July,TSP,Maharastra,0.000,0.000
+2013-14,July,UREA,Maharastra,"2,76,300.000","1,27,564.150"
+2013-14,July,DAP,Manipur,"1,150.000",0.000
+2013-14,July,MAP,Manipur,0.000,0.000
+2013-14,July,MOP,Manipur,450.000,0.000
+2013-14,July,NPK,Manipur,0.000,0.000
+2013-14,July,TSP,Manipur,0.000,0.000
+2013-14,July,UREA,Manipur,"7,800.000",0.000
+2013-14,July,DAP,Megalaya,900.000,200.000
+2013-14,July,MAP,Megalaya,0.000,0.000
+2013-14,July,MOP,Megalaya,100.000,0.000
+2013-14,July,NPK,Megalaya,0.000,0.000
+2013-14,July,TSP,Megalaya,0.000,0.000
+2013-14,July,UREA,Megalaya,"1,300.000",0.000
+2013-14,July,DAP,Mizoram,600.000,0.000
+2013-14,July,MAP,Mizoram,0.000,0.000
+2013-14,July,MOP,Mizoram,400.000,0.000
+2013-14,July,NPK,Mizoram,0.000,0.000
+2013-14,July,TSP,Mizoram,0.000,0.000
+2013-14,July,UREA,Mizoram,"1,300.000",0.000
+2013-14,July,DAP,Nagaland,50.000,0.000
+2013-14,July,MAP,Nagaland,0.000,0.000
+2013-14,July,MOP,Nagaland,30.000,0.000
+2013-14,July,NPK,Nagaland,0.000,0.000
+2013-14,July,TSP,Nagaland,0.000,0.000
+2013-14,July,UREA,Nagaland,150.000,0.000
+2013-14,July,DAP,Odisha,"60,000.000","8,962.000"
+2013-14,July,MAP,Odisha,0.000,0.000
+2013-14,July,MOP,Odisha,"30,000.000","5,363.400"
+2013-14,July,NPK,Odisha,"79,000.000","9,507.850"
+2013-14,July,TSP,Odisha,0.000,0.000
+2013-14,July,UREA,Odisha,"1,30,000.000","18,834.200"
+2013-14,July,DAP,Pondicherry,420.000,0.000
+2013-14,July,MAP,Pondicherry,0.000,0.000
+2013-14,July,MOP,Pondicherry,100.000,20.000
+2013-14,July,NPK,Pondicherry,"1,170.000",263.600
+2013-14,July,TSP,Pondicherry,0.000,0.000
+2013-14,July,UREA,Pondicherry,"2,000.000",0.000
+2013-14,July,DAP,Punjab,"1,00,000.000","37,869.850"
+2013-14,July,MAP,Punjab,0.000,0.000
+2013-14,July,MOP,Punjab,"5,000.000","3,664.600"
+2013-14,July,NPK,Punjab,"4,000.000","1,728.050"
+2013-14,July,TSP,Punjab,0.000,"3,355.300"
+2013-14,July,UREA,Punjab,"3,00,000.000","78,738.550"
+2013-14,July,DAP,Rajasthan,"81,600.000","26,475.700"
+2013-14,July,MAP,Rajasthan,0.000,0.000
+2013-14,July,MOP,Rajasthan,"1,500.000",0.000
+2013-14,July,NPK,Rajasthan,"9,660.000","1,418.650"
+2013-14,July,TSP,Rajasthan,0.000,"3,526.250"
+2013-14,July,UREA,Rajasthan,"1,44,410.000","37,965.775"
+2013-14,July,DAP,Sikkim,0.000,0.000
+2013-14,July,MAP,Sikkim,0.000,0.000
+2013-14,July,MOP,Sikkim,0.000,0.000
+2013-14,July,NPK,Sikkim,0.000,0.000
+2013-14,July,TSP,Sikkim,0.000,0.000
+2013-14,July,UREA,Sikkim,0.000,0.000
+2013-14,July,DAP,Tamil Nadu,"38,000.000","8,992.900"
+2013-14,July,MAP,Tamil Nadu,0.000,0.000
+2013-14,July,MOP,Tamil Nadu,"40,000.000","4,449.049"
+2013-14,July,NPK,Tamil Nadu,"49,740.000","13,538.370"
+2013-14,July,TSP,Tamil Nadu,0.000,0.000
+2013-14,July,UREA,Tamil Nadu,"85,000.000","3,200.900"
+2013-14,July,DAP,Tripura,750.000,0.000
+2013-14,July,MAP,Tripura,0.000,0.000
+2013-14,July,MOP,Tripura,"2,500.000",0.000
+2013-14,July,NPK,Tripura,0.000,0.000
+2013-14,July,TSP,Tripura,0.000,0.000
+2013-14,July,UREA,Tripura,"7,800.000","2,134.500"
+2013-14,July,DAP,Uttar Pradesh,"2,50,000.000","1,27,731.800"
+2013-14,July,MAP,Uttar Pradesh,0.000,0.000
+2013-14,July,MOP,Uttar Pradesh,"25,000.000",58.400
+2013-14,July,NPK,Uttar Pradesh,"1,10,000.000","33,987.900"
+2013-14,July,TSP,Uttar Pradesh,0.000,"16,125.250"
+2013-14,July,UREA,Uttar Pradesh,"7,00,000.000","2,09,156.340"
+2013-14,July,DAP,Uttaranchal,"4,000.000","4,192.850"
+2013-14,July,MAP,Uttaranchal,0.000,0.000
+2013-14,July,MOP,Uttaranchal,500.000,0.000
+2013-14,July,NPK,Uttaranchal,"5,000.000","1,263.000"
+2013-14,July,TSP,Uttaranchal,0.000,0.000
+2013-14,July,UREA,Uttaranchal,"30,000.000","3,138.850"
+2013-14,July,DAP,West Bengal,"49,000.000","5,125.520"
+2013-14,July,MAP,West Bengal,0.000,0.000
+2013-14,July,MOP,West Bengal,"23,000.000","4,012.650"
+2013-14,July,NPK,West Bengal,"94,800.000","29,810.185"
+2013-14,July,TSP,West Bengal,0.000,"7,377.550"
+2013-14,July,UREA,West Bengal,"98,000.000","69,032.475"
+2013-14,August,DAP,Andaman & Nicobar,0.000,0.000
+2013-14,August,MAP,Andaman & Nicobar,0.000,0.000
+2013-14,August,MOP,Andaman & Nicobar,0.000,0.000
+2013-14,August,NPK,Andaman & Nicobar,0.000,0.000
+2013-14,August,TSP,Andaman & Nicobar,0.000,0.000
+2013-14,August,UREA,Andaman & Nicobar,0.000,0.000
+2013-14,August,DAP,Andhra Pradesh,"1,50,000.000","36,347.150"
+2013-14,August,MAP,Andhra Pradesh,0.000,0.000
+2013-14,August,MOP,Andhra Pradesh,"75,000.000","17,451.640"
+2013-14,August,NPK,Andhra Pradesh,"2,21,000.000","62,569.258"
+2013-14,August,TSP,Andhra Pradesh,0.000,0.000
+2013-14,August,UREA,Andhra Pradesh,"4,00,000.000","21,162.400"
+2013-14,August,DAP,Arunachal Pradesh,60.000,0.000
+2013-14,August,MAP,Arunachal Pradesh,0.000,0.000
+2013-14,August,MOP,Arunachal Pradesh,10.000,0.000
+2013-14,August,NPK,Arunachal Pradesh,0.000,0.000
+2013-14,August,TSP,Arunachal Pradesh,0.000,0.000
+2013-14,August,UREA,Arunachal Pradesh,90.000,0.000
+2013-14,August,DAP,Assam,"5,250.000","8,120.500"
+2013-14,August,MAP,Assam,0.000,0.000
+2013-14,August,MOP,Assam,"12,600.000","11,080.700"
+2013-14,August,NPK,Assam,"1,580.000",519.750
+2013-14,August,TSP,Assam,0.000,0.000
+2013-14,August,UREA,Assam,"30,450.000","10,019.650"
+2013-14,August,DAP,Bihar,"40,000.000","27,845.700"
+2013-14,August,MAP,Bihar,0.000,0.000
+2013-14,August,MOP,Bihar,"10,000.000","24,772.600"
+2013-14,August,NPK,Bihar,"25,000.000","11,189.400"
+2013-14,August,TSP,Bihar,0.000,"7,673.750"
+2013-14,August,UREA,Bihar,"2,30,000.000","22,338.150"
+2013-14,August,DAP,Chandigarh,0.000,0.000
+2013-14,August,MAP,Chandigarh,0.000,0.000
+2013-14,August,MOP,Chandigarh,0.000,0.000
+2013-14,August,NPK,Chandigarh,0.000,0.000
+2013-14,August,TSP,Chandigarh,0.000,0.000
+2013-14,August,UREA,Chandigarh,0.000,0.000
+2013-14,August,DAP,Chattishgarh,"45,000.000","9,069.000"
+2013-14,August,MAP,Chattishgarh,0.000,0.000
+2013-14,August,MOP,Chattishgarh,"21,000.000","24,243.300"
+2013-14,August,NPK,Chattishgarh,"24,000.000","5,446.350"
+2013-14,August,TSP,Chattishgarh,0.000,"3,858.250"
+2013-14,August,UREA,Chattishgarh,"1,23,000.000","10,022.150"
+2013-14,August,DAP,Dadra & Nagar Haveli,50.000,34.850
+2013-14,August,MAP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,August,MOP,Dadra & Nagar Haveli,2.000,0.000
+2013-14,August,NPK,Dadra & Nagar Haveli,5.000,6.000
+2013-14,August,TSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,August,UREA,Dadra & Nagar Haveli,60.000,4.400
+2013-14,August,DAP,Daman & Diu,20.000,0.000
+2013-14,August,MAP,Daman & Diu,0.000,0.000
+2013-14,August,MOP,Daman & Diu,0.000,0.000
+2013-14,August,NPK,Daman & Diu,0.000,0.000
+2013-14,August,TSP,Daman & Diu,0.000,0.000
+2013-14,August,UREA,Daman & Diu,20.000,0.000
+2013-14,August,DAP,Delhi,400.000,0.000
+2013-14,August,MAP,Delhi,0.000,0.000
+2013-14,August,MOP,Delhi,100.000,0.000
+2013-14,August,NPK,Delhi,50.000,0.000
+2013-14,August,TSP,Delhi,0.000,0.000
+2013-14,August,UREA,Delhi,300.000,0.000
+2013-14,August,DAP,Goa,200.000,28.800
+2013-14,August,MAP,Goa,0.000,0.000
+2013-14,August,MOP,Goa,40.000,120.000
+2013-14,August,NPK,Goa,"1,000.000",330.000
+2013-14,August,TSP,Goa,0.000,0.000
+2013-14,August,UREA,Goa,600.000,196.000
+2013-14,August,DAP,Gujarat,"30,000.000","46,272.408"
+2013-14,August,MAP,Gujarat,0.000,0.000
+2013-14,August,MOP,Gujarat,"12,000.000","5,151.750"
+2013-14,August,NPK,Gujarat,"32,000.000","34,459.550"
+2013-14,August,TSP,Gujarat,0.000,"6,313.850"
+2013-14,August,UREA,Gujarat,"2,35,000.000","24,365.120"
+2013-14,August,DAP,Harayana,"25,000.000","34,822.600"
+2013-14,August,MAP,Harayana,0.000,0.000
+2013-14,August,MOP,Harayana,"2,000.000",-0.500
+2013-14,August,NPK,Harayana,"5,000.000","1,675.450"
+2013-14,August,TSP,Harayana,0.000,0.000
+2013-14,August,UREA,Harayana,"1,00,000.000","52,382.550"
+2013-14,August,DAP,Himachal Pradesh,0.000,0.000
+2013-14,August,MAP,Himachal Pradesh,0.000,0.000
+2013-14,August,MOP,Himachal Pradesh,300.000,0.000
+2013-14,August,NPK,Himachal Pradesh,0.000,56.200
+2013-14,August,TSP,Himachal Pradesh,0.000,0.000
+2013-14,August,UREA,Himachal Pradesh,"2,500.000",312.550
+2013-14,August,DAP,Jammu & Kashmir,"1,500.000","3,599.050"
+2013-14,August,MAP,Jammu & Kashmir,0.000,0.000
+2013-14,August,MOP,Jammu & Kashmir,300.000,"2,762.050"
+2013-14,August,NPK,Jammu & Kashmir,0.000,0.000
+2013-14,August,TSP,Jammu & Kashmir,0.000,0.000
+2013-14,August,UREA,Jammu & Kashmir,"8,000.000","4,928.500"
+2013-14,August,DAP,Jharkhand,"7,500.000","6,440.750"
+2013-14,August,MAP,Jharkhand,0.000,0.000
+2013-14,August,MOP,Jharkhand,"2,500.000","2,789.500"
+2013-14,August,NPK,Jharkhand,"2,500.000","2,686.900"
+2013-14,August,TSP,Jharkhand,0.000,0.000
+2013-14,August,UREA,Jharkhand,"25,000.000","3,417.900"
+2013-14,August,DAP,Karnataka,"80,000.000","28,072.220"
+2013-14,August,MAP,Karnataka,0.000,0.000
+2013-14,August,MOP,Karnataka,"55,000.000","17,018.650"
+2013-14,August,NPK,Karnataka,"1,49,000.000","50,940.639"
+2013-14,August,TSP,Karnataka,0.000,"11,905.400"
+2013-14,August,UREA,Karnataka,"1,90,000.000","18,848.010"
+2013-14,August,DAP,Kerala,"3,000.000","1,575.250"
+2013-14,August,MAP,Kerala,0.000,0.000
+2013-14,August,MOP,Kerala,"15,000.000","2,905.878"
+2013-14,August,NPK,Kerala,"17,000.000","11,186.247"
+2013-14,August,TSP,Kerala,0.000,"3,156.750"
+2013-14,August,UREA,Kerala,"13,500.000","1,882.600"
+2013-14,August,DAP,Lakshadweep,0.000,0.000
+2013-14,August,MAP,Lakshadweep,0.000,0.000
+2013-14,August,MOP,Lakshadweep,0.000,0.000
+2013-14,August,NPK,Lakshadweep,0.000,0.000
+2013-14,August,TSP,Lakshadweep,0.000,0.000
+2013-14,August,UREA,Lakshadweep,0.000,0.000
+2013-14,August,DAP,Madhya Pradesh,"1,05,600.000","65,349.900"
+2013-14,August,MAP,Madhya Pradesh,0.000,0.000
+2013-14,August,MOP,Madhya Pradesh,"4,500.000","16,634.350"
+2013-14,August,NPK,Madhya Pradesh,"22,000.000","23,062.900"
+2013-14,August,TSP,Madhya Pradesh,0.000,"8,443.850"
+2013-14,August,UREA,Madhya Pradesh,"1,50,000.000","43,270.350"
+2013-14,August,DAP,Maharastra,"1,63,400.000","52,755.575"
+2013-14,August,MAP,Maharastra,0.000,0.000
+2013-14,August,MOP,Maharastra,"51,400.000","35,747.235"
+2013-14,August,NPK,Maharastra,"1,63,400.000","59,880.465"
+2013-14,August,TSP,Maharastra,0.000,0.000
+2013-14,August,UREA,Maharastra,"2,66,500.000","57,834.285"
+2013-14,August,DAP,Manipur,"1,200.000",0.000
+2013-14,August,MAP,Manipur,0.000,0.000
+2013-14,August,MOP,Manipur,500.000,0.000
+2013-14,August,NPK,Manipur,0.000,0.000
+2013-14,August,TSP,Manipur,0.000,0.000
+2013-14,August,UREA,Manipur,"5,000.000",0.000
+2013-14,August,DAP,Megalaya,800.000,100.000
+2013-14,August,MAP,Megalaya,0.000,0.000
+2013-14,August,MOP,Megalaya,50.000,0.000
+2013-14,August,NPK,Megalaya,0.000,0.000
+2013-14,August,TSP,Megalaya,0.000,0.000
+2013-14,August,UREA,Megalaya,"1,100.000","2,000.000"
+2013-14,August,DAP,Mizoram,700.000,0.000
+2013-14,August,MAP,Mizoram,0.000,0.000
+2013-14,August,MOP,Mizoram,550.000,0.000
+2013-14,August,NPK,Mizoram,0.000,0.000
+2013-14,August,TSP,Mizoram,0.000,0.000
+2013-14,August,UREA,Mizoram,"1,350.000",0.000
+2013-14,August,DAP,Nagaland,50.000,0.000
+2013-14,August,MAP,Nagaland,0.000,0.000
+2013-14,August,MOP,Nagaland,40.000,0.000
+2013-14,August,NPK,Nagaland,0.000,0.000
+2013-14,August,TSP,Nagaland,0.000,0.000
+2013-14,August,UREA,Nagaland,110.000,0.000
+2013-14,August,DAP,Odisha,"40,000.000","12,232.050"
+2013-14,August,MAP,Odisha,0.000,0.000
+2013-14,August,MOP,Odisha,"24,000.000","8,269.650"
+2013-14,August,NPK,Odisha,"47,500.000","8,304.900"
+2013-14,August,TSP,Odisha,0.000,0.000
+2013-14,August,UREA,Odisha,"1,40,000.000","5,257.300"
+2013-14,August,DAP,Pondicherry,180.000,0.000
+2013-14,August,MAP,Pondicherry,0.000,0.000
+2013-14,August,MOP,Pondicherry,150.000,0.000
+2013-14,August,NPK,Pondicherry,870.000,512.250
+2013-14,August,TSP,Pondicherry,0.000,0.000
+2013-14,August,UREA,Pondicherry,"1,950.000",50.000
+2013-14,August,DAP,Punjab,"1,00,000.000","32,141.000"
+2013-14,August,MAP,Punjab,0.000,0.000
+2013-14,August,MOP,Punjab,"7,500.000","1,601.100"
+2013-14,August,NPK,Punjab,"10,000.000","1,446.300"
+2013-14,August,TSP,Punjab,0.000,"3,355.300"
+2013-14,August,UREA,Punjab,"1,00,000.000","58,581.200"
+2013-14,August,DAP,Rajasthan,"44,000.000","32,280.520"
+2013-14,August,MAP,Rajasthan,0.000,0.000
+2013-14,August,MOP,Rajasthan,"1,050.000",0.000
+2013-14,August,NPK,Rajasthan,"10,740.000","1,204.150"
+2013-14,August,TSP,Rajasthan,0.000,"3,526.250"
+2013-14,August,UREA,Rajasthan,"1,44,580.000","39,088.775"
+2013-14,August,DAP,Sikkim,0.000,0.000
+2013-14,August,MAP,Sikkim,0.000,0.000
+2013-14,August,MOP,Sikkim,0.000,0.000
+2013-14,August,NPK,Sikkim,0.000,0.000
+2013-14,August,TSP,Sikkim,0.000,0.000
+2013-14,August,UREA,Sikkim,0.000,0.000
+2013-14,August,DAP,Tamil Nadu,"41,000.000","16,338.100"
+2013-14,August,MAP,Tamil Nadu,0.000,0.000
+2013-14,August,MOP,Tamil Nadu,"40,000.000","2,970.383"
+2013-14,August,NPK,Tamil Nadu,"55,570.000","9,599.420"
+2013-14,August,TSP,Tamil Nadu,0.000,0.000
+2013-14,August,UREA,Tamil Nadu,"85,000.000","-1,790.100"
+2013-14,August,DAP,Tripura,300.000,0.000
+2013-14,August,MAP,Tripura,0.000,0.000
+2013-14,August,MOP,Tripura,0.000,-22.450
+2013-14,August,NPK,Tripura,0.000,0.000
+2013-14,August,TSP,Tripura,0.000,0.000
+2013-14,August,UREA,Tripura,"2,600.000","2,092.500"
+2013-14,August,DAP,Uttar Pradesh,"2,50,000.000","1,36,146.850"
+2013-14,August,MAP,Uttar Pradesh,0.000,0.000
+2013-14,August,MOP,Uttar Pradesh,"30,000.000","5,015.550"
+2013-14,August,NPK,Uttar Pradesh,"1,20,000.000","34,934.300"
+2013-14,August,TSP,Uttar Pradesh,0.000,"16,125.250"
+2013-14,August,UREA,Uttar Pradesh,"7,00,000.000","1,84,138.050"
+2013-14,August,DAP,Uttaranchal,"3,000.000","3,376.200"
+2013-14,August,MAP,Uttaranchal,0.000,0.000
+2013-14,August,MOP,Uttaranchal,0.000,0.000
+2013-14,August,NPK,Uttaranchal,0.000,"4,302.100"
+2013-14,August,TSP,Uttaranchal,0.000,0.000
+2013-14,August,UREA,Uttaranchal,"25,000.000",931.600
+2013-14,August,DAP,West Bengal,"80,000.000","9,178.395"
+2013-14,August,MAP,West Bengal,0.000,0.000
+2013-14,August,MOP,West Bengal,"34,000.000","10,171.250"
+2013-14,August,NPK,West Bengal,"79,150.000","38,394.440"
+2013-14,August,TSP,West Bengal,0.000,"7,377.550"
+2013-14,August,UREA,West Bengal,"1,22,000.000","46,175.405"
+2013-14,September,DAP,Andaman & Nicobar,0.000,0.000
+2013-14,September,MAP,Andaman & Nicobar,0.000,0.000
+2013-14,September,MOP,Andaman & Nicobar,0.000,0.000
+2013-14,September,NPK,Andaman & Nicobar,0.000,0.000
+2013-14,September,TSP,Andaman & Nicobar,0.000,0.000
+2013-14,September,UREA,Andaman & Nicobar,0.000,0.000
+2013-14,September,DAP,Andhra Pradesh,"1,00,000.000","46,639.850"
+2013-14,September,MAP,Andhra Pradesh,0.000,0.000
+2013-14,September,MOP,Andhra Pradesh,"75,000.000","15,363.240"
+2013-14,September,NPK,Andhra Pradesh,"1,80,000.000","71,859.058"
+2013-14,September,TSP,Andhra Pradesh,0.000,0.000
+2013-14,September,UREA,Andhra Pradesh,"4,00,000.000","25,694.550"
+2013-14,September,DAP,Arunachal Pradesh,0.000,0.000
+2013-14,September,MAP,Arunachal Pradesh,0.000,0.000
+2013-14,September,MOP,Arunachal Pradesh,20.000,0.000
+2013-14,September,NPK,Arunachal Pradesh,0.000,0.000
+2013-14,September,TSP,Arunachal Pradesh,0.000,0.000
+2013-14,September,UREA,Arunachal Pradesh,90.000,0.000
+2013-14,September,DAP,Assam,"3,250.000","7,708.400"
+2013-14,September,MAP,Assam,0.000,0.000
+2013-14,September,MOP,Assam,"7,800.000","9,230.250"
+2013-14,September,NPK,Assam,980.000,211.750
+2013-14,September,TSP,Assam,0.000,0.000
+2013-14,September,UREA,Assam,"18,850.000","1,180.650"
+2013-14,September,DAP,Bihar,"30,000.000","44,363.250"
+2013-14,September,MAP,Bihar,0.000,0.000
+2013-14,September,MOP,Bihar,"5,000.000","19,646.250"
+2013-14,September,NPK,Bihar,"10,000.000","16,291.700"
+2013-14,September,TSP,Bihar,0.000,"7,673.750"
+2013-14,September,UREA,Bihar,"2,00,000.000","29,667.900"
+2013-14,September,DAP,Chandigarh,0.000,0.000
+2013-14,September,MAP,Chandigarh,0.000,0.000
+2013-14,September,MOP,Chandigarh,0.000,0.000
+2013-14,September,NPK,Chandigarh,0.000,0.000
+2013-14,September,TSP,Chandigarh,0.000,0.000
+2013-14,September,UREA,Chandigarh,0.000,0.000
+2013-14,September,DAP,Chattishgarh,"29,000.000","13,453.750"
+2013-14,September,MAP,Chattishgarh,0.000,0.000
+2013-14,September,MOP,Chattishgarh,"4,000.000","23,145.800"
+2013-14,September,NPK,Chattishgarh,"12,000.000","5,626.100"
+2013-14,September,TSP,Chattishgarh,0.000,"3,858.250"
+2013-14,September,UREA,Chattishgarh,"27,000.000","12,607.200"
+2013-14,September,DAP,Dadra & Nagar Haveli,30.000,32.700
+2013-14,September,MAP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,September,MOP,Dadra & Nagar Haveli,1.000,0.000
+2013-14,September,NPK,Dadra & Nagar Haveli,2.000,3.400
+2013-14,September,TSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,September,UREA,Dadra & Nagar Haveli,40.000,10.300
+2013-14,September,DAP,Daman & Diu,10.000,0.000
+2013-14,September,MAP,Daman & Diu,0.000,0.000
+2013-14,September,MOP,Daman & Diu,0.000,0.000
+2013-14,September,NPK,Daman & Diu,0.000,0.000
+2013-14,September,TSP,Daman & Diu,0.000,0.000
+2013-14,September,UREA,Daman & Diu,20.000,0.000
+2013-14,September,DAP,Delhi,200.000,0.000
+2013-14,September,MAP,Delhi,0.000,0.000
+2013-14,September,MOP,Delhi,50.000,0.000
+2013-14,September,NPK,Delhi,0.000,0.000
+2013-14,September,TSP,Delhi,0.000,0.000
+2013-14,September,UREA,Delhi,200.000,0.000
+2013-14,September,DAP,Goa,100.000,28.800
+2013-14,September,MAP,Goa,0.000,0.000
+2013-14,September,MOP,Goa,20.000,85.000
+2013-14,September,NPK,Goa,600.000,113.000
+2013-14,September,TSP,Goa,0.000,0.000
+2013-14,September,UREA,Goa,500.000,99.000
+2013-14,September,DAP,Gujarat,"30,000.000","63,552.818"
+2013-14,September,MAP,Gujarat,0.000,0.000
+2013-14,September,MOP,Gujarat,"10,000.000",799.650
+2013-14,September,NPK,Gujarat,"27,300.000","39,229.575"
+2013-14,September,TSP,Gujarat,0.000,"6,313.850"
+2013-14,September,UREA,Gujarat,"2,20,000.000","42,359.720"
+2013-14,September,DAP,Harayana,"95,000.000","35,651.100"
+2013-14,September,MAP,Harayana,0.000,0.000
+2013-14,September,MOP,Harayana,"5,000.000",473.700
+2013-14,September,NPK,Harayana,"10,000.000","5,396.800"
+2013-14,September,TSP,Harayana,0.000,0.000
+2013-14,September,UREA,Harayana,"90,000.000","37,597.750"
+2013-14,September,DAP,Himachal Pradesh,0.000,0.000
+2013-14,September,MAP,Himachal Pradesh,0.000,0.000
+2013-14,September,MOP,Himachal Pradesh,400.000,0.000
+2013-14,September,NPK,Himachal Pradesh,"2,500.000",77.100
+2013-14,September,TSP,Himachal Pradesh,0.000,0.000
+2013-14,September,UREA,Himachal Pradesh,500.000,142.200
+2013-14,September,DAP,Jammu & Kashmir,"1,500.000","2,816.400"
+2013-14,September,MAP,Jammu & Kashmir,0.000,0.000
+2013-14,September,MOP,Jammu & Kashmir,300.000,"2,616.150"
+2013-14,September,NPK,Jammu & Kashmir,0.000,0.000
+2013-14,September,TSP,Jammu & Kashmir,0.000,0.000
+2013-14,September,UREA,Jammu & Kashmir,"5,000.000","4,839.950"
+2013-14,September,DAP,Jharkhand,"5,500.000","8,051.550"
+2013-14,September,MAP,Jharkhand,0.000,0.000
+2013-14,September,MOP,Jharkhand,"2,500.000","2,724.500"
+2013-14,September,NPK,Jharkhand,"5,000.000","2,719.500"
+2013-14,September,TSP,Jharkhand,0.000,0.000
+2013-14,September,UREA,Jharkhand,"20,000.000","6,374.150"
+2013-14,September,DAP,Karnataka,"75,000.000","31,441.620"
+2013-14,September,MAP,Karnataka,0.000,0.000
+2013-14,September,MOP,Karnataka,"57,000.000","18,453.915"
+2013-14,September,NPK,Karnataka,"1,70,000.000","58,947.674"
+2013-14,September,TSP,Karnataka,0.000,"11,905.400"
+2013-14,September,UREA,Karnataka,"1,72,000.000","14,215.510"
+2013-14,September,DAP,Kerala,"3,000.000","1,756.050"
+2013-14,September,MAP,Kerala,0.000,0.000
+2013-14,September,MOP,Kerala,"12,000.000","1,007.733"
+2013-14,September,NPK,Kerala,"17,000.000","10,635.893"
+2013-14,September,TSP,Kerala,0.000,"3,156.750"
+2013-14,September,UREA,Kerala,"13,500.000",224.250
+2013-14,September,DAP,Lakshadweep,0.000,0.000
+2013-14,September,MAP,Lakshadweep,0.000,0.000
+2013-14,September,MOP,Lakshadweep,0.000,0.000
+2013-14,September,NPK,Lakshadweep,0.000,0.000
+2013-14,September,TSP,Lakshadweep,0.000,0.000
+2013-14,September,UREA,Lakshadweep,0.000,0.000
+2013-14,September,DAP,Madhya Pradesh,"1,91,400.000","1,02,935.650"
+2013-14,September,MAP,Madhya Pradesh,0.000,0.000
+2013-14,September,MOP,Madhya Pradesh,"9,000.000","19,614.850"
+2013-14,September,NPK,Madhya Pradesh,"46,200.000","14,892.850"
+2013-14,September,TSP,Madhya Pradesh,0.000,"8,443.850"
+2013-14,September,UREA,Madhya Pradesh,"1,42,500.000","40,258.000"
+2013-14,September,DAP,Maharastra,"1,53,900.000","1,05,326.625"
+2013-14,September,MAP,Maharastra,0.000,0.000
+2013-14,September,MOP,Maharastra,"48,700.000","28,648.735"
+2013-14,September,NPK,Maharastra,"1,54,700.000","51,017.705"
+2013-14,September,TSP,Maharastra,0.000,0.000
+2013-14,September,UREA,Maharastra,"2,50,600.000","64,562.115"
+2013-14,September,DAP,Manipur,600.000,0.000
+2013-14,September,MAP,Manipur,0.000,0.000
+2013-14,September,MOP,Manipur,300.000,0.000
+2013-14,September,NPK,Manipur,0.000,0.000
+2013-14,September,TSP,Manipur,0.000,0.000
+2013-14,September,UREA,Manipur,"2,000.000",0.000
+2013-14,September,DAP,Megalaya,350.000,100.000
+2013-14,September,MAP,Megalaya,0.000,0.000
+2013-14,September,MOP,Megalaya,40.000,0.000
+2013-14,September,NPK,Megalaya,0.000,0.000
+2013-14,September,TSP,Megalaya,0.000,0.000
+2013-14,September,UREA,Megalaya,500.000,"1,000.000"
+2013-14,September,DAP,Mizoram,700.000,0.000
+2013-14,September,MAP,Mizoram,0.000,0.000
+2013-14,September,MOP,Mizoram,550.000,0.000
+2013-14,September,NPK,Mizoram,0.000,0.000
+2013-14,September,TSP,Mizoram,0.000,0.000
+2013-14,September,UREA,Mizoram,"1,350.000",0.000
+2013-14,September,DAP,Nagaland,100.000,0.000
+2013-14,September,MAP,Nagaland,0.000,0.000
+2013-14,September,MOP,Nagaland,50.000,0.000
+2013-14,September,NPK,Nagaland,0.000,0.000
+2013-14,September,TSP,Nagaland,0.000,0.000
+2013-14,September,UREA,Nagaland,150.000,0.000
+2013-14,September,DAP,Odisha,"22,000.000","14,614.550"
+2013-14,September,MAP,Odisha,0.000,0.000
+2013-14,September,MOP,Odisha,"20,000.000","4,528.450"
+2013-14,September,NPK,Odisha,"17,500.000","15,603.100"
+2013-14,September,TSP,Odisha,0.000,0.000
+2013-14,September,UREA,Odisha,"1,00,000.000","25,183.050"
+2013-14,September,DAP,Pondicherry,750.000,0.000
+2013-14,September,MAP,Pondicherry,0.000,0.000
+2013-14,September,MOP,Pondicherry,650.000,0.000
+2013-14,September,NPK,Pondicherry,"2,150.000",109.050
+2013-14,September,TSP,Pondicherry,0.000,0.000
+2013-14,September,UREA,Pondicherry,"2,450.000",0.000
+2013-14,September,DAP,Punjab,"1,20,000.000","45,415.650"
+2013-14,September,MAP,Punjab,0.000,0.000
+2013-14,September,MOP,Punjab,"12,500.000","1,245.450"
+2013-14,September,NPK,Punjab,"10,000.000","3,058.200"
+2013-14,September,TSP,Punjab,0.000,"3,355.300"
+2013-14,September,UREA,Punjab,"75,000.000","53,764.450"
+2013-14,September,DAP,Rajasthan,"98,400.000","32,008.570"
+2013-14,September,MAP,Rajasthan,0.000,0.000
+2013-14,September,MOP,Rajasthan,890.000,0.000
+2013-14,September,NPK,Rajasthan,"16,400.000","1,991.300"
+2013-14,September,TSP,Rajasthan,0.000,"3,526.250"
+2013-14,September,UREA,Rajasthan,"1,50,130.000","32,607.390"
+2013-14,September,DAP,Sikkim,0.000,0.000
+2013-14,September,MAP,Sikkim,0.000,0.000
+2013-14,September,MOP,Sikkim,0.000,0.000
+2013-14,September,NPK,Sikkim,0.000,0.000
+2013-14,September,TSP,Sikkim,0.000,0.000
+2013-14,September,UREA,Sikkim,0.000,0.000
+2013-14,September,DAP,Tamil Nadu,"47,000.000","22,458.350"
+2013-14,September,MAP,Tamil Nadu,0.000,0.000
+2013-14,September,MOP,Tamil Nadu,"41,000.000","4,124.633"
+2013-14,September,NPK,Tamil Nadu,"65,990.000","14,297.020"
+2013-14,September,TSP,Tamil Nadu,0.000,0.000
+2013-14,September,UREA,Tamil Nadu,"90,000.000","3,440.300"
+2013-14,September,DAP,Tripura,300.000,5.650
+2013-14,September,MAP,Tripura,0.000,0.000
+2013-14,September,MOP,Tripura,0.000,0.000
+2013-14,September,NPK,Tripura,0.000,1.650
+2013-14,September,TSP,Tripura,0.000,0.000
+2013-14,September,UREA,Tripura,"4,000.000","1,536.900"
+2013-14,September,DAP,Uttar Pradesh,"1,60,000.000","1,89,048.250"
+2013-14,September,MAP,Uttar Pradesh,0.000,0.000
+2013-14,September,MOP,Uttar Pradesh,"10,000.000","6,269.550"
+2013-14,September,NPK,Uttar Pradesh,"1,30,000.000","44,842.650"
+2013-14,September,TSP,Uttar Pradesh,0.000,"16,125.250"
+2013-14,September,UREA,Uttar Pradesh,"2,00,000.000","1,40,685.950"
+2013-14,September,DAP,Uttaranchal,"1,000.000","3,390.600"
+2013-14,September,UREA,Uttaranchal,0.000,0.000
+2013-14,September,MOP,Uttaranchal,0.000,0.000
+2013-14,September,NPK,Uttaranchal,0.000,"3,272.950"
+2013-14,September,TSP,Uttaranchal,0.000,0.000
+2013-14,September,UREA,Uttaranchal,"5,000.000","1,369.050"
+2013-14,September,DAP,West Bengal,"84,000.000","10,545.770"
+2013-14,September,MAP,West Bengal,0.000,0.000
+2013-14,September,MOP,West Bengal,"43,000.000","8,280.850"
+2013-14,September,NPK,West Bengal,"51,200.000","47,885.930"
+2013-14,September,TSP,West Bengal,0.000,"7,377.550"
+2013-14,September,UREA,West Bengal,"1,36,000.000","23,548.900"
+2013-14,October,DAP,Andaman & Nicobar,500.000,0.000
+2013-14,October,MAP,Andaman & Nicobar,0.000,0.000
+2013-14,October,MOP,Andaman & Nicobar,400.000,0.000
+2013-14,October,NPK,Andaman & Nicobar,500.000,0.000
+2013-14,October,SSP,Andaman & Nicobar,0.000,0.000
+2013-14,October,TSP,Andaman & Nicobar,0.000,0.000
+2013-14,October,UREA,Andaman & Nicobar,0.000,0.000
+2013-14,October,DAP,Andhra Pradesh,"1,00,000.000","42,777.780"
+2013-14,October,MAP,Andhra Pradesh,0.000,0.000
+2013-14,October,MOP,Andhra Pradesh,"75,000.000","11,941.990"
+2013-14,October,NPK,Andhra Pradesh,"3,00,000.000","52,185.108"
+2013-14,October,SSP,Andhra Pradesh,"1,00,000.000","5,882.546"
+2013-14,October,TSP,Andhra Pradesh,0.000,0.000
+2013-14,October,UREA,Andhra Pradesh,"3,25,000.000","18,639.400"
+2013-14,October,DAP,Arunachal Pradesh,50.000,0.000
+2013-14,October,MAP,Arunachal Pradesh,0.000,0.000
+2013-14,October,MOP,Arunachal Pradesh,50.000,0.000
+2013-14,October,NPK,Arunachal Pradesh,0.000,0.000
+2013-14,October,SSP,Arunachal Pradesh,100.000,0.000
+2013-14,October,TSP,Arunachal Pradesh,0.000,0.000
+2013-14,October,UREA,Arunachal Pradesh,50.000,0.000
+2013-14,October,DAP,Assam,"3,150.000","6,603.300"
+2013-14,October,MAP,Assam,0.000,0.000
+2013-14,October,MOP,Assam,"8,100.000","9,899.850"
+2013-14,October,NPK,Assam,"1,800.000",7.500
+2013-14,October,SSP,Assam,"7,200.000","8,252.550"
+2013-14,October,TSP,Assam,0.000,0.000
+2013-14,October,UREA,Assam,"18,000.000",0.000
+2013-14,October,DAP,Bihar,"75,000.000","60,851.750"
+2013-14,October,MAP,Bihar,0.000,0.000
+2013-14,October,MOP,Bihar,"25,000.000","21,366.000"
+2013-14,October,NPK,Bihar,"45,000.000","12,783.500"
+2013-14,October,SSP,Bihar,"30,000.000","4,628.800"
+2013-14,October,TSP,Bihar,0.000,0.000
+2013-14,October,UREA,Bihar,"1,85,000.000","25,565.600"
+2013-14,October,DAP,Chandigarh,0.000,0.000
+2013-14,October,MAP,Chandigarh,0.000,0.000
+2013-14,October,MOP,Chandigarh,0.000,0.000
+2013-14,October,NPK,Chandigarh,0.000,0.000
+2013-14,October,SSP,Chandigarh,0.000,0.000
+2013-14,October,TSP,Chandigarh,0.000,0.000
+2013-14,October,UREA,Chandigarh,0.000,0.000
+2013-14,October,DAP,Chattishgarh,"11,000.000","13,659.400"
+2013-14,October,MAP,Chattishgarh,0.000,0.000
+2013-14,October,MOP,Chattishgarh,"3,000.000","21,779.650"
+2013-14,October,NPK,Chattishgarh,"4,000.000","6,405.050"
+2013-14,October,SSP,Chattishgarh,"15,000.000","4,829.705"
+2013-14,October,TSP,Chattishgarh,0.000,"3,858.250"
+2013-14,October,UREA,Chattishgarh,"23,000.000","10,815.650"
+2013-14,October,DAP,Dadra & Nagar Haveli,80.000,32.000
+2013-14,October,MAP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,October,MOP,Dadra & Nagar Haveli,30.000,0.000
+2013-14,October,NPK,Dadra & Nagar Haveli,0.000,3.400
+2013-14,October,SSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,October,TSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,October,UREA,Dadra & Nagar Haveli,80.000,5.560
+2013-14,October,DAP,Daman & Diu,30.000,0.000
+2013-14,October,MAP,Daman & Diu,0.000,0.000
+2013-14,October,MOP,Daman & Diu,10.000,0.000
+2013-14,October,NPK,Daman & Diu,10.000,0.000
+2013-14,October,SSP,Daman & Diu,10.000,0.000
+2013-14,October,TSP,Daman & Diu,0.000,0.000
+2013-14,October,UREA,Daman & Diu,130.000,0.000
+2013-14,October,DAP,Delhi,700.000,0.000
+2013-14,October,MAP,Delhi,0.000,0.000
+2013-14,October,MOP,Delhi,600.000,0.000
+2013-14,October,NPK,Delhi,0.000,0.000
+2013-14,October,SSP,Delhi,200.000,0.000
+2013-14,October,TSP,Delhi,0.000,0.000
+2013-14,October,UREA,Delhi,"1,300.000",0.000
+2013-14,October,DAP,Goa,100.000,28.800
+2013-14,October,MAP,Goa,0.000,0.000
+2013-14,October,MOP,Goa,50.000,25.000
+2013-14,October,NPK,Goa,120.000,43.000
+2013-14,October,SSP,Goa,0.000,0.000
+2013-14,October,TSP,Goa,0.000,0.000
+2013-14,October,UREA,Goa,100.000,118.000
+2013-14,October,DAP,Gujarat,"75,000.000","45,271.194"
+2013-14,October,MAP,Gujarat,0.000,0.000
+2013-14,October,MOP,Gujarat,"18,000.000",778.100
+2013-14,October,NPK,Gujarat,"57,400.000","24,773.275"
+2013-14,October,SSP,Gujarat,"30,000.000","1,086.100"
+2013-14,October,TSP,Gujarat,0.000,"6,313.850"
+2013-14,October,UREA,Gujarat,"1,95,000.000","23,095.253"
+2013-14,October,DAP,Harayana,0.000,"25,588.000"
+2013-14,October,MAP,Harayana,0.000,0.000
+2013-14,October,MOP,Harayana,"2,000.000",345.550
+2013-14,October,NPK,Harayana,"5,000.000","2,545.200"
+2013-14,October,SSP,Harayana,"30,000.000",581.500
+2013-14,October,TSP,Harayana,0.000,0.000
+2013-14,October,UREA,Harayana,"1,50,000.000","24,868.200"
+2013-14,October,DAP,Himachal Pradesh,0.000,0.000
+2013-14,October,MAP,Himachal Pradesh,0.000,0.000
+2013-14,October,MOP,Himachal Pradesh,"2,500.000",0.000
+2013-14,October,NPK,Himachal Pradesh,"5,000.000",13.850
+2013-14,October,SSP,Himachal Pradesh,300.000,0.000
+2013-14,October,TSP,Himachal Pradesh,0.000,0.000
+2013-14,October,UREA,Himachal Pradesh,"2,500.000",69.350
+2013-14,October,DAP,Jammu & Kashmir,"5,740.000","5,985.800"
+2013-14,October,MAP,Jammu & Kashmir,0.000,0.000
+2013-14,October,MOP,Jammu & Kashmir,"2,210.000","2,527.050"
+2013-14,October,NPK,Jammu & Kashmir,0.000,0.000
+2013-14,October,SSP,Jammu & Kashmir,870.000,0.000
+2013-14,October,TSP,Jammu & Kashmir,0.000,0.000
+2013-14,October,UREA,Jammu & Kashmir,"7,450.000","3,943.850"
+2013-14,October,DAP,Jharkhand,"10,000.000","6,498.000"
+2013-14,October,MAP,Jharkhand,0.000,0.000
+2013-14,October,MOP,Jharkhand,0.000,"2,599.500"
+2013-14,October,NPK,Jharkhand,"7,500.000","1,402.350"
+2013-14,October,SSP,Jharkhand,"10,000.000",222.700
+2013-14,October,TSP,Jharkhand,0.000,0.000
+2013-14,October,UREA,Jharkhand,"21,250.000","7,739.350"
+2013-14,October,DAP,Karnataka,"59,000.000","36,074.109"
+2013-14,October,MAP,Karnataka,0.000,0.000
+2013-14,October,MOP,Karnataka,"53,000.000","14,867.423"
+2013-14,October,NPK,Karnataka,"1,26,000.000","56,227.142"
+2013-14,October,SSP,Karnataka,"17,800.000","1,442.350"
+2013-14,October,TSP,Karnataka,0.000,"11,905.400"
+2013-14,October,UREA,Karnataka,"1,90,000.000","18,010.696"
+2013-14,October,DAP,Kerala,"2,000.000","4,432.850"
+2013-14,October,MAP,Kerala,0.000,0.000
+2013-14,October,MOP,Kerala,"22,000.000","2,128.454"
+2013-14,October,NPK,Kerala,"38,000.000","9,918.955"
+2013-14,October,SSP,Kerala,"10,000.000",0.000
+2013-14,October,TSP,Kerala,0.000,"3,156.750"
+2013-14,October,UREA,Kerala,"26,000.000",31.850
+2013-14,October,DAP,Lakshadweep,0.000,0.000
+2013-14,October,MAP,Lakshadweep,0.000,0.000
+2013-14,October,MOP,Lakshadweep,0.000,0.000
+2013-14,October,NPK,Lakshadweep,0.000,0.000
+2013-14,October,SSP,Lakshadweep,0.000,0.000
+2013-14,October,TSP,Lakshadweep,0.000,0.000
+2013-14,October,UREA,Lakshadweep,0.000,0.000
+2013-14,October,DAP,Madhya Pradesh,"2,25,000.000","92,121.650"
+2013-14,October,MAP,Madhya Pradesh,0.000,0.000
+2013-14,October,MOP,Madhya Pradesh,"16,400.000","16,779.850"
+2013-14,October,NPK,Madhya Pradesh,"84,000.000","9,078.397"
+2013-14,October,SSP,Madhya Pradesh,"2,66,000.000","1,03,829.402"
+2013-14,October,TSP,Madhya Pradesh,0.000,"8,443.850"
+2013-14,October,UREA,Madhya Pradesh,"2,50,000.000","38,159.900"
+2013-14,October,DAP,Maharastra,"69,200.000","99,371.240"
+2013-14,October,MAP,Maharastra,0.000,0.000
+2013-14,October,MOP,Maharastra,"32,300.000","28,679.635"
+2013-14,October,NPK,Maharastra,"1,70,200.000","52,286.225"
+2013-14,October,SSP,Maharastra,"84,100.000","15,630.611"
+2013-14,October,TSP,Maharastra,0.000,0.000
+2013-14,October,UREA,Maharastra,"1,79,400.000","58,719.550"
+2013-14,October,DAP,Manipur,"1,000.000",0.000
+2013-14,October,MAP,Manipur,0.000,0.000
+2013-14,October,MOP,Manipur,500.000,0.000
+2013-14,October,NPK,Manipur,0.000,0.000
+2013-14,October,SSP,Manipur,"1,500.000",0.000
+2013-14,October,TSP,Manipur,0.000,0.000
+2013-14,October,UREA,Manipur,"1,500.000",0.000
+2013-14,October,DAP,Megalaya,"1,000.000",0.000
+2013-14,October,MAP,Megalaya,0.000,0.000
+2013-14,October,MOP,Megalaya,400.000,0.000
+2013-14,October,NPK,Megalaya,0.000,0.000
+2013-14,October,SSP,Megalaya,"1,000.000",0.000
+2013-14,October,TSP,Megalaya,0.000,0.000
+2013-14,October,UREA,Megalaya,"1,000.000",500.000
+2013-14,October,DAP,Mizoram,300.000,0.000
+2013-14,October,MAP,Mizoram,0.000,0.000
+2013-14,October,MOP,Mizoram,300.000,0.000
+2013-14,October,NPK,Mizoram,0.000,0.000
+2013-14,October,SSP,Mizoram,0.000,0.000
+2013-14,October,TSP,Mizoram,0.000,0.000
+2013-14,October,UREA,Mizoram,400.000,0.000
+2013-14,October,DAP,Nagaland,200.000,0.000
+2013-14,October,MAP,Nagaland,0.000,0.000
+2013-14,October,MOP,Nagaland,50.000,0.000
+2013-14,October,NPK,Nagaland,50.000,0.000
+2013-14,October,SSP,Nagaland,50.000,0.000
+2013-14,October,TSP,Nagaland,0.000,0.000
+2013-14,October,UREA,Nagaland,200.000,0.000
+2013-14,October,DAP,Odisha,"5,720.000","9,883.350"
+2013-14,October,MAP,Odisha,0.000,0.000
+2013-14,October,MOP,Odisha,"4,310.000","12,063.500"
+2013-14,October,NPK,Odisha,"10,810.000","7,066.050"
+2013-14,October,SSP,Odisha,"8,070.000",210.800
+2013-14,October,TSP,Odisha,0.000,0.000
+2013-14,October,UREA,Odisha,"24,680.000","18,197.100"
+2013-14,October,DAP,Pondicherry,300.000,0.000
+2013-14,October,MAP,Pondicherry,0.000,0.000
+2013-14,October,MOP,Pondicherry,700.000,12.000
+2013-14,October,NPK,Pondicherry,"1,400.000",46.000
+2013-14,October,SSP,Pondicherry,500.000,0.000
+2013-14,October,TSP,Pondicherry,0.000,0.000
+2013-14,October,UREA,Pondicherry,"2,100.000",13.000
+2013-14,October,DAP,Punjab,"3,15,000.000","54,397.568"
+2013-14,October,MAP,Punjab,0.000,0.000
+2013-14,October,MOP,Punjab,"12,000.000",888.600
+2013-14,October,NPK,Punjab,"40,000.000","2,055.250"
+2013-14,October,SSP,Punjab,"32,000.000","4,817.300"
+2013-14,October,TSP,Punjab,0.000,"3,355.300"
+2013-14,October,UREA,Punjab,"3,00,000.000","35,853.100"
+2013-14,October,DAP,Rajasthan,"1,09,220.000","32,143.697"
+2013-14,October,MAP,Rajasthan,0.000,0.000
+2013-14,October,MOP,Rajasthan,"4,000.000",234.250
+2013-14,October,NPK,Rajasthan,"24,930.000","1,447.800"
+2013-14,October,SSP,Rajasthan,"1,63,800.000","12,064.210"
+2013-14,October,TSP,Rajasthan,0.000,"3,526.250"
+2013-14,October,UREA,Rajasthan,"1,75,000.000","21,064.210"
+2013-14,October,DAP,Sikkim,0.000,0.000
+2013-14,October,MAP,Sikkim,0.000,0.000
+2013-14,October,MOP,Sikkim,0.000,0.000
+2013-14,October,NPK,Sikkim,0.000,0.000
+2013-14,October,SSP,Sikkim,0.000,0.000
+2013-14,October,TSP,Sikkim,0.000,0.000
+2013-14,October,UREA,Sikkim,0.000,0.000
+2013-14,October,DAP,Tamil Nadu,"68,910.000","26,497.550"
+2013-14,October,MAP,Tamil Nadu,0.000,0.000
+2013-14,October,MOP,Tamil Nadu,"63,140.000","1,429.733"
+2013-14,October,NPK,Tamil Nadu,"95,870.000","14,206.020"
+2013-14,October,SSP,Tamil Nadu,"27,850.000","3,275.300"
+2013-14,October,TSP,Tamil Nadu,0.000,0.000
+2013-14,October,UREA,Tamil Nadu,"1,53,760.000","4,587.000"
+2013-14,October,DAP,Tripura,0.000,274.800
+2013-14,October,MAP,Tripura,0.000,0.000
+2013-14,October,MOP,Tripura,0.000,0.000
+2013-14,October,NPK,Tripura,0.000,132.750
+2013-14,October,SSP,Tripura,"2,650.000","4,367.450"
+2013-14,October,TSP,Tripura,0.000,0.000
+2013-14,October,UREA,Tripura,"2,650.000",490.500
+2013-14,October,DAP,Uttar Pradesh,"3,15,000.000","2,13,577.350"
+2013-14,October,MAP,Uttar Pradesh,0.000,0.000
+2013-14,October,MOP,Uttar Pradesh,"30,000.000","7,199.750"
+2013-14,October,NPK,Uttar Pradesh,"1,50,000.000","59,744.950"
+2013-14,October,SSP,Uttar Pradesh,"1,50,000.000","9,410.804"
+2013-14,October,TSP,Uttar Pradesh,0.000,"16,125.250"
+2013-14,October,UREA,Uttar Pradesh,"5,75,000.000","1,31,188.000"
+2013-14,October,DAP,Uttaranchal,"2,000.000","3,589.200"
+2013-14,October,UREA,Uttaranchal,0.000,0.000
+2013-14,October,MOP,Uttaranchal,500.000,25.000
+2013-14,October,NPK,Uttaranchal,"8,000.000","2,064.750"
+2013-14,October,SSP,Uttaranchal,"1,000.000",20.000
+2013-14,October,TSP,Uttaranchal,0.000,0.000
+2013-14,October,UREA,Uttaranchal,"10,000.000","6,328.300"
+2013-14,October,DAP,West Bengal,"40,000.000","14,741.120"
+2013-14,October,MAP,West Bengal,0.000,0.000
+2013-14,October,MOP,West Bengal,"29,100.000","18,753.750"
+2013-14,October,NPK,West Bengal,"92,900.000","45,373.130"
+2013-14,October,SSP,West Bengal,"91,000.000","18,672.900"
+2013-14,October,TSP,West Bengal,0.000,"7,377.550"
+2013-14,October,UREA,West Bengal,"93,500.000","25,851.933"
+2013-14,November,DAP,Andaman & Nicobar,0.000,0.000
+2013-14,November,MAP,Andaman & Nicobar,0.000,0.000
+2013-14,November,MOP,Andaman & Nicobar,0.000,0.000
+2013-14,November,NPK,Andaman & Nicobar,0.000,0.000
+2013-14,November,SSP,Andaman & Nicobar,0.000,0.000
+2013-14,November,TSP,Andaman & Nicobar,0.000,0.000
+2013-14,November,UREA,Andaman & Nicobar,0.000,0.000
+2013-14,November,DAP,Andhra Pradesh,"75,000.000","43,893.910"
+2013-14,November,MAP,Andhra Pradesh,0.000,0.000
+2013-14,November,MOP,Andhra Pradesh,"50,000.00 ","13,209.690"
+2013-14,November,NPK,Andhra Pradesh,"2,20,000.00 ","1,07,751.918 "
+2013-14,November,SSP,Andhra Pradesh," 1,00,000.00 "," 6,804.336 "
+2013-14,November,TSP,Andhra Pradesh,0.000,0.000
+2013-14,November,UREA,Andhra Pradesh,250000.000,"1,08,886.900"
+2013-14,November,DAP,Arunachal Pradesh,50.000,0.000
+2013-14,November,MAP,Arunachal Pradesh,0.000,0.000
+2013-14,November,MOP,Arunachal Pradesh,50.000,0.000
+2013-14,November,NPK,Arunachal Pradesh,0.000,0.000
+2013-14,November,SSP,Arunachal Pradesh,100.000,0.000
+2013-14,November,TSP,Arunachal Pradesh,0.000,0.000
+2013-14,November,UREA,Arunachal Pradesh,50.000,0.000
+2013-14,November,DAP,Assam,4550.000,"5,611.800"
+2013-14,November,MAP,Assam,0.000,0.000
+2013-14,November,MOP,Assam,11700.000,"13,288.750"
+2013-14,November,NPK,Assam,2600.000,0.000
+2013-14,November,SSP,Assam,10400.000,"7,259.400"
+2013-14,November,TSP,Assam,0.000,0.000
+2013-14,November,UREA,Assam,26000.000,0.000
+2013-14,November,DAP,Bihar,90000.000,"68,076.850"
+2013-14,November,MAP,Bihar,0.000,0.000
+2013-14,November,MOP,Bihar,40000.000,"20,909.400"
+2013-14,November,NPK,Bihar,80000.000,"26,749.300"
+2013-14,November,SSP,Bihar,45000.000,"9,977.550"
+2013-14,November,TSP,Bihar,0.000,"7,673.750"
+2013-14,November,UREA,Bihar,260000.000,"58,431.900"
+2013-14,November,DAP,Chandigarh,0.000,0.000
+2013-14,November,MAP,Chandigarh,0.000,0.000
+2013-14,November,MOP,Chandigarh,0.000,0.000
+2013-14,November,NPK,Chandigarh,0.000,0.000
+2013-14,November,SSP,Chandigarh,0.000,0.000
+2013-14,November,TSP,Chandigarh,0.000,0.000
+2013-14,November,UREA,Chandigarh,0.000,0.000
+2013-14,November,DAP,Chattishgarh,"17,000.000","18,240.200"
+2013-14,November,MAP,Chattishgarh,0.000,0.000
+2013-14,November,MOP,Chattishgarh,"6,000.000","24,138.500"
+2013-14,November,NPK,Chattishgarh,"8,000.000","7,232.050"
+2013-14,November,SSP,Chattishgarh,"16,000.000","8,313.955"
+2013-14,November,TSP,Chattishgarh,0.000,"3,858.250"
+2013-14,November,UREA,Chattishgarh,"35,000.000","14,808.050"
+2013-14,November,DAP,Dadra & Nagar Haveli,100.000,30.950
+2013-14,November,MAP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,November,MOP,Dadra & Nagar Haveli,40.000,0.000
+2013-14,November,NPK,Dadra & Nagar Haveli,0.000,0.000
+2013-14,November,SSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,November,TSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,November,UREA,Dadra & Nagar Haveli,90.000,0.000
+2013-14,November,DAP,Daman & Diu,0.000,0.000
+2013-14,November,MAP,Daman & Diu,0.000,0.000
+2013-14,November,MOP,Daman & Diu,0.000,0.000
+2013-14,November,NPK,Daman & Diu,0.000,0.000
+2013-14,November,SSP,Daman & Diu,0.000,0.000
+2013-14,November,TSP,Daman & Diu,0.000,0.000
+2013-14,November,UREA,Daman & Diu,0.000,0.000
+2013-14,November,DAP,Delhi,700.000,0.000
+2013-14,November,MAP,Delhi,0.000,0.000
+2013-14,November,MOP,Delhi,400.000,0.000
+2013-14,November,NPK,Delhi,0.000,0.000
+2013-14,November,SSP,Delhi,100.000,0.000
+2013-14,November,TSP,Delhi,0.000,0.000
+2013-14,November,UREA,Delhi,"1,500.000",0.000
+2013-14,November,DAP,Goa,50.000,38.800
+2013-14,November,MAP,Goa,0.000,0.000
+2013-14,November,MOP,Goa,50.000,5.000
+2013-14,November,NPK,Goa,120.000,48.500
+2013-14,November,SSP,Goa,0.000,0.000
+2013-14,November,TSP,Goa,0.000,0.000
+2013-14,November,UREA,Goa,100.000,46.000
+2013-14,November,DAP,Gujarat,"80,000.000","48,279.990"
+2013-14,November,MAP,Gujarat,0.000,0.000
+2013-14,November,MOP,Gujarat,"16,000.000","6,366.350"
+2013-14,November,NPK,Gujarat,"49,200.000","21,303.545"
+2013-14,November,SSP,Gujarat,"35,000.000","2,565.450"
+2013-14,November,TSP,Gujarat,0.000,"6,313.850"
+2013-14,November,UREA,Gujarat,"2,05,000.000","33,424.298"
+2013-14,November,DAP,Harayana,"50,000.000","24,780.600"
+2013-14,November,MAP,Harayana,0.000,0.000
+2013-14,November,MOP,Harayana,"2,000.000","1,718.550"
+2013-14,November,NPK,Harayana,"5,000.000","1,095.300"
+2013-14,November,SSP,Harayana,"20,000.000","1,892.850"
+2013-14,November,TSP,Harayana,0.000,0.000
+2013-14,November,UREA,Harayana,"2,70,000.000","46,332.600"
+2013-14,November,DAP,Himachal Pradesh,0.000,0.000
+2013-14,November,MAP,Himachal Pradesh,0.000,0.000
+2013-14,November,MOP,Himachal Pradesh,0.000,0.000
+2013-14,November,NPK,Himachal Pradesh,"5,000.000",204.400
+2013-14,November,SSP,Himachal Pradesh,"1,000.000",0.000
+2013-14,November,TSP,Himachal Pradesh,0.000,0.000
+2013-14,November,UREA,Himachal Pradesh,"5,000.000",38.600
+2013-14,November,DAP,Jammu & Kashmir,"8,300.000","5,387.750"
+2013-14,November,MAP,Jammu & Kashmir,0.000,0.000
+2013-14,November,MOP,Jammu & Kashmir,"3,540.000","2,388.850"
+2013-14,November,NPK,Jammu & Kashmir,0.000,0.000
+2013-14,November,SSP,Jammu & Kashmir,"1,260.000",0.000
+2013-14,November,TSP,Jammu & Kashmir,0.000,0.000
+2013-14,November,UREA,Jammu & Kashmir,"12,120.000","3,562.200"
+2013-14,November,DAP,Jharkhand,"10,000.000","6,994.850"
+2013-14,November,MAP,Jharkhand,0.000,0.000
+2013-14,November,MOP,Jharkhand,"2,500.000","2,477.200"
+2013-14,November,NPK,Jharkhand,"15,000.000","2,065.400"
+2013-14,November,SSP,Jharkhand,"20,000.000",465.650
+2013-14,November,TSP,Jharkhand,0.000,0.000
+2013-14,November,UREA,Jharkhand,"22,500.000","8,751.650"
+2013-14,November,DAP,Karnataka,"48,000.000","36,482.291"
+2013-14,November,MAP,Karnataka,0.000,0.000
+2013-14,November,MOP,Karnataka,"42,000.000","12,180.328"
+2013-14,November,NPK,Karnataka,"1,13,000.000","1,00,354.632"
+2013-14,November,SSP,Karnataka,"16,000.000","1,685.670"
+2013-14,November,TSP,Karnataka,0.000,"11,905.400"
+2013-14,November,UREA,Karnataka,"1,45,000.000","49,796.159"
+2013-14,November,DAP,Kerala,"2,000.000","1,614.650"
+2013-14,November,MAP,Kerala,0.000,0.000
+2013-14,November,MOP,Kerala,"29,000.000","2,756.902"
+2013-14,November,NPK,Kerala,"30,000.000","13,460.079"
+2013-14,November,SSP,Kerala,"10,000.000",0.000
+2013-14,November,TSP,Kerala,0.000,"3,156.750"
+2013-14,November,UREA,Kerala,"23,000.000","1,002.200"
+2013-14,November,DAP,Lakshadweep,0.000,0.000
+2013-14,November,MAP,Lakshadweep,0.000,0.000
+2013-14,November,MOP,Lakshadweep,0.000,0.000
+2013-14,November,NPK,Lakshadweep,0.000,0.000
+2013-14,November,SSP,Lakshadweep,0.000,0.000
+2013-14,November,TSP,Lakshadweep,0.000,0.000
+2013-14,November,UREA,Lakshadweep,0.000,0.000
+2013-14,November,DAP,Madhya Pradesh,"2,15,000.000","88,172.800"
+2013-14,November,MAP,Madhya Pradesh,0.000,0.000
+2013-14,November,MOP,Madhya Pradesh,"14,400.000","16,828.150"
+2013-14,November,NPK,Madhya Pradesh,"88,000.000","25,910.000"
+2013-14,November,SSP,Madhya Pradesh,"3,26,800.000","1,87,670.401"
+2013-14,November,TSP,Madhya Pradesh,0.000,"8,443.850"
+2013-14,November,UREA,Madhya Pradesh,"4,00,000.000","59,252.400"
+2013-14,November,DAP,Maharastra,"89,900.000","1,01,472.290"
+2013-14,November,MAP,Maharastra,0.000,0.000
+2013-14,November,MOP,Maharastra,"34,700.000","42,475.085"
+2013-14,November,NPK,Maharastra,"1,65,700.000","1,19,331.152"
+2013-14,November,SSP,Maharastra,"92,000.000","29,702.161"
+2013-14,November,TSP,Maharastra,0.000,0.000
+2013-14,November,UREA,Maharastra,"1,93,500.000","82,540.530"
+2013-14,November,DAP,Manipur,"1,000.000",0.000
+2013-14,November,MAP,Manipur,0.000,0.000
+2013-14,November,MOP,Manipur,500.000,0.000
+2013-14,November,NPK,Manipur,0.000,0.000
+2013-14,November,SSP,Manipur,"1,500.000",0.000
+2013-14,November,TSP,Manipur,0.000,0.000
+2013-14,November,UREA,Manipur,"1,500.000",0.000
+2013-14,November,DAP,Megalaya,"1,000.000",0.000
+2013-14,November,MAP,Megalaya,0.000,0.000
+2013-14,November,MOP,Megalaya,400.000,0.000
+2013-14,November,NPK,Megalaya,0.000,0.000
+2013-14,November,SSP,Megalaya,"1,000.000",0.000
+2013-14,November,TSP,Megalaya,0.000,0.000
+2013-14,November,UREA,Megalaya,"1,000.000",0.000
+2013-14,November,DAP,Mizoram,0.000,0.000
+2013-14,November,MAP,Mizoram,0.000,0.000
+2013-14,November,MOP,Mizoram,0.000,0.000
+2013-14,November,NPK,Mizoram,0.000,0.000
+2013-14,November,SSP,Mizoram,200.000,0.000
+2013-14,November,TSP,Mizoram,0.000,0.000
+2013-14,November,UREA,Mizoram,0.000,0.000
+2013-14,November,DAP,Nagaland,150.000,0.000
+2013-14,November,MAP,Nagaland,0.000,0.000
+2013-14,November,MOP,Nagaland,50.000,0.000
+2013-14,November,NPK,Nagaland,50.000,0.000
+2013-14,November,SSP,Nagaland,50.000,0.000
+2013-14,November,TSP,Nagaland,0.000,0.000
+2013-14,November,UREA,Nagaland,200.000,0.000
+2013-14,November,DAP,Odisha,"8,080.000","11,090.250"
+2013-14,November,MAP,Odisha,0.000,0.000
+2013-14,November,MOP,Odisha,"6,470.000","10,992.000"
+2013-14,November,NPK,Odisha,"15,570.000","9,212.050"
+2013-14,November,SSP,Odisha,"12,120.000",230.850
+2013-14,November,TSP,Odisha,0.000,0.000
+2013-14,November,UREA,Odisha,"24,570.000","22,151.550"
+2013-14,November,DAP,Pondicherry,300.000,200.000
+2013-14,November,MAP,Pondicherry,0.000,0.000
+2013-14,November,MOP,Pondicherry,300.000,12.000
+2013-14,November,NPK,Pondicherry,"1,300.000",224.000
+2013-14,November,SSP,Pondicherry,400.000,75.000
+2013-14,November,TSP,Pondicherry,0.000,0.000
+2013-14,November,UREA,Pondicherry,"1,600.000",30.000
+2013-14,November,DAP,Punjab,"60,000.000","62,447.048"
+2013-14,November,MAP,Punjab,0.000,0.000
+2013-14,November,MOP,Punjab,"10,000.000","3,192.350"
+2013-14,November,NPK,Punjab,"20,000.000","1,073.700"
+2013-14,November,SSP,Punjab,"20,000.000","4,731.300"
+2013-14,November,TSP,Punjab,0.000,"3,355.300"
+2013-14,November,UREA,Punjab,"3,00,000.000","55,284.250"
+2013-14,November,DAP,Rajasthan,"68,800.000","49,934.376"
+2013-14,November,MAP,Rajasthan,0.000,0.000
+2013-14,November,MOP,Rajasthan,"6,200.000",542.400
+2013-14,November,NPK,Rajasthan,"9,060.000",714.250
+2013-14,November,SSP,Rajasthan,"88,350.000","9,786.700"
+2013-14,November,TSP,Rajasthan,0.000,"3,526.250"
+2013-14,November,UREA,Rajasthan,"2,00,000.000","44,536.810"
+2013-14,November,DAP,Sikkim,0.000,0.000
+2013-14,November,MAP,Sikkim,0.000,0.000
+2013-14,November,MOP,Sikkim,0.000,0.000
+2013-14,November,NPK,Sikkim,0.000,0.000
+2013-14,November,SSP,Sikkim,0.000,0.000
+2013-14,November,TSP,Sikkim,0.000,0.000
+2013-14,November,UREA,Sikkim,0.000,0.000
+2013-14,November,DAP,Tamil Nadu,"44,540.000","19,488.150"
+2013-14,November,MAP,Tamil Nadu,0.000,0.000
+2013-14,November,MOP,Tamil Nadu,"57,040.000","2,816.883"
+2013-14,November,NPK,Tamil Nadu,"88,270.000","27,414.470"
+2013-14,November,SSP,Tamil Nadu,"25,690.000","3,507.700"
+2013-14,November,TSP,Tamil Nadu,0.000,0.000
+2013-14,November,UREA,Tamil Nadu,"1,48,360.000","5,162.300"
+2013-14,November,DAP,Tripura,"1,000.000",254.800
+2013-14,November,MAP,Tripura,0.000,0.000
+2013-14,November,MOP,Tripura,0.000,0.000
+2013-14,November,NPK,Tripura,0.000,172.650
+2013-14,November,SSP,Tripura,"5,300.000","1,468.850"
+2013-14,November,TSP,Tripura,0.000,0.000
+2013-14,November,UREA,Tripura,"5,300.000",290.500
+2013-14,November,DAP,Uttar Pradesh,"4,00,000.000","2,30,735.900"
+2013-14,November,MAP,Uttar Pradesh,0.000,0.000
+2013-14,November,MOP,Uttar Pradesh,"20,000.000","7,392.800"
+2013-14,November,NPK,Uttar Pradesh,"1,50,000.000","58,039.300"
+2013-14,November,SSP,Uttar Pradesh,"1,00,000.000","13,305.254"
+2013-14,November,TSP,Uttar Pradesh,0.000,"16,125.250"
+2013-14,November,UREA,Uttar Pradesh,"7,25,000.000","3,29,632.100"
+2013-14,November,DAP,Uttaranchal,"5,000.000","1,534.500"
+2013-14,November,UREA,Uttaranchal,0.000,0.000
+2013-14,November,MOP,Uttaranchal,500.000,25.000
+2013-14,November,NPK,Uttaranchal,"8,000.000",538.950
+2013-14,November,SSP,Uttaranchal,"1,000.000",0.000
+2013-14,November,TSP,Uttaranchal,0.000,0.000
+2013-14,November,UREA,Uttaranchal,"20,000.000","10,769.250"
+2013-14,November,DAP,West Bengal,"32,500.000","19,626.770"
+2013-14,November,MAP,West Bengal,0.000,0.000
+2013-14,November,MOP,West Bengal,"37,100.000","15,432.200"
+2013-14,November,NPK,West Bengal,"1,15,350.000","73,862.920"
+2013-14,November,SSP,West Bengal,"51,000.000","20,219.950"
+2013-14,November,TSP,West Bengal,0.000,"7,377.550"
+2013-14,November,UREA,West Bengal,"1,18,500.000","47,339.388"
+2013-14,December,DAP,Andaman & Nicobar,0.000,0.000
+2013-14,December,MAP,Andaman & Nicobar,0.000,0.000
+2013-14,December,MOP,Andaman & Nicobar,0.000,0.000
+2013-14,December,NPK,Andaman & Nicobar,0.000,0.000
+2013-14,December,SSP,Andaman & Nicobar,0.000,0.000
+2013-14,December,TSP,Andaman & Nicobar,0.000,0.000
+2013-14,December,UREA,Andaman & Nicobar,0.000,0.000
+2013-14,December,DAP,Andhra Pradesh,"75,000.000 ","56,761.300 "
+2013-14,December,MAP,Andhra Pradesh,0.000,0.000
+2013-14,December,MOP,Andhra Pradesh,"50,000.000 ","23,530.240 "
+2013-14,December,NPK,Andhra Pradesh,"2,00,000.000 ","1,14,554.908 "
+2013-14,December,SSP,Andhra Pradesh,"1,00,000.000 ","6,265.436 "
+2013-14,December,TSP,Andhra Pradesh,0.000 ,0.000 
+2013-14,December,UREA,Andhra Pradesh,"3,00,000.000 ","1,35,768.700 "
+2013-14,December,DAP,Arunachal Pradesh,50.000 ,0.000 
+2013-14,December,MAP,Arunachal Pradesh,0.000 ,0.000 
+2013-14,December,MOP,Arunachal Pradesh,50.000 ,0.000 
+2013-14,December,NPK,Arunachal Pradesh,0.000 ,0.000 
+2013-14,December,SSP,Arunachal Pradesh,100.000 ,0.000 
+2013-14,December,TSP,Arunachal Pradesh,0.000 ,0.000 
+2013-14,December,UREA,Arunachal Pradesh,100.000 ,0.000 
+2013-14,December,DAP,Assam,"7,350.000 ","4,062.400 "
+2013-14,December,MAP,Assam,0.000 ,0.000 
+2013-14,December,MOP,Assam,"18,900.000 ","14,474.000 "
+2013-14,December,NPK,Assam,"4,200.000 ","1,037.000 "
+2013-14,December,SSP,Assam,"16,800.000 ","3,225.800 "
+2013-14,December,TSP,Assam,0.000 ,0.000 
+2013-14,December,UREA,Assam,"42,000.000 ","2,343.850 "
+2013-14,December,DAP,Bihar,"65,000.000 ","53,588.600 "
+2013-14,December,MAP,Bihar,0.000 ,0.000 
+2013-14,December,MOP,Bihar,"20,000.000 ","20,546.500 "
+2013-14,December,NPK,Bihar,"40,000.000 ","13,938.600 "
+2013-14,December,SSP,Bihar,"45,000.000 ","8,997.050 "
+2013-14,December,TSP,Bihar,0.000 ,"7,673.750 "
+2013-14,December,UREA,Bihar,"2,65,000.000 ","61,416.400 "
+2013-14,December,DAP,Chandigarh,0.000,0.000
+2013-14,December,MAP,Chandigarh,0.000,0.000
+2013-14,December,MOP,Chandigarh,0.000,0.000
+2013-14,December,NPK,Chandigarh,0.000,0.000
+2013-14,December,SSP,Chandigarh,0.000,0.000
+2013-14,December,TSP,Chandigarh,0.000,0.000
+2013-14,December,UREA,Chandigarh,0.000,0.000
+2013-14,December,DAP,Chattishgarh,"32,000.000 ","24,676.160 "
+2013-14,December,MAP,Chattishgarh,0.000 ,0.000 
+2013-14,December,MOP,Chattishgarh,"15,000.000 ","23,672.100 "
+2013-14,December,NPK,Chattishgarh,"19,000.000 ","6,444.050 "
+2013-14,December,SSP,Chattishgarh,"26,000.000 ","15,642.955 "
+2013-14,December,TSP,Chattishgarh,0.000 ,"3,858.250 "
+2013-14,December,UREA,Chattishgarh,"45,000.000 ","17,831.600 "
+2013-14,December,DAP,Dadra & Nagar Haveli,60.000 ,28.300 
+2013-14,December,MAP,Dadra & Nagar Haveli,0.000 ,0.000 
+2013-14,December,MOP,Dadra & Nagar Haveli,30.000 ,0.000 
+2013-14,December,NPK,Dadra & Nagar Haveli,0.000 ,0.000 
+2013-14,December,SSP,Dadra & Nagar Haveli,0.000 ,0.000 
+2013-14,December,TSP,Dadra & Nagar Haveli,0.000 ,0.000 
+2013-14,December,UREA,Dadra & Nagar Haveli,70.000 ,15.350 
+2013-14,December,DAP,Daman & Diu,0.000,0.000
+2013-14,December,MAP,Daman & Diu,0.000,0.000
+2013-14,December,MOP,Daman & Diu,0.000,0.000
+2013-14,December,NPK,Daman & Diu,0.000,0.000
+2013-14,December,SSP,Daman & Diu,0.000,0.000
+2013-14,December,TSP,Daman & Diu,0.000,0.000
+2013-14,December,UREA,Daman & Diu,0.000,0.000
+2013-14,December,DAP,Delhi,500.000 ,0.000
+2013-14,December,MAP,Delhi,0.000 ,0.000
+2013-14,December,MOP,Delhi,200.000 ,0.000
+2013-14,December,NPK,Delhi,0.000 ,0.000
+2013-14,December,SSP,Delhi,100.000 ,0.000
+2013-14,December,TSP,Delhi,0.000 ,0.000
+2013-14,December,UREA,Delhi,"1,500.000 ",0.000
+2013-14,December,DAP,Goa,200.000 ,95.800 
+2013-14,December,MAP,Goa,0.000 ,0.000 
+2013-14,December,MOP,Goa,50.000 ,5.000 
+2013-14,December,NPK,Goa,200.000 ,224.500 
+2013-14,December,SSP,Goa,0.000 ,0.000 
+2013-14,December,TSP,Goa,0.000 ,0.000 
+2013-14,December,UREA,Goa,100.000 ,106.000 
+2013-14,December,DAP,Gujarat,"30,000.000 ","46,941.449 "
+2013-14,December,MAP,Gujarat,0.000 ,0.000 
+2013-14,December,MOP,Gujarat,"14,000.000 ","5,033.750 "
+2013-14,December,NPK,Gujarat,"41,000.000 ","19,553.520 "
+2013-14,December,SSP,Gujarat,"22,000.000 ","2,442.100 "
+2013-14,December,TSP,Gujarat,0.000 ,"6,313.850 "
+2013-14,December,UREA,Gujarat,"2,35,000.000 ","16,258.363 "
+2013-14,December,DAP,Harayana,50000.00,"4,090.871 "
+2013-14,December,MAP,Harayana,0.000 ,0.000 
+2013-14,December,MOP,Harayana,"2,000.000 ","4,418.450 "
+2013-14,December,NPK,Harayana,"5,000.000 ",516.150 
+2013-14,December,SSP,Harayana,"20,000.000 ","2,659.950 "
+2013-14,December,TSP,Harayana,0.000 ,0.000 
+2013-14,December,UREA,Harayana,"3,35,000.000 ","31,499.400 "
+2013-14,December,DAP,Himachal Pradesh,0.000 ,0.000 
+2013-14,December,MAP,Himachal Pradesh,0.000 ,0.000 
+2013-14,December,MOP,Himachal Pradesh,"2,500.000 ","2,239.900 "
+2013-14,December,NPK,Himachal Pradesh,"5,000.000 ",99.900 
+2013-14,December,SSP,Himachal Pradesh,"2,000.000 ",61.500 
+2013-14,December,TSP,Himachal Pradesh,0.000 ,0.000 
+2013-14,December,UREA,Himachal Pradesh,"10,000.000 ",168.850 
+2013-14,December,DAP,Jammu & Kashmir,"5,270.000 ","8,261.950 "
+2013-14,December,MAP,Jammu & Kashmir,0.000 ,0.000 
+2013-14,December,MOP,Jammu & Kashmir,"3,680.000 ","2,981.050 "
+2013-14,December,NPK,Jammu & Kashmir,0.000 ,0.000 
+2013-14,December,SSP,Jammu & Kashmir,800.000 ,0.000 
+2013-14,December,TSP,Jammu & Kashmir,0.000 ,0.000 
+2013-14,December,UREA,Jammu & Kashmir,"9,320.000 ","3,251.500 "
+2013-14,December,DAP,Jharkhand,"10,000.000 ","5,358.200 "
+2013-14,December,MAP,Jharkhand,0.000 ,0.000 
+2013-14,December,MOP,Jharkhand,"2,500.000 ","2,307.200 "
+2013-14,December,NPK,Jharkhand,"7,500.000 ","1,711.900 "
+2013-14,December,SSP,Jharkhand,"20,000.000 ",407.650 
+2013-14,December,TSP,Jharkhand,0.000 ,0.000 
+2013-14,December,UREA,Jharkhand,"27,300.000 ","16,948.350 "
+2013-14,December,DAP,Karnataka,"36,000.000 ","35,716.564 "
+2013-14,December,MAP,Karnataka,0.000 ,0.000 
+2013-14,December,MOP,Karnataka,"41,000.000 ","11,399.503 "
+2013-14,December,NPK,Karnataka,"1,11,000.000 ","1,16,971.432 "
+2013-14,December,SSP,Karnataka,"15,800.000 ","1,990.650 "
+2013-14,December,TSP,Karnataka,0.000 ,"11,905.400 "
+2013-14,December,UREA,Karnataka,"95,000.000 ","58,489.790 "
+2013-14,December,DAP,Kerala,"1,500.000 ","1,344.700 "
+2013-14,December,MAP,Kerala,0.000 ,0.000 
+2013-14,December,MOP,Kerala,"20,000.000 ","2,701.525 "
+2013-14,December,NPK,Kerala,"21,000.000 ","15,060.911 "
+2013-14,December,SSP,Kerala,"6,000.000 ",0.000 
+2013-14,December,TSP,Kerala,0.000 ,"3,156.750 "
+2013-14,December,UREA,Kerala,"21,000.000 ","3,645.800 "
+2013-14,December,DAP,Lakshadweep,0.000,0.000
+2013-14,December,MAP,Lakshadweep,0.000,0.000
+2013-14,December,MOP,Lakshadweep,0.000,0.000
+2013-14,December,NPK,Lakshadweep,0.000,0.000
+2013-14,December,SSP,Lakshadweep,0.000,0.000
+2013-14,December,TSP,Lakshadweep,0.000,0.000
+2013-14,December,UREA,Lakshadweep,0.000,0.000
+2013-14,December,DAP,Madhya Pradesh,"35,000.000 ","1,05,813.650 "
+2013-14,December,MAP,Madhya Pradesh,0.000 ,0.000 
+2013-14,December,MOP,Madhya Pradesh,"6,000.000 ","17,954.100 "
+2013-14,December,NPK,Madhya Pradesh,"16,000.000 ","17,223.762 "
+2013-14,December,SSP,Madhya Pradesh,"1,04,700.000 ","1,86,349.501 "
+2013-14,December,TSP,Madhya Pradesh,0.000 ,"8,443.850 "
+2013-14,December,UREA,Madhya Pradesh,"3,50,000.000 ","83,568.500 "
+2013-14,December,DAP,Maharastra,"82,600.000 ","1,00,632.987 "
+2013-14,December,MAP,Maharastra,0.000 ,0.000 
+2013-14,December,MOP,Maharastra,"38,100.000 ","34,703.167 "
+2013-14,December,NPK,Maharastra,"1,45,700.000 ","1,03,218.535 "
+2013-14,December,SSP,Maharastra,"1,16,300.000 ","28,418.661 "
+2013-14,December,TSP,Maharastra,0.000 ,0.000 
+2013-14,December,UREA,Maharastra,"2,16,400.000 ","76,795.564 "
+2013-14,December,DAP,Manipur,"1,000.000 ",0.000 
+2013-14,December,MAP,Manipur,0.000 ,0.000 
+2013-14,December,MOP,Manipur,500.000 ,0.000 
+2013-14,December,NPK,Manipur,0.000 ,0.000 
+2013-14,December,SSP,Manipur,"1,000.000 ",0.000 
+2013-14,December,TSP,Manipur,0.000 ,0.000 
+2013-14,December,UREA,Manipur,"1,500.000 ",0.000 
+2013-14,December,DAP,Megalaya,"1,000.000 ",200.000 
+2013-14,December,MAP,Megalaya,0.000 ,0.000 
+2013-14,December,MOP,Megalaya,400.000 ,0.000 
+2013-14,December,NPK,Megalaya,0.000 ,0.000 
+2013-14,December,SSP,Megalaya,"1,000.000 ",0.000 
+2013-14,December,TSP,Megalaya,0.000 ,0.000 
+2013-14,December,UREA,Megalaya,"1,000.000 ",0.000 
+2013-14,December,DAP,Mizoram,0.000,0.000
+2013-14,December,MAP,Mizoram,0.000,0.000
+2013-14,December,MOP,Mizoram,0.000,0.000
+2013-14,December,NPK,Mizoram,0.000,0.000
+2013-14,December,SSP,Mizoram,0.000,0.000
+2013-14,December,TSP,Mizoram,0.000,0.000
+2013-14,December,UREA,Mizoram,0.000,0.000
+2013-14,December,DAP,Nagaland,100.000 ,20.000 
+2013-14,December,MAP,Nagaland,0.000 ,0.000 
+2013-14,December,MOP,Nagaland,50.000 ,0.000 
+2013-14,December,NPK,Nagaland,50.000 ,0.000 
+2013-14,December,SSP,Nagaland,50.000 ,0.000 
+2013-14,December,TSP,Nagaland,0.000 ,0.000 
+2013-14,December,UREA,Nagaland,200.000 ,0.000 
+2013-14,December,DAP,Odisha,"10,600.000 ","11,377.550 "
+2013-14,December,MAP,Odisha,0.000 ,0.000 
+2013-14,December,MOP,Odisha,"9,500.000 ","11,751.250 "
+2013-14,December,NPK,Odisha,"24,580.000 ","14,154.050 "
+2013-14,December,SSP,Odisha,"17,220.000 ","4,069.500 "
+2013-14,December,TSP,Odisha,0.000 ,0.000 
+2013-14,December,UREA,Odisha,"33,320.000 ","29,684.300 "
+2013-14,December,DAP,Pondicherry,500.000 ,100.000 
+2013-14,December,MAP,Pondicherry,0.000 ,0.000 
+2013-14,December,MOP,Pondicherry,300.000 ,12.000 
+2013-14,December,NPK,Pondicherry,"2,000.000 ",565.000 
+2013-14,December,SSP,Pondicherry,300.000 ,50.000 
+2013-14,December,TSP,Pondicherry,0.000 ,0.000 
+2013-14,December,UREA,Pondicherry,"2,100.000 ",71.000 
+2013-14,December,DAP,Punjab,"10,000.000 ","53,812.800 "
+2013-14,December,MAP,Punjab,0.000 ,0.000 
+2013-14,December,MOP,Punjab,"2,000.000 ","8,209.450 "
+2013-14,December,NPK,Punjab,"2,500.000 ",394.950 
+2013-14,December,SSP,Punjab,"12,000.000 ","6,326.650 "
+2013-14,December,TSP,Punjab,0.000 ,"3,355.300 "
+2013-14,December,UREA,Punjab,"3,00,000.000 ","35,700.900 "
+2013-14,December,DAP,Rajasthan,"15,480.000 ","19,521.880 "
+2013-14,December,MAP,Rajasthan,0.000 ,0.000 
+2013-14,December,MOP,Rajasthan,600.000 ,"2,593.600 "
+2013-14,December,NPK,Rajasthan,"2,910.000 ",193.656 
+2013-14,December,SSP,Rajasthan,"31,760.000 ","11,219.250 "
+2013-14,December,TSP,Rajasthan,0.000 ,"3,526.250 "
+2013-14,December,UREA,Rajasthan,"2,80,000.000 ","51,584.400 "
+2013-14,December,DAP,Sikkim,0.000,0.000
+2013-14,December,MAP,Sikkim,0.000,0.000
+2013-14,December,MOP,Sikkim,0.000,0.000
+2013-14,December,NPK,Sikkim,0.000,0.000
+2013-14,December,SSP,Sikkim,0.000,0.000
+2013-14,December,TSP,Sikkim,0.000,0.000
+2013-14,December,UREA,Sikkim,0.000,0.000
+2013-14,December,DAP,Tamil Nadu,"32,200.000 ","17,217.350 "
+2013-14,December,MAP,Tamil Nadu,0.000 ,0.000 
+2013-14,December,MOP,Tamil Nadu,"49,580.000 ","1,456.583 "
+2013-14,December,NPK,Tamil Nadu," 78,880.000 ","39,590.970 "
+2013-14,December,SSP,Tamil Nadu,"25,090.000 ","3,553.650 "
+2013-14,December,TSP,Tamil Nadu,0.000 ,0.000 
+2013-14,December,UREA,Tamil Nadu,"1,11,900.000 ","5,378.700 "
+2013-14,December,DAP,Tripura,"1,000.000 ",189.800 
+2013-14,December,MAP,Tripura,0.000 ,0.000 
+2013-14,December,MOP,Tripura,"2,600.000 ",0.000 
+2013-14,December,NPK,Tripura,0.000 ,127.650 
+2013-14,December,SSP,Tripura,"5,300.000 ","1,245.850 "
+2013-14,December,TSP,Tripura,0.000 ,0.000 
+2013-14,December,UREA,Tripura,"5,300.000 ",0.000 
+2013-14,December,DAP,Uttar Pradesh,"1,00,000.000 ","1,53,790.150 "
+2013-14,December,MAP,Uttar Pradesh,0.000 ,0.000 
+2013-14,December,MOP,Uttar Pradesh,"20,000.000 ","18,184.050 "
+2013-14,December,NPK,Uttar Pradesh,"1,00,000.000 ","26,057.800 "
+2013-14,December,SSP,Uttar Pradesh,"1,00,000.000 ","16,920.554 "
+2013-14,December,TSP,Uttar Pradesh,0.000 ,"16,125.250 "
+2013-14,December,UREA,Uttar Pradesh,"8,25,000.000 ","3,28,685.150 "
+2013-14,December,DAP,Uttaranchal,"3,000.000 ","1,312.900 "
+2013-14,December,UREA,Uttaranchal,0.000 ,0.000 
+2013-14,December,MOP,Uttaranchal,500.000 ,25.000 
+2013-14,December,NPK,Uttaranchal,"6,000.000 ","2,806.900 "
+2013-14,December,SSP,Uttaranchal,"2,000.000 ",0.000 
+2013-14,December,TSP,Uttaranchal,0.000 ,0.000 
+2013-14,December,UREA,Uttaranchal,"30,000.000 ","7,050.800 "
+2013-14,December,DAP,West Bengal,"44,500.000 ","22,408.500 "
+2013-14,December,MAP,West Bengal,0.000 ,0.000 
+2013-14,December,MOP,West Bengal,"42,200.000 ","25,822.250 "
+2013-14,December,NPK,West Bengal,"1,15,000.000 ","69,461.350 "
+2013-14,December,SSP,West Bengal,"56,800.000 ","10,752.350 "
+2013-14,December,TSP,West Bengal,0.000 ,"7,377.550 "
+2013-14,December,UREA,West Bengal,"1,67,500.000 ","69,542.688 "
+2013-14,January,DAP,Andaman & Nicobar,0.000,0.000
+2013-14,January,MAP,Andaman & Nicobar,0.000,0.000
+2013-14,January,MOP,Andaman & Nicobar,0.000,0.000
+2013-14,January,NPK,Andaman & Nicobar,0.000,0.000
+2013-14,January,SSP,Andaman & Nicobar,0.000,0.000
+2013-14,January,TSP,Andaman & Nicobar,0.000,0.000
+2013-14,January,UREA,Andaman & Nicobar,500.000,0.000
+2013-14,January,DAP,Andhra Pradesh,"50,000.000","51,462.550"
+2013-14,January,MAP,Andhra Pradesh,0.000,0.000
+2013-14,January,MOP,Andhra Pradesh,"50,000.000","16,084.290"
+2013-14,January,NPK,Andhra Pradesh,"1,80,000.000","1,14,366.308"
+2013-14,January,SSP,Andhra Pradesh,"1,00,000.000","6,261.586"
+2013-14,January,TSP,Andhra Pradesh,0.000,0.000
+2013-14,January,UREA,Andhra Pradesh,"3,00,000.000","1,39,335.900"
+2013-14,January,DAP,Arunachal Pradesh,50.000,0.000
+2013-14,January,MAP,Arunachal Pradesh,0.000,0.000
+2013-14,January,MOP,Arunachal Pradesh,50.000,0.000
+2013-14,January,NPK,Arunachal Pradesh,0.000,0.000
+2013-14,January,SSP,Arunachal Pradesh,100.000,0.000
+2013-14,January,TSP,Arunachal Pradesh,0.000,0.000
+2013-14,January,UREA,Arunachal Pradesh,100.000,0.000
+2013-14,January,DAP,Assam,"8,050.000","3,548.600"
+2013-14,January,MAP,Assam,0.000,0.000
+2013-14,January,MOP,Assam,"14,950.000","11,985.900"
+2013-14,January,NPK,Assam,"4,600.000",552.550
+2013-14,January,SSP,Assam,"18,400.000","2,296.350"
+2013-14,January,TSP,Assam,0.000,0.000
+2013-14,January,UREA,Assam,"46,000.000","5,299.350"
+2013-14,January,DAP,Bihar,"25,000.000","42,475.650"
+2013-14,January,MAP,Bihar,0.000,0.000
+2013-14,January,MOP,Bihar,"6,550.000","17,776.650"
+2013-14,January,NPK,Bihar,"15,000.000","15,617.300"
+2013-14,January,SSP,Bihar,"15,000.000","6,912.250"
+2013-14,January,TSP,Bihar,0.000,"7,673.750"
+2013-14,January,UREA,Bihar,"2,00,000.000","34,435.500"
+2013-14,January,DAP,Chandigarh,0.000,0.000
+2013-14,January,MAP,Chandigarh,0.000,0.000
+2013-14,January,MOP,Chandigarh,0.000,0.000
+2013-14,January,NPK,Chandigarh,0.000,0.000
+2013-14,January,SSP,Chandigarh,0.000,121.150
+2013-14,January,TSP,Chandigarh,0.000,0.000
+2013-14,January,UREA,Chandigarh,0.000,0.000
+2013-14,January,DAP,Chattishgarh,"22,000.000","45,355.200"
+2013-14,January,MAP,Chattishgarh,0.000,0.000
+2013-14,January,MOP,Chattishgarh,"8,000.000","24,044.400"
+2013-14,January,NPK,Chattishgarh,"18,000.000","6,666.550"
+2013-14,January,SSP,Chattishgarh,"25,000.000","22,700.705"
+2013-14,January,TSP,Chattishgarh,0.000,"3,858.250"
+2013-14,January,UREA,Chattishgarh,"45,000.000","17,190.700"
+2013-14,January,DAP,Dadra & Nagar Haveli,40.000,23.450
+2013-14,January,MAP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,January,MOP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,January,NPK,Dadra & Nagar Haveli,0.000,0.000
+2013-14,January,SSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,January,TSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,January,UREA,Dadra & Nagar Haveli,60.000,10.950
+2013-14,January,DAP,Daman & Diu,0.000,0.000
+2013-14,January,MAP,Daman & Diu,0.000,0.000
+2013-14,January,MOP,Daman & Diu,0.000,0.000
+2013-14,January,NPK,Daman & Diu,0.000,0.000
+2013-14,January,SSP,Daman & Diu,0.000,0.000
+2013-14,January,TSP,Daman & Diu,0.000,0.000
+2013-14,January,UREA,Daman & Diu,0.000,0.000
+2013-14,January,DAP,Delhi,50.000,0.000
+2013-14,January,MAP,Delhi,0.000,0.000
+2013-14,January,MOP,Delhi,150.000,0.000
+2013-14,January,NPK,Delhi,0.000,0.000
+2013-14,January,SSP,Delhi,50.000,0.000
+2013-14,January,TSP,Delhi,0.000,0.000
+2013-14,January,UREA,Delhi,400.000,0.000
+2013-14,January,DAP,Goa,500.000,28.800
+2013-14,January,MAP,Goa,0.000,0.000
+2013-14,January,MOP,Goa,100.000,0.000
+2013-14,January,NPK,Goa,600.000,214.500
+2013-14,January,SSP,Goa,0.000,0.000
+2013-14,January,TSP,Goa,0.000,0.000
+2013-14,January,UREA,Goa,500.000,21.000
+2013-14,January,DAP,Gujarat,"20,000.000","29,053.427"
+2013-14,January,MAP,Gujarat,0.000,0.000
+2013-14,January,MOP,Gujarat,"10,000.000","4,040.650"
+2013-14,January,NPK,Gujarat,"29,300.000","17,109.170"
+2013-14,January,SSP,Gujarat,"14,000.000","2,542.750"
+2013-14,January,TSP,Gujarat,0.000,"6,313.850"
+2013-14,January,UREA,Gujarat,"2,20,000.000","6,383.155"
+2013-14,January,DAP,Harayana,0.000,"9,888.340"
+2013-14,January,MAP,Harayana,0.000,0.000
+2013-14,January,MOP,Harayana,"2,000.000","4,418.150"
+2013-14,January,NPK,Harayana,"2,000.000",475.250
+2013-14,January,SSP,Harayana,"10,000.000","3,847.300"
+2013-14,January,TSP,Harayana,0.000,0.000
+2013-14,January,UREA,Harayana,"2,00,000.000","6,473.650"
+2013-14,January,DAP,Himachal Pradesh,0.000,0.000
+2013-14,January,MAP,Himachal Pradesh,0.000,0.000
+2013-14,January,MOP,Himachal Pradesh,0.000,"1,188.400"
+2013-14,January,NPK,Himachal Pradesh,"2,500.000",173.300
+2013-14,January,SSP,Himachal Pradesh,900.000,141.600
+2013-14,January,TSP,Himachal Pradesh,0.000,0.000
+2013-14,January,UREA,Himachal Pradesh,"7,500.000",176.700
+2013-14,January,DAP,Jammu & Kashmir,"5,750.000","4,091.400"
+2013-14,January,MAP,Jammu & Kashmir,0.000,0.000
+2013-14,January,MOP,Jammu & Kashmir,"3,000.000","2,248.900"
+2013-14,January,NPK,Jammu & Kashmir,0.000,0.000
+2013-14,January,SSP,Jammu & Kashmir,870.000,0.000
+2013-14,January,TSP,Jammu & Kashmir,0.000,0.000
+2013-14,January,UREA,Jammu & Kashmir,"14,350.000","1,475.750"
+2013-14,January,DAP,Jharkhand,"5,000.000","3,807.000"
+2013-14,January,MAP,Jharkhand,0.000,0.000
+2013-14,January,MOP,Jharkhand,"1,000.000","2,192.700"
+2013-14,January,NPK,Jharkhand,"5,000.000","1,992.300"
+2013-14,January,SSP,Jharkhand,"15,000.000",367.650
+2013-14,January,TSP,Jharkhand,0.000,0.000
+2013-14,January,UREA,Jharkhand,"16,250.000","9,059.750"
+2013-14,January,DAP,Karnataka,"46,000.000","34,288.285"
+2013-14,January,MAP,Karnataka,0.000,0.000
+2013-14,January,MOP,Karnataka,"42,000.000","14,798.968"
+2013-14,January,NPK,Karnataka,"1,30,000.000","1,13,958.742"
+2013-14,January,SSP,Karnataka,"19,000.000",2150.55
+2013-14,January,TSP,Karnataka,0.000,"11,905.400"
+2013-14,January,UREA,Karnataka,"1,15,000.000","69,941.752"
+2013-14,January,DAP,Kerala,"1,300.000","1,527.500"
+2013-14,January,MAP,Kerala,0.000,0.000
+2013-14,January,MOP,Kerala,"19,000.000","4,815.000"
+2013-14,January,NPK,Kerala,"14,000.000","15,079.084"
+2013-14,January,SSP,Kerala,"2,000.000",0.000
+2013-14,January,TSP,Kerala,0.000,"3,156.750"
+2013-14,January,UREA,Kerala,"15,000.000","5,837.900"
+2013-14,January,DAP,Lakshadweep,0.000,0.000
+2013-14,January,MAP,Lakshadweep,0.000,0.000
+2013-14,January,MOP,Lakshadweep,0.000,0.000
+2013-14,January,NPK,Lakshadweep,0.000,0.000
+2013-14,January,SSP,Lakshadweep,0.000,0.000
+2013-14,January,TSP,Lakshadweep,0.000,0.000
+2013-14,January,UREA,Lakshadweep,0.000,0.000
+2013-14,January,DAP,Madhya Pradesh,"15,000.000","78,958.000"
+2013-14,January,MAP,Madhya Pradesh,0.000,0.000
+2013-14,January,MOP,Madhya Pradesh,"2,000.000","14,114.200"
+2013-14,January,NPK,Madhya Pradesh,"8,000.000","15,990.150"
+2013-14,January,SSP,Madhya Pradesh,"30,400.000","1,53,949.401"
+2013-14,January,TSP,Madhya Pradesh,0.000,"8,443.850"
+2013-14,January,UREA,Madhya Pradesh,"1,37,500.000","28,591.300"
+2013-14,January,DAP,Maharastra,"80,500.000","63,099.637"
+2013-14,January,MAP,Maharastra,0.00,0.00
+2013-14,January,MOP,Maharastra,"47,000.000","38,691.017"
+2013-14,January,NPK,Maharastra,"1,26,600.000","1,26,613.785"
+2013-14,January,SSP,Maharastra,"1,08,300.000","27,300.561"
+2013-14,January,TSP,Maharastra,0.000,0.000
+2013-14,January,UREA,Maharastra,"2,07,200.000","44,972.439"
+2013-14,January,DAP,Manipur,"1,000.000",0.000
+2013-14,January,MAP,Manipur,0.000,0.000
+2013-14,January,MOP,Manipur,500.000,0.000
+2013-14,January,NPK,Manipur,0.000,0.000
+2013-14,January,SSP,Manipur,"1,000.000",0.000
+2013-14,January,TSP,Manipur,0.000,0.000
+2013-14,January,UREA,Manipur,"1,500.000",0.000
+2013-14,January,DAP,Megalaya,"1,000.000",200.000
+2013-14,January,MAP,Megalaya,0.000,0.000
+2013-14,January,MOP,Megalaya,300.000,0.000
+2013-14,January,NPK,Megalaya,0.000,0.000
+2013-14,January,SSP,Megalaya,"1,000.000",0.000
+2013-14,January,TSP,Megalaya,0.000,0.000
+2013-14,January,UREA,Megalaya,"1,500.000",0.000
+2013-14,January,DAP,Mizoram,0.000,0.000
+2013-14,January,MAP,Mizoram,0.000,0.000
+2013-14,January,MOP,Mizoram,0.000,0.000
+2013-14,January,NPK,Mizoram,0.000,0.000
+2013-14,January,SSP,Mizoram,200.000,0.000
+2013-14,January,TSP,Mizoram,0.000,0.000
+2013-14,January,UREA,Mizoram,0.000,0.000
+2013-14,January,DAP,Nagaland,100.000,200.000
+2013-14,January,MAP,Nagaland,0.000,0.000
+2013-14,January,MOP,Nagaland,50.000,0.000
+2013-14,January,NPK,Nagaland,50.000,0.000
+2013-14,January,SSP,Nagaland,50.000,0.000
+2013-14,January,TSP,Nagaland,0.000,0.000
+2013-14,January,UREA,Nagaland,200.000,0.000
+2013-14,January,DAP,Odisha,"15,510.000","12,518.800"
+2013-14,January,MAP,Odisha,0.000,0.000
+2013-14,January,MOP,Odisha,"14,910.000","12,000.900"
+2013-14,January,NPK,Odisha,"30,780.000","15,273.100"
+2013-14,January,SSP,Odisha,"22,920.000","1,672.250"
+2013-14,January,TSP,Odisha,0.000,0.000
+2013-14,January,UREA,Odisha,"42,490.000","34,703.500"
+2013-14,January,DAP,Pondicherry,300.000,0.000
+2013-14,January,MAP,Pondicherry,0.000,0.000
+2013-14,January,MOP,Pondicherry,500.000,12.000
+2013-14,January,NPK,Pondicherry,"2,800.000","1,115.900"
+2013-14,January,SSP,Pondicherry,200.000,25.000
+2013-14,January,TSP,Pondicherry,0.000,0.000
+2013-14,January,UREA,Pondicherry,"3,100.000",13.000
+2013-14,January,DAP,Punjab,"10,000.000","18,647.650"
+2013-14,January,MAP,Punjab,0.000,0.000
+2013-14,January,MOP,Punjab,"2,000.000","10,290.450"
+2013-14,January,NPK,Punjab,"2,500.000",128.950
+2013-14,January,SSP,Punjab,"12,000.000","7,540.450"
+2013-14,January,TSP,Punjab,0.000,"3,355.300"
+2013-14,January,UREA,Punjab,"2,75,000.000","6,368.800"
+2013-14,January,DAP,Rajasthan,"17,200.000","11,903.905"
+2013-14,January,MAP,Rajasthan,0.000,0.000
+2013-14,January,MOP,Rajasthan,"1,500.000","3,429.500"
+2013-14,January,NPK,Rajasthan,"1,690.000",743.950
+2013-14,January,SSP,Rajasthan,"40,010.000","22,608.950"
+2013-14,January,TSP,Rajasthan,0.000,"3,526.250"
+2013-14,January,UREA,Rajasthan,"3,00,000.000","48,006.170"
+2013-14,January,DAP,Sikkim,0.000,0.000
+2013-14,January,MAP,Sikkim,0.000,0.000
+2013-14,January,MOP,Sikkim,0.000,0.000
+2013-14,January,NPK,Sikkim,0.000,0.000
+2013-14,January,SSP,Sikkim,0.000,0.000
+2013-14,January,TSP,Sikkim,0.000,0.000
+2013-14,January,UREA,Sikkim,0.000,0.000
+2013-14,January,DAP,Tamil Nadu,"24,800.000","14,255.200"
+2013-14,January,MAP,Tamil Nadu,0.000,0.000
+2013-14,January,MOP,Tamil Nadu,"34,310.000","3,256.299"
+2013-14,January,NPK,Tamil Nadu,"59,400.000","39,566.370"
+2013-14,January,SSP,Tamil Nadu,"20,370.000","3,242.800"
+2013-14,January,TSP,Tamil Nadu,0.000,0.000
+2013-14,January,UREA,Tamil Nadu,"78,770.000","9,511.600"
+2013-14,January,DAP,Tripura,"1,000.000",125.250
+2013-14,January,MAP,Tripura,0.000,0.000
+2013-14,January,MOP,Tripura,"2,600.000",0.000
+2013-14,January,NPK,Tripura,0.000,125.250
+2013-14,January,SSP,Tripura,"4,450.000",935.000
+2013-14,January,TSP,Tripura,0.000,0.000
+2013-14,January,UREA,Tripura,"2,650.000",0.000
+2013-14,January,DAP,Uttar Pradesh,"50,000.000","2,01,683.910"
+2013-14,January,MAP,Uttar Pradesh,0.000,0.000
+2013-14,January,MOP,Uttar Pradesh,0.000,"16,082.600"
+2013-14,January,NPK,Uttar Pradesh,"50,000.000","43,964.850"
+2013-14,January,SSP,Uttar Pradesh,"50,000.000","16,339.954"
+2013-14,January,TSP,Uttar Pradesh,0.000,"16,125.250"
+2013-14,January,UREA,Uttar Pradesh,"7,75,000.000","1,21,371.700"
+2013-14,January,DAP,Uttaranchal,"2,000.000","2,563.950"
+2013-14,January,UREA,Uttaranchal,0.000,0.000
+2013-14,January,MOP,Uttaranchal,500.000,12.500
+2013-14,January,NPK,Uttaranchal,"4,000.000","2,412.800"
+2013-14,January,SSP,Uttaranchal,"2,000.000",0.000
+2013-14,January,TSP,Uttaranchal,0.000,0.000
+2013-14,January,UREA,Uttaranchal,"30,000.000","2,246.150"
+2013-14,January,DAP,West Bengal,"53,500.000","18,529.665"
+2013-14,January,MAP,West Bengal,0.000,0.000
+2013-14,January,MOP,West Bengal,"38,550.000","23,024.350"
+2013-14,January,NPK,West Bengal,"98,350.000","56,353.825"
+2013-14,January,SSP,West Bengal,"56,500.000","10,689.050"
+2013-14,January,TSP,West Bengal,0.000,"7,377.550"
+2013-14,January,UREA,West Bengal,"1,53,000.000","52,162.728"
+2013-14,February,DAP,Andaman & Nicobar,0.000,0.000
+2013-14,February,MAP,Andaman & Nicobar,0.000,0.000
+2013-14,February,MOP,Andaman & Nicobar,0.000,0.000
+2013-14,February,NPK,Andaman & Nicobar,0.000,0.000
+2013-14,February,SSP,Andaman & Nicobar,0.000,0.000
+2013-14,February,TSP,Andaman & Nicobar,0.000,0.000
+2013-14,February,UREA,Andaman & Nicobar,0.000,0.000
+2013-14,February,DAP,Andhra Pradesh,"50,000.000 ",49579.45
+2013-14,February,MAP,Andhra Pradesh,0.000,0.000
+2013-14,February,MOP,Andhra Pradesh,"50,000.000","23,601.940"
+2013-14,February,NPK,Andhra Pradesh,"1,00,000.000","1,18,471.108"
+2013-14,February,SSP,Andhra Pradesh,"50,000.000","7,727.886"
+2013-14,February,TSP,Andhra Pradesh,0.000,0.000
+2013-14,February,UREA,Andhra Pradesh,"2,75,000.000","55,711.550"
+2013-14,February,DAP,Arunachal Pradesh,50.000,0.000
+2013-14,February,MAP,Arunachal Pradesh,0.000,0.000
+2013-14,February,MOP,Arunachal Pradesh,50.000,0.000
+2013-14,February,NPK,Arunachal Pradesh,0.000,0.000
+2013-14,February,SSP,Arunachal Pradesh,50.000,0.000
+2013-14,February,TSP,Arunachal Pradesh,0.000,0.000
+2013-14,February,UREA,Arunachal Pradesh,100.000,0.000
+2013-14,February,DAP,Assam,"7,350.000","3,319.900"
+2013-14,February,MAP,Assam,0.000,0.000
+2013-14,February,MOP,Assam,"13,650.000","16,573.000"
+2013-14,February,NPK,Assam,"4,200.000","2,178.500"
+2013-14,February,SSP,Assam,"16,800.000",143.300
+2013-14,February,TSP,Assam,0.000,0.000
+2013-14,February,UREA,Assam,"42,000.000","4,133.100"
+2013-14,February,DAP,Bihar,"10,000.000","36,334.550"
+2013-14,February,MAP,Bihar,0.000,0.000
+2013-14,February,MOP,Bihar,"5,000.000","16,606.400"
+2013-14,February,NPK,Bihar,"12,000.000","23,705.900"
+2013-14,February,SSP,Bihar,"7,500.000","7,632.750"
+2013-14,February,TSP,Bihar,0.000,"7,673.750"
+2013-14,February,UREA,Bihar,"14,000.000","22,015.000"
+2013-14,February,DAP,Chandigarh,0.000,0.000
+2013-14,February,MAP,Chandigarh,0.000,0.000
+2013-14,February,MOP,Chandigarh,0.000,0.000
+2013-14,February,NPK,Chandigarh,0.000,0.000
+2013-14,February,SSP,Chandigarh,0.000,0.000
+2013-14,February,TSP,Chandigarh,0.000,0.000
+2013-14,February,UREA,Chandigarh,0.000,0.000
+2013-14,February,DAP,Chattishgarh,"13,000.000","50,083.650"
+2013-14,February,MAP,Chattishgarh,0.000,0.000
+2013-14,February,MOP,Chattishgarh,"5,000.000","22,845.650"
+2013-14,February,NPK,Chattishgarh,"6,000.000","4,826.650"
+2013-14,February,SSP,Chattishgarh,"10,000.000","26,033.355"
+2013-14,February,TSP,Chattishgarh,0.000,"3,858.250"
+2013-14,February,UREA,Chattishgarh,"40,000.000","17,936.500"
+2013-14,February,DAP,Dadra & Nagar Haveli,20.000,11.700
+2013-14,February,MAP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,February,MOP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,February,NPK,Dadra & Nagar Haveli,0.000,0.000
+2013-14,February,SSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,February,TSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,February,UREA,Dadra & Nagar Haveli,40.000,0.000
+2013-14,February,DAP,Daman & Diu,0.000,0.000
+2013-14,February,MAP,Daman & Diu,0.000,0.000
+2013-14,February,MOP,Daman & Diu,0.000,0.000
+2013-14,February,NPK,Daman & Diu,0.000,0.000
+2013-14,February,SSP,Daman & Diu,0.000,0.000
+2013-14,February,TSP,Daman & Diu,0.000,0.000
+2013-14,February,UREA,Daman & Diu,0.000,0.000
+2013-14,February,DAP,Delhi,50.000,0.000
+2013-14,February,MAP,Delhi,0.000,0.000
+2013-14,February,MOP,Delhi,100.000,0.000
+2013-14,February,NPK,Delhi,0.000,0.000
+2013-14,February,SSP,Delhi,50.000,0.000
+2013-14,February,TSP,Delhi,0.000,0.000
+2013-14,February,UREA,Delhi,200.000,0.000
+2013-14,February,DAP,Goa,100.000,50.800
+2013-14,February,MAP,Goa,0.000,0.000
+2013-14,February,MOP,Goa,100.000,0.000
+2013-14,February,NPK,Goa,600.000,39.500
+2013-14,February,SSP,Goa,0.000,0.000
+2013-14,February,TSP,Goa,0.000,0.000
+2013-14,February,UREA,Goa,600.000,40.000
+2013-14,February,DAP,Gujarat,"15,000.000","18,759.602"
+2013-14,February,MAP,Gujarat,0.000,0.000
+2013-14,February,MOP,Gujarat,"5,000.000","3,150.400"
+2013-14,February,NPK,Gujarat,"27,700.000","16,926.422"
+2013-14,February,SSP,Gujarat,"10,000.000","3,315.450"
+2013-14,February,TSP,Gujarat,0.000,"6,313.850"
+2013-14,February,UREA,Gujarat,"1,00,000.000","6,081.875"
+2013-14,February,DAP,Harayana,0.000,"9,610.290"
+2013-14,February,MAP,Harayana,0.000,0.000
+2013-14,February,MOP,Harayana,"1,000.000","3,264.600"
+2013-14,February,NPK,Harayana,"2,000.000",443.200
+2013-14,February,SSP,Harayana,"10,000.000","7,266.700"
+2013-14,February,TSP,Harayana,0.000,0.000
+2013-14,February,UREA,Harayana,"95,000.000","3,101.450"
+2013-14,February,DAP,Himachal Pradesh,0.000,0.000
+2013-14,February,MAP,Himachal Pradesh,0.000,0.000
+2013-14,February,MOP,Himachal Pradesh,0.000,1.000
+2013-14,February,NPK,Himachal Pradesh,"2,500.000",80.800
+2013-14,February,SSP,Himachal Pradesh,600.000,393.300
+2013-14,February,TSP,Himachal Pradesh,0.000,0.000
+2013-14,February,UREA,Himachal Pradesh,"2,500.000",209.250
+2013-14,February,DAP,Jammu & Kashmir,"7,560.000","8,518.400"
+2013-14,February,MAP,Jammu & Kashmir,0.000,0.000
+2013-14,February,MOP,Jammu & Kashmir,"3,000.000","4,489.950"
+2013-14,February,NPK,Jammu & Kashmir,0.000,0.000
+2013-14,February,SSP,Jammu & Kashmir,"1,140.000",56.800
+2013-14,February,TSP,Jammu & Kashmir,0.000,0.000
+2013-14,February,UREA,Jammu & Kashmir,"15,510.000","1,891.800"
+2013-14,February,DAP,Jharkhand,"2,500.000","4,177.900"
+2013-14,February,MAP,Jharkhand,0.000,0.000
+2013-14,February,MOP,Jharkhand,"1,000.000","2,117.200"
+2013-14,February,NPK,Jharkhand,"2,500.000","1,568.500"
+2013-14,February,SSP,Jharkhand,"5,000.000",94.650
+2013-14,February,TSP,Jharkhand,0.000,0.000
+2013-14,February,UREA,Jharkhand,"6,350.000","7,253.150"
+2013-14,February,DAP,Karnataka,"32,000.000","34,027.115"
+2013-14,February,MAP,Karnataka,0.000,0.000
+2013-14,February,MOP,Karnataka,"39,000.000","20,812.868"
+2013-14,February,NPK,Karnataka,"1,18,000.000","1,29,070.612"
+2013-14,February,SSP,Karnataka,"15,900.000","2,401.750"
+2013-14,February,TSP,Karnataka,0.000,"11,905.400"
+2013-14,February,UREA,Karnataka,"1,08,000.000","59,750.707"
+2013-14,February,DAP,Kerala,500.000,"1,288.300"
+2013-14,February,MAP,Kerala,0.000,0.000
+2013-14,February,MOP,Kerala,"4,500.000","3,661.915"
+2013-14,February,NPK,Kerala,"9,000.000","17,653.818"
+2013-14,February,SSP,Kerala,"1,000.000",0.000
+2013-14,February,TSP,Kerala,0.000,"3,156.750"
+2013-14,February,UREA,Kerala,"7,500.000","2,522.750"
+2013-14,February,DAP,Lakshadweep,0.000,0.000
+2013-14,February,MAP,Lakshadweep,0.000,0.000
+2013-14,February,MOP,Lakshadweep,0.000,0.000
+2013-14,February,NPK,Lakshadweep,0.000,0.000
+2013-14,February,SSP,Lakshadweep,0.000,0.000
+2013-14,February,TSP,Lakshadweep,0.000,0.000
+2013-14,February,UREA,Lakshadweep,0.000,0.000
+2013-14,February,DAP,Madhya Pradesh,"7,500.000","1,17,708.450"
+2013-14,February,MAP,Madhya Pradesh,0.000,0.000
+2013-14,February,MOP,Madhya Pradesh,800.000,"12,813.350"
+2013-14,February,NPK,Madhya Pradesh,"3,000.000","27,511.200"
+2013-14,February,SSP,Madhya Pradesh,"15,200.000","1,36,497.051"
+2013-14,February,TSP,Madhya Pradesh,0.000,"8,443.850"
+2013-14,February,UREA,Madhya Pradesh,"25,000.000","18,400.800"
+2013-14,February,DAP,Maharastra,"69,200.000","46,238.187"
+2013-14,February,MAP,Maharastra,0.000,0.000
+2013-14,February,MOP,Maharastra,"30,000.000","41,196.682"
+2013-14,February,NPK,Maharastra,"1,07,500.000","1,01,291.150"
+2013-14,February,SSP,Maharastra,"1,08,300.000","23,088.561"
+2013-14,February,TSP,Maharastra,0.000,0.000
+2013-14,February,UREA,Maharastra,"1,93,500.000","39,681.409"
+2013-14,February,DAP,Manipur,500.000,0.000
+2013-14,February,MAP,Manipur,0.000,0.000
+2013-14,February,MOP,Manipur,250.000,0.000
+2013-14,February,NPK,Manipur,0.000,0.000
+2013-14,February,SSP,Manipur,"1,000.000",0.000
+2013-14,February,TSP,Manipur,0.000,0.000
+2013-14,February,UREA,Manipur,"1,500.000",0.000
+2013-14,February,DAP,Megalaya,500.000,200.000
+2013-14,February,MAP,Megalaya,0.000,0.000
+2013-14,February,MOP,Megalaya,500.000,0.000
+2013-14,February,NPK,Megalaya,0.000,0.000
+2013-14,February,SSP,Megalaya,500.000,0.000
+2013-14,February,TSP,Megalaya,0.000,0.000
+2013-14,February,UREA,Megalaya,"1,500.000",0.000
+2013-14,February,DAP,Mizoram,200.000,0.000
+2013-14,February,MAP,Mizoram,0.000,0.000
+2013-14,February,MOP,Mizoram,200.000,0.000
+2013-14,February,NPK,Mizoram,0.000,0.000
+2013-14,February,SSP,Mizoram,200.000,0.000
+2013-14,February,TSP,Mizoram,0.000,0.000
+2013-14,February,UREA,Mizoram,200.000,0.000
+2013-14,February,DAP,Nagaland,100.000,30.000
+2013-14,February,MAP,Nagaland,0.000,0.000
+2013-14,February,MOP,Nagaland,50.000,0.000
+2013-14,February,NPK,Nagaland,50.000,10.000
+2013-14,February,SSP,Nagaland,50.000,0.000
+2013-14,February,TSP,Nagaland,0.000,0.000
+2013-14,February,UREA,Nagaland,100.000,0.000
+2013-14,February,DAP,Odisha,"18,410.000","13,329.800"
+2013-14,February,MAP,Odisha,0.000,0.000
+2013-14,February,MOP,Odisha,"16,350.000","9,715.200"
+2013-14,February,NPK,Odisha,"30,430.000","10,112.100"
+2013-14,February,SSP,Odisha,"25,110.000","1,270.100"
+2013-14,February,TSP,Odisha,0.000,0.000
+2013-14,February,UREA,Odisha,"53,260.000","33,336.450"
+2013-14,February,DAP,Pondicherry,500.000,0.000
+2013-14,February,MAP,Pondicherry,0.000,0.000
+2013-14,February,MOP,Pondicherry,200.000,66.000
+2013-14,February,NPK,Pondicherry,"1,500.000",576.900
+2013-14,February,SSP,Pondicherry,250.000,65.000
+2013-14,February,TSP,Pondicherry,0.000,0.000
+2013-14,February,UREA,Pondicherry,"2,600.000",13.000
+2013-14,February,DAP,Punjab,"10,000.000","42,945.250"
+2013-14,February,MAP,Punjab,0.000,0.000
+2013-14,February,MOP,Punjab,"2,000.000","9,947.200"
+2013-14,February,NPK,Punjab,"2,500.000","1,228.700"
+2013-14,February,SSP,Punjab,"12,000.000","8,056.200"
+2013-14,February,TSP,Punjab,0.000,"3,355.300"
+2013-14,February,UREA,Punjab,"70,000.000","8,207.900"
+2013-14,February,DAP,Rajasthan,"63,500.000","23,482.465"
+2013-14,February,MAP,Rajasthan,0.000,0.000
+2013-14,February,MOP,Rajasthan,500.000,"3,231.050"
+2013-14,February,NPK,Rajasthan,"3,550.000",761.850
+2013-14,February,SSP,Rajasthan,"31,080.000","26,597.650"
+2013-14,February,TSP,Rajasthan,0.000,"3,526.250"
+2013-14,February,UREA,Rajasthan,"1,00,000.000","43,293.900"
+2013-14,February,DAP,Sikkim,0.000,0.000
+2013-14,February,MAP,Sikkim,0.000,0.000
+2013-14,February,MOP,Sikkim,0.000,0.000
+2013-14,February,NPK,Sikkim,0.000,0.000
+2013-14,February,SSP,Sikkim,0.000,0.000
+2013-14,February,TSP,Sikkim,0.000,0.000
+2013-14,February,UREA,Sikkim,0.000,0.000
+2013-14,February,DAP,Tamil Nadu,"17,670.000","15,700.550"
+2013-14,February,MAP,Tamil Nadu,0.000,0.000
+2013-14,February,MOP,Tamil Nadu,"25,190.000","3,951.599"
+2013-14,February,NPK,Tamil Nadu,"42,560.000","39,287.570"
+2013-14,February,SSP,Tamil Nadu,"13,950.000","3,704.250"
+2013-14,February,TSP,Tamil Nadu,0.000,0.000
+2013-14,February,UREA,Tamil Nadu,"63,210.000","13,788.350"
+2013-14,February,DAP,Tripura,0.000,115.250
+2013-14,February,MAP,Tripura,0.000,0.000
+2013-14,February,MOP,Tripura,800.000,-54.600
+2013-14,February,NPK,Tripura,0.000,125.250
+2013-14,February,SSP,Tripura,"2,650.000",935.000
+2013-14,February,TSP,Tripura,0.000,0.000
+2013-14,February,UREA,Tripura,"4,450.000",0.000
+2013-14,February,DAP,Uttar Pradesh,"30,000.000","2,62,149.800"
+2013-14,February,MAP,Uttar Pradesh,0.000,0.000
+2013-14,February,MOP,Uttar Pradesh,0.000,"15,054.000"
+2013-14,February,NPK,Uttar Pradesh,"30,000.000","53,452.300"
+2013-14,February,SSP,Uttar Pradesh,"50,000.000","19,997.304"
+2013-14,February,TSP,Uttar Pradesh,0.000,"16,125.250"
+2013-14,February,UREA,Uttar Pradesh,"4,75,000.000","55,756.200"
+2013-14,February,DAP,Uttaranchal,"2,000.000","55,756.200"
+2013-14,February,UREA,Uttaranchal,0.000,0.000
+2013-14,February,MOP,Uttaranchal,0.000,0.000
+2013-14,February,NPK,Uttaranchal,"2,000.000","5,769.450"
+2013-14,February,SSP,Uttaranchal,0.000,0.000
+2013-14,February,TSP,Uttaranchal,0.000,0.000
+2013-14,February,UREA,Uttaranchal,"18,000.000","2,582.600"
+2013-14,February,DAP,West Bengal,"39,000.000","18,968.715"
+2013-14,February,MAP,West Bengal,0.000,0.000
+2013-14,February,MOP,West Bengal,"33,000.000","29,841.850"
+2013-14,February,NPK,West Bengal,"71,300.000","62,841.470"
+2013-14,February,SSP,West Bengal,"59,100.000","10,120.550"
+2013-14,February,TSP,West Bengal,0.000,"7,377.550"
+2013-14,February,UREA,West Bengal,"1,72,500.000","34,462.878"
+2013-14,March,DAP,Andaman & Nicobar,0.000,0.000
+2013-14,March,MAP,Andaman & Nicobar,0.000,0.000
+2013-14,March,MOP,Andaman & Nicobar,0.000,0.000
+2013-14,March,NPK,Andaman & Nicobar,0.000,0.000
+2013-14,March,SSP,Andaman & Nicobar,0.000,0.000
+2013-14,March,TSP,Andaman & Nicobar,0.000,0.000
+2013-14,March,UREA,Andaman & Nicobar,0.000,0.000
+2013-14,March,DAP,Andhra Pradesh,"50,000.000","47,040.050"
+2013-14,March,MAP,Andhra Pradesh,0.000,0.000
+2013-14,March,MOP,Andhra Pradesh,"29,900.000","64,072.240"
+2013-14,March,NPK,Andhra Pradesh,"1,00,000.000","1,44,504.608"
+2013-14,March,SSP,Andhra Pradesh,"50,000.000","8,121.036"
+2013-14,March,TSP,Andhra Pradesh,0.000,0.000
+2013-14,March,UREA,Andhra Pradesh,"1,50,000.000","25,832.000"
+2013-14,March,DAP,Arunachal Pradesh,100.000,0.000
+2013-14,March,MAP,Arunachal Pradesh,0.000,0.000
+2013-14,March,MOP,Arunachal Pradesh,50.000,0.000
+2013-14,March,NPK,Arunachal Pradesh,0.000,0.000
+2013-14,March,SSP,Arunachal Pradesh,50.000,0.000
+2013-14,March,TSP,Arunachal Pradesh,0.000,0.000
+2013-14,March,UREA,Arunachal Pradesh,100.000,0.000
+2013-14,March,DAP,Assam,"4,550.000","4,330.050"
+2013-14,March,MAP,Assam,0.000,0.000
+2013-14,March,MOP,Assam,"8,450.000","14,999.950"
+2013-14,March,NPK,Assam,"2,600.000","1,382.050"
+2013-14,March,SSP,Assam,"10,400.000","2,529.300"
+2013-14,March,TSP,Assam,0.000,0.000
+2013-14,March,UREA,Assam,"26,000.000","3,564.850"
+2013-14,March,DAP,Bihar,"10,000.000","26,929.600"
+2013-14,March,MAP,Bihar,0.000,0.000
+2013-14,March,MOP,Bihar,"5,000.000","11,327.000"
+2013-14,March,NPK,Bihar,"8,000.000","24,089.500"
+2013-14,March,SSP,Bihar,"7,500.000","7,649.250"
+2013-14,March,TSP,Bihar,0.000,"7,673.750"
+2013-14,March,UREA,Bihar,"1,00,000.000","21,690.400"
+2013-14,March,DAP,Chandigarh,0.000,0.000
+2013-14,March,MAP,Chandigarh,0.000,0.000
+2013-14,March,MOP,Chandigarh,0.000,0.000
+2013-14,March,NPK,Chandigarh,0.000,0.000
+2013-14,March,SSP,Chandigarh,0.000,0.000
+2013-14,March,TSP,Chandigarh,0.000,0.000
+2013-14,March,UREA,Chandigarh,0.000,0.000
+2013-14,March,DAP,Chattishgarh,"50,000.000","42,141.150"
+2013-14,March,MAP,Chattishgarh,0.000,0.000
+2013-14,March,MOP,Chattishgarh,"2,750.000","19,201.100"
+2013-14,March,NPK,Chattishgarh,"5,000.000","5,385.650"
+2013-14,March,SSP,Chattishgarh,"8,000.000","25,716.205"
+2013-14,March,TSP,Chattishgarh,0.000,"3,858.650"
+2013-14,March,UREA,Chattishgarh,"12,000.000","10,897.000"
+2013-14,March,DAP,Dadra & Nagar Haveli,20.000,1.300
+2013-14,March,MAP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,March,MOP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,March,NPK,Dadra & Nagar Haveli,0.000,0.000
+2013-14,March,SSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,March,TSP,Dadra & Nagar Haveli,0.000,0.000
+2013-14,March,UREA,Dadra & Nagar Haveli,40.000,0.000
+2013-14,March,DAP,Daman & Diu,0.000,0.000
+2013-14,March,MAP,Daman & Diu,0.000,0.000
+2013-14,March,MOP,Daman & Diu,0.000,0.000
+2013-14,March,NPK,Daman & Diu,0.000,0.000
+2013-14,March,SSP,Daman & Diu,0.000,0.000
+2013-14,March,TSP,Daman & Diu,0.000,0.000
+2013-14,March,UREA,Daman & Diu,0.000,0.000
+2013-14,March,DAP,Delhi,0.000,0.000
+2013-14,March,MAP,Delhi,0.000,0.000
+2013-14,March,MOP,Delhi,50.000,0.000
+2013-14,March,NPK,Delhi,0.000,0.000
+2013-14,March,SSP,Delhi,0.000,0.000
+2013-14,March,TSP,Delhi,0.000,0.000
+2013-14,March,UREA,Delhi,100.000,0.000
+2013-14,March,DAP,Goa,50.000,28.800
+2013-14,March,MAP,Goa,0.000,0.000
+2013-14,March,MOP,Goa,50.000,21.000
+2013-14,March,NPK,Goa,260.000,5.500
+2013-14,March,SSP,Goa,0.000,0.000
+2013-14,March,TSP,Goa,0.000,0.000
+2013-14,March,UREA,Goa,100.000,6.000
+2013-14,March,DAP,Gujarat,"20,000.000","15,056.418"
+2013-14,March,MAP,Gujarat,0.000,0.000
+2013-14,March,MOP,Gujarat,"7,000.000","26,691.500"
+2013-14,March,NPK,Gujarat,"25,400.000","22,985.045"
+2013-14,March,SSP,Gujarat,"9,000.000","3,303.150"
+2013-14,March,TSP,Gujarat,0.000,"6,313.850"
+2013-14,March,UREA,Gujarat,"70,000.000","13,130.965"
+2013-14,March,DAP,Harayana,0.000,"9,414.600"
+2013-14,March,MAP,Harayana,0.000,0.000
+2013-14,March,MOP,Harayana,"1,000.000","2,504.600"
+2013-14,March,NPK,Harayana,"1,000.000",415.800
+2013-14,March,SSP,Harayana,"10,000.000","9,511.900"
+2013-14,March,TSP,Harayana,0.000,0.000
+2013-14,March,UREA,Harayana,"50,000.000","12,651.200"
+2013-14,March,DAP,Himachal Pradesh,0.000,0.000
+2013-14,March,MAP,Himachal Pradesh,0.000,0.000
+2013-14,March,MOP,Himachal Pradesh,0.000,872.350
+2013-14,March,NPK,Himachal Pradesh,0.000,"1,114.400"
+2013-14,March,SSP,Himachal Pradesh,200.000,232.800
+2013-14,March,TSP,Himachal Pradesh,0.000,0.000
+2013-14,March,UREA,Himachal Pradesh,"2,500.000","71,800.000"
+2013-14,March,DAP,Jammu & Kashmir,"10,130.000","8,296.100"
+2013-14,March,MAP,Jammu & Kashmir,0.000,0.000
+2013-14,March,MOP,Jammu & Kashmir,"4,500.000","2,843.600"
+2013-14,March,NPK,Jammu & Kashmir,0.000,11.000
+2013-14,March,SSP,Jammu & Kashmir,"1,530.000",56.800
+2013-14,March,TSP,Jammu & Kashmir,0.000,0.000
+2013-14,March,UREA,Jammu & Kashmir,"19,250.000","3,389.650"
+2013-14,March,DAP,Jharkhand,"2,500.000","5,013.750"
+2013-14,March,MAP,Jharkhand,0.000,0.000
+2013-14,March,MOP,Jharkhand,0.000,"2,100.200"
+2013-14,March,NPK,Jharkhand,"2,500.000","1,567.950"
+2013-14,March,SSP,Jharkhand,"5,000.000",243.700
+2013-14,March,TSP,Jharkhand,0.000,0.000
+2013-14,March,UREA,Jharkhand,"6,350.000","6,716.550"
+2013-14,March,DAP,Karnataka,"29,000.000","36,074.828"
+2013-14,March,MAP,Karnataka,0.000,0.000
+2013-14,March,MOP,Karnataka,"33,000.000","26,233.068"
+2013-14,March,NPK,Karnataka,"1,02,000.000","1,29,502.257"
+2013-14,March,SSP,Karnataka,"15,500.000","2,656.350"
+2013-14,March,TSP,Karnataka,0.000,"11,905.400"
+2013-14,March,UREA,Karnataka,"97,000.000","47,304.224"
+2013-14,March,DAP,Kerala,400.000,623.650
+2013-14,March,MAP,Kerala,0.000,0.000
+2013-14,March,MOP,Kerala,"4,500.000","8,306.215"
+2013-14,March,NPK,Kerala,"7,150.000","18,845.918"
+2013-14,March,SSP,Kerala,810.000,0.000
+2013-14,March,TSP,Kerala,0.000,"3,156.750"
+2013-14,March,UREA,Kerala,"7,500.000","1,550.000"
+2013-14,March,DAP,Lakshadweep,0.000,0.000
+2013-14,March,MAP,Lakshadweep,0.000,0.000
+2013-14,March,MOP,Lakshadweep,0.000,0.000
+2013-14,March,NPK,Lakshadweep,0.000,0.000
+2013-14,March,SSP,Lakshadweep,0.000,0.000
+2013-14,March,TSP,Lakshadweep,0.000,0.000
+2013-14,March,UREA,Lakshadweep,0.000,0.000
+2013-14,March,DAP,Madhya Pradesh,"2,500.000","1,57,846.750"
+2013-14,March,MAP,Madhya Pradesh,0.000,0.000
+2013-14,March,MOP,Madhya Pradesh,400.000,"19,965.800"
+2013-14,March,NPK,Madhya Pradesh,"1,000.000","34,703.400"
+2013-14,March,SSP,Madhya Pradesh,"7,600.000","1,44,501.801"
+2013-14,March,TSP,Madhya Pradesh,0.000,"8,443.850"
+2013-14,March,UREA,Madhya Pradesh,"12,500.000","21,602.450"
+2013-14,March,DAP,Maharastra,"58,600.000","26,412.132"
+2013-14,March,MAP,Maharastra,0.000,0.000
+2013-14,March,MOP,Maharastra,"25,000.000","42,582.882"
+2013-14,March,NPK,Maharastra,"84,300.000","94,771.610"
+2013-14,March,SSP,Maharastra,"91,000.000","19,970.296"
+2013-14,March,TSP,Maharastra,0.000,0.000
+2013-14,March,UREA,Maharastra,"1,60,000.000","47,283.309"
+2013-14,March,DAP,Manipur,500.000,0.000
+2013-14,March,MAP,Manipur,0.000,0.000
+2013-14,March,MOP,Manipur,250.000,0.000
+2013-14,March,NPK,Manipur,0.000,0.000
+2013-14,March,SSP,Manipur,"1,000.000",0.000
+2013-14,March,TSP,Manipur,0.000,0.000
+2013-14,March,UREA,Manipur,"1,500.000",0.000
+2013-14,March,DAP,Megalaya,500.000,100.000
+2013-14,March,MAP,Megalaya,0.000,0.000
+2013-14,March,MOP,Megalaya,200.000,0.000
+2013-14,March,NPK,Megalaya,0.000,0.000
+2013-14,March,SSP,Megalaya,500.000,0.000
+2013-14,March,TSP,Megalaya,0.000,0.000
+2013-14,March,UREA,Megalaya,"1,000.000","1,500.000"
+2013-14,March,DAP,Mizoram,0.000,0.000
+2013-14,March,MAP,Mizoram,0.000,0.000
+2013-14,March,MOP,Mizoram,0.000,0.000
+2013-14,March,NPK,Mizoram,0.000,0.000
+2013-14,March,SSP,Mizoram,200.000,0.000
+2013-14,March,TSP,Mizoram,0.000,0.000
+2013-14,March,UREA,Mizoram,400.000,0.000
+2013-14,March,DAP,Nagaland,100.000,20.000
+2013-14,March,MAP,Nagaland,0.000,0.000
+2013-14,March,MOP,Nagaland,50.000,0.000
+2013-14,March,NPK,Nagaland,50.000,0.000
+2013-14,March,SSP,Nagaland,50.000,0.000
+2013-14,March,TSP,Nagaland,0.000,0.000
+2013-14,March,UREA,Nagaland,100.000,0.000
+2013-14,March,DAP,Odisha,"11,680.000","5,309.600"
+2013-14,March,MAP,Odisha,0.000,0.000
+2013-14,March,MOP,Odisha,"8,460.000","16,652.900"
+2013-14,March,NPK,Odisha,"17,650.000","5,405.850"
+2013-14,March,SSP,Odisha,"14,560.000","1,701.850"
+2013-14,March,TSP,Odisha,0.000,0.000
+2013-14,March,UREA,Odisha,"50,680.000","24,094.000"
+2013-14,March,DAP,Pondicherry,450.000,0.000
+2013-14,March,MAP,Pondicherry,0.000,0.000
+2013-14,March,MOP,Pondicherry,300.000,212.000
+2013-14,March,NPK,Pondicherry,"2,050.000",124.000
+2013-14,March,SSP,Pondicherry,200.000,25.000
+2013-14,March,TSP,Pondicherry,0.000,0.000
+2013-14,March,UREA,Pondicherry,"3,000.000",13.000
+2013-14,March,DAP,Punjab,"10,000.000","25,820.850"
+2013-14,March,MAP,Punjab,0.000,0.000
+2013-14,March,MOP,Punjab,"2,000.000","8,512.550"
+2013-14,March,NPK,Punjab,"2,500.000",704.150
+2013-14,March,SSP,Punjab,"12,000.000","7,583.800"
+2013-14,March,TSP,Punjab,0.000,"3,355.300"
+2013-14,March,UREA,Punjab,"70,000.000","7,252.450"
+2013-14,March,DAP,Rajasthan,"25,800.000","19,287.365"
+2013-14,March,MAP,Rajasthan,0.000,0.000
+2013-14,March,MOP,Rajasthan,"2,000.000","2,833.550"
+2013-14,March,NPK,Rajasthan,"8,860.000","1,608.200"
+2013-14,March,SSP,Rajasthan,"45,000.000","30,345.800"
+2013-14,March,TSP,Rajasthan,0.000,"3,526.250"
+2013-14,March,UREA,Rajasthan,"45,000.000","22,495.250"
+2013-14,March,DAP,Sikkim,0.000,0.000
+2013-14,March,MAP,Sikkim,0.000,0.000
+2013-14,March,MOP,Sikkim,0.000,0.000
+2013-14,March,NPK,Sikkim,0.000,0.000
+2013-14,March,SSP,Sikkim,0.000,0.000
+2013-14,March,TSP,Sikkim,0.000,0.000
+2013-14,March,UREA,Sikkim,0.000,0.000
+2013-14,March,DAP,Tamil Nadu,"11,880.000","13,069.800"
+2013-14,March,MAP,Tamil Nadu,0.000,0.000
+2013-14,March,MOP,Tamil Nadu,"20,730.000","25,291.549"
+2013-14,March,NPK,Tamil Nadu,"35,020.000","36,706.720"
+2013-14,March,SSP,Tamil Nadu,"12,050.000","2,732.350"
+2013-14,March,TSP,Tamil Nadu,0.000,0.000
+2013-14,March,UREA,Tamil Nadu,"44,000.000","4,972.200"
+2013-14,March,DAP,Tripura,0.000,84.250
+2013-14,March,MAP,Tripura,0.000,0.000
+2013-14,March,MOP,Tripura,0.000,0.000
+2013-14,March,NPK,Tripura,0.000,102.250
+2013-14,March,SSP,Tripura,"1,650.000","3,348.000"
+2013-14,March,TSP,Tripura,0.000,0.000
+2013-14,March,UREA,Tripura,"2,650.000",0.000
+2013-14,March,DAP,Uttar Pradesh,"20,000.000","2,61,290.100"
+2013-14,March,MAP,Uttar Pradesh,0.000,0.000
+2013-14,March,MOP,Uttar Pradesh,0.000,"19,245.000"
+2013-14,March,NPK,Uttar Pradesh,"20,000.000","48,372.650"
+2013-14,March,SSP,Uttar Pradesh,"50,000.000","23,252.404"
+2013-14,March,TSP,Uttar Pradesh,0.000,"16,125.250"
+2013-14,March,UREA,Uttar Pradesh,"25,000.000","92,650.350"
+2013-14,March,DAP,Uttaranchal,"1,000.000","1,102.950"
+2013-14,March,MAP,Uttaranchal,0.000,0.000
+2013-14,March,MOP,Uttaranchal,0.000,0.000
+2013-14,March,NPK,Uttaranchal,"1,000.000","3,739.600"
+2013-14,March,SSP,Uttaranchal,0.000,77.000
+2013-14,March,TSP,Uttaranchal,0.000,0.000
+2013-14,March,UREA,Uttaranchal,"7,000.000","1,861.850"
+2013-14,March,DAP,West Bengal,"40,500.000","14,477.615"
+2013-14,March,MAP,West Bengal,0.000,0.000
+2013-14,March,MOP,West Bengal,"36,050.000","24,236.500"
+2013-14,March,NPK,West Bengal,"57,100.000","55,614.980"
+2013-14,March,SSP,West Bengal,"85,600.000","7,907.650"
+2013-14,March,TSP,West Bengal,0.000,"7,377.550"
+2013-14,March,UREA,West Bengal,"1,85,000.000","32,232.058"
